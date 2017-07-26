@@ -1,0 +1,465 @@
+<part xmlns="http://docbook.org/ns/docbook" version="5.1" xml:lang="hu"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="samuentropy_portfolio_bevezetes_hu">
+    <title>Bevezetés</title>
+    <partintro>
+        <para>             
+        </para>
+    </partintro>
+    <chapter>
+        <info>
+            <title>Az e-sport szakosztály bevezetése</title>
+            <keywordset>
+                <keyword></keyword>
+            </keywordset>
+        </info>
+        <para>
+        </para>
+        <section>
+            <title>A szakosztály célja</title>             
+            <para>
+                A szakosztály fő célja az e-sporttal kapcsolatba hozható interdiszciplináris (például informatikai, 
+                társadalomtudományi, oktatási, nevelési, pszichológiai, orvosi, gazdasági vagy akár 
+                mérnöki) tudományos kutatások támogatása.
+            </para>
+            <para>
+                A szakosztály a fő cél megvalósítására az alábbi részcélok megvalósításával törekszik.            
+            </para>   
+            <itemizedlist>
+                <listitem>
+                    <para>
+                        Aktívan versenyző DE polgárokból álló e-sport csapat kiválogatása, összeállítása és lehetőség 
+                        szerinti folyamatos fenntartása.
+                    </para>
+                </listitem>
+                <listitem>
+                    <para>
+                        Lehetőség szerint a versenyző csapat kutatási támogatása (például játékmenet elemzéssel, életmód 
+                        és életvitel legjobb gyakorlatok vázolásával, esetleges játék laborral).
+                    </para>
+                </listitem>
+                <listitem>
+                    <para>
+                        A lehetőség szerint versenyző e-sport csapattal motivációs alap biztosítása és példamutatás a
+                        régióbeli gyerekeknek.
+                    </para>
+                </listitem>
+                <listitem>
+                    <para>
+                        Az e-sport és általában a játszás, illetve a játékok interdiszciplináris kutatásának támogatása 
+                        (akár a versenyzők, az on-line tagok, az edzések vizsgálatával, tehetségkutatási vagy felzárkóztatási módszerek kidolgozásának támogatásával).
+                    </para>
+                </listitem>
+                <listitem>
+                    <para>
+                        E-sport specifikus szervezés, tehetségkutatás és tehetséggondozás támogatása.
+                    </para>
+                </listitem>
+                <listitem>
+                    <para>
+                        Az egészséges életmód és életvitel kialakításának támogatása (különös tekintettel a „játszás” 
+                        terén) minden korosztályban: a gyerekekben, felnőttekben és az idősekben.                        
+                    </para>
+                </listitem>
+                <listitem>
+                    <para>
+                        A játékosok lehetőség szerinti játék specifikus oktatási támogatása, a szülők tájékoztatásának 
+                        támogatása az e-sporttal és az elektronikus játékokkal kapcsolatos jelenségekről. 
+                    </para>
+                </listitem>
+                <listitem>
+                    <para>
+                        Az e-sport, a programozás és lehetőség szerint az open source mozgalom népszerűsítése.                    
+                    </para>
+                </listitem>
+            </itemizedlist>
+        </section>
+        <section>
+            <title>Tagok</title>             
+            <para>
+                A szakosztályhoz tartozni kívánó lehet tag vagy on-line tag. A tagok és az on-line tagok közötti 
+                lényegi különbség, hogy a tag fizet tagdíjat, az on-line tag pedig nem. Minden érdeklődő kezdetben 
+                on-line tagként csatlakozhat a szakosztályhoz az egy éves periódusonként megújítandó amatőr 
+                sportolói szerződés aláírásával.                 
+            </para>
+            <section>
+                <title>On-line tag</title>             
+                <para>
+                    Az on-line tagság a szakosztály életében való részvétel belépési pontja. Biztosítandó, hogy a 
+                    szélesebb érdeklődői bázist a szakosztályba tudjuk integrálni, az on-line tag nem fizet tagdíjat. 
+                    Ez életszerűen felvállalható, hiszen az on-line tagok – mint nevük is erre utal – csak interneten 
+                    keresztül „csatlakoznak”, tipikusan otthonról játszanak.
+                </para>
+                <para>
+                    Az on-line tagnak joga van a vezetőség sportszakmai döntéseiben a virtuális vezető intézményén 
+                    keresztül részt venni (az on-line tagság kezdeményezésére adott sportszakmai kérdésben az on-line
+                    tagság többségi szavazását a virtuális vezető képviseli a vezetőségi többségi szavazáson).                         
+                </para>
+            </section>
+            <section>
+                <title>Tag</title>             
+                <para>
+                    A tag olyan on-line tag, aki tagdíjat fizet. A megfelelő létszámban felgyűlt tagok számára 
+                    rendez a szakosztály edzést, Tipikus használati eset lehet például, hogy egy adott játékot 
+                    nem ismerő játékos adott tanuló periódusban tagként szerepel, majd a megfelelő edzésmunka 
+                    után visszavált on-line tagságra.                    
+                </para>
+            </section>            
+            <section>
+                <title>Versenyző</title>             
+                <para>
+                    A versenyző olyan on-line tag, aki versenyeken képviseli a szakosztályt. Adott versenyekre 
+                    az on-line tagságból a vezetőség sportszakmai döntése alapján állnak elő a versenyzők. 
+                    A versenyző versenyzői feladatait a szakosztály szempontjából társadalmi munkában látja el, 
+                    de lehetőség szerint részesülhet anyagi elismerésben. Ha az infrastrukturális feltételek 
+                    adottak, akkor a versenyzők a felkészülésben és az on-line versenyzésben használhatják a 
+                    versenyzői labort (lásd még a glosszáriumban a Smart City and E-Sport Living Lab pontot).
+                </para>
+            </section>                        
+        </section>
+        <section>
+            <title>Tisztségviselők</title>             
+            <para>
+                Mivel a szakosztály a DEAC-on belül jön létre, így a vezetőség döntési kompetenciája a sportszakmai kérdésekben merül ki. A vezetőség a döntéseket többségi szavazás alapján hozza, a döntések moderátora a szakosztályvezető. További vezetőségi tagok a kutatási, szakmai, informatikai, oktatási és a virtuális vezető. Tipikus sportszakmai kérdések a versenyzők, edzők kiválasztása, lehetőség szerint interdiszciplináris kutatások végzése és hasznosítása az e-sportban.                
+            </para>
+            <section>
+                <title>Szakosztályvezető</title>             
+                <para>
+                    Feladata a szakosztály népszerűsítése, érdekeinek védelme az egyetemi közegben, a vezetőség moderálása, 
+                    lehetőség szerint támogatók keresése. Feladatát a szakosztály szempontjából társadalmi munkában látja el.
+                </para>
+                <para>
+                    Javasolt személy: Dr. habil. Szabó József, szabo.jozsef@arts.unideb.hu, e. adjunktus.                
+                </para>
+            </section>
+            <section>
+                <title>Kutatási vezető</title>             
+                <para>
+                    Feladata a szakosztállyal kapcsolatba hozható interdiszciplináris kutatások lehetőség szerinti integrálása, 
+                    kutatási tervek készítése, hallgatók bevonása a tudományos közlemények (poszter, előadás, konferencia kiadvány, 
+                    folyóirat cikk) publikálásába. Feladatát a szakosztály szempontjából társadalmi munkában látja el.
+                </para>
+                <para>
+                    Javasolt személy: Dr. Bátfai Norbert, batfai.norbert@inf.unideb.hu, e. adjunktus.                
+                </para>
+            </section>
+            <section>
+                <title>Szakmai vezető</title>             
+                <para>
+                    Feladata a koordináció és kapcsolattartás a versenyek szervezőkkel, játékcégekkel, más e-sport szervezetekkel
+                    és szakosztályokkal. Feladatát a szakosztály szempontjából társadalmi munkában látja el.
+                </para>
+                <para>
+                    Javasolt személy: Besenczi Renátó, besenczi.renato@inf.unideb.hu, e. tanársegéd.                    
+                </para>
+            </section>
+            <section>
+                <title>Informatikai vezető</title>             
+                <para>
+                    Feladata az open source elvek lehetőség szerinti érvényesítése, például az on-line  támogató célú dokumentum
+                    formátumoknál, vagy az esetleges oktatási vagy versenyzői labor kialakításánál (például playonlinux). 
+                    Feladatát a szakosztály szempontjából társadalmi munkában látja el.
+                </para>
+                <para>
+                    Javasolt személy: Dr. Jeszenszky Péter, jeszenszky.peter@inf.unideb.hu, e. adjunktus.                   
+                </para>
+            </section>
+            <section>
+                <title>Nevelési vezető</title>             
+                <para>
+                    Feladata a szakosztály oktatási munkájának kontrollja, az edzők és on-line edzők moderálása nevelési aspektusokból.
+                </para>
+                <para>
+                    Javasolt személy: Dr. Buda András, buda.andras@arts.unideb.hu, e. adjunktus.                    
+                </para>
+            </section>
+            <section>
+                <title>Virtuális vezető</title>             
+                <para>
+                    Adott esetben, sportszakmai kérdésben az on-line tagság többségi szavazatának eredménye, amely ezen intézményen 
+                    keresztül egy szavazatként jelenik meg a vezetőség többségi szavazásában.
+                </para>
+            </section>                        
+        </section>
+        <section>
+            <title>Szerepkörök</title>             
+            <para>
+                Az on-line tagok az alábbi szerepekben is megjelenhetnek.
+            </para>
+            <section>
+                <title>Edző</title>             
+                <para>
+                    Amennyiben elegendő tagsági igény gyűlik össze és az infrastruktúra (például egy egyébként az tervezett edzési időpontokban kihasználatlan megfelelő DE hallgatói gépterem) rendelkezésre áll, akkor a vezetőség által kiválasztott edző foglalkozik a tagokkal edzés formájában. Az edző ezért díjazásban részesül. Az edzés célja lehet kezdők adott játékra tanítása, a játék közvetítőinek képzése vagy a versenyzőkkel való célfoglalkozás.
+                </para>
+            </section>
+            <section>
+                <title>On-line edző</title>             
+                <para>
+                    Olyan edző, aki feladatát a szakosztály szempontjából társadalmi munkában látja el, tipikusan on-line formában az interneten keresztül. Lehetőség szerint díjazásban részesülhet. 
+                </para>
+            </section>
+            <section>
+                <title>Programozó</title>             
+                <para>
+                    A programozó részt vesz az e-sporttal kapcsolatos kutatásokat támogató, lehetőség szerinti FOSS<footnote>
+                        <para>
+                            Free and open-source software. Adott esetben megfelelő licencű szoftverben való módosítás is elképzelhető, 
+                            mint ahogyan a https://github.com/nbatfai/SamuEntropy/releases/download/v0.0.1/samuentropy-idea-hu.pdf 
+                            dokumentum felveti a 0 AD játékot, vagy ugyancsak adott esetben az aktuális mesterséges intelligencia 
+                            forradalom és a játékok kölcsönhatási területének ismert játékai is érdekesek lehetnek.                                                                                                                           
+                        </para>
+                    </footnote> szoftverek kutatásába és fejlesztésébe, adott esetben a szakosztály elektronikus létének és életének a támogatásába. Szerepét a szakosztály szempontjából társadalmi munkában látja el. Lehetőség szerint díjazásban részesülhet.
+                </para>
+            </section>
+            <section>
+                <title>Mentor</title>             
+                <para>
+                    A mentor részt vesz az e-sporttal kapcsolatos kutatások és fejlesztések hasznosításában (néhány használati esetet említve: a pszichológus felkészíti, az orvosi életviteli tanácsokkal, a matematikus taktikai vázzal látja el a versenyzőket). Szerepét a szakosztály szempontjából társadalmi munkában látja el. Lehetőség szerint díjazásban részesülhet.
+                </para>
+            </section>
+            <section>
+                <title>Közvetítő</title>             
+                <para>
+                    Lehetőség szerint részt vesz a szakosztály e-sport aktivitásának bemutatásában. Szerepét a szakosztály szempontjából társadalmi munkában látja el. Lehetőség szerint díjazásban részesülhet. 
+                </para>
+            </section>            
+        </section>
+        <section>
+            <title>Induló játékok, szerepkörök és alapító on-line tagok</title>             
+            <para>
+                Adott játékos több játék és szerep alatt is szerepelhet.
+            </para>                
+            <section>
+                <title>League of Legends (LoL)</title>             
+                <para>
+                    Az alapító on-line tag érdeklődőket a következő Versenyző és Játékos pontokban mutatjuk be az alábbi formában:
+                    Név (életkor, DE egyetemi polgár-e), LoL: szint/hősismereti szint rang (régió).
+                </para>
+                <section>
+                    <title>Versenyző</title>             
+                    <para>
+                        Az itt sorolt játékosok motivációja a versenyzés.
+                    </para>
+                    <section>
+                        <title>? csapat</title>             
+                        <para>
+                        </para>
+                        <itemizedlist>
+                            <listitem>
+                                <para>
+                                    Csapatkapitány: Bersenszki Márió (22, hallgató), LoL: 30/175 Platina I (EUNE) adc.
+                                </para>
+                            </listitem>
+                            <listitem>
+                                <para>
+                                    Bencs Dániel (22 , hallgató ), LoL: 30/143 Arany I (EUNE) sup, mid.
+                                </para>
+                            </listitem>
+                            <listitem>
+                                <para>
+                                    Kovács Lajos (22, hallgató), LoL: 30/75 - (EUNE)
+                                </para>
+                            </listitem>
+                            <listitem>
+                                <para>
+                                    Béres Márk (20, hallgató), LoL: 30/323 Arany II (EUNE) top, adc.
+                                </para>
+                            </listitem>
+                            <listitem>
+                                <para>
+                                    Tóth Máté Károly (21, hallgató), LoL: 30/86 Ezüst III (EUNE), mid, top, jg, adc.
+                                </para>
+                            </listitem>
+                        </itemizedlist>
+                    </section>                        
+                    <section>
+                        <title>Destructor csapat</title>             
+                        <para>
+                        </para>
+                        <itemizedlist>
+                            <listitem>
+                                <para>
+                                    Csapatkapitány: Dudás Tamás (, hallgató), LoL: 30/332 Platina I (EUNE) adc, jg, sup.
+                                </para>
+                            </listitem>
+                            <listitem>
+                                <para>
+                                    Csizmadia Szabolcs (19, hallgató), LoL: 30/297 Platina 3 (EUNE) jg, adc.
+                                </para>
+                            </listitem>
+                            <listitem>
+                                <para>
+                                    Stempel Richárd (20, hallgató), LoL: 30/151 Bronz I (EUNE)
+                                </para>
+                            </listitem>
+                            <listitem>
+                                <para>
+                                    Zilizi Gergő (19, hallgató), LoL: 30/50 - (EUNE) mid, jg.
+                                </para>
+                            </listitem>
+                            <listitem>
+                                <para>
+                                    Telegdy Mátyás Bendegúz (19, hallgató), LoL: 30/215 Ezüst V (EUNE) top, jg, sup.
+                                </para>
+                            </listitem>
+                        </itemizedlist>
+                    </section>                        
+                </section>
+                <section>
+                    <title>Játékos, senior</title>             
+                    <para>
+                        Az itt sorolt játékosok motivációja nem a versenyzés, hanem csak a játék.
+                    </para>
+                    <itemizedlist>
+                        <listitem>
+                            <para>
+                                Bátfai Norbert (45, oktató), LoL: 30/48 Bronz III (EUNE)
+                            </para>
+                        </listitem>
+                        <listitem>
+                            <para>
+                                Kakócz Erik (, hallgató), LoL: 30/29 - (EUNE)
+                            </para>
+                        </listitem>
+                    </itemizedlist>
+                </section>
+            </section>
+            <section>
+                <title>Clash of Clans (CoC)</title>             
+                <para>Név (életkor, DE egyetemi polgár-e), CoC: th szint/tapasztalati szint, liga, klán</para> 
+                <itemizedlist>
+                    <listitem>
+                        <para>
+                            Bátfai Norbert (45, oktató), CoC: 11/115, Champion III, Bátfai clan
+                        </para>
+                    </listitem>
+                    <listitem>
+                        <para>
+                            Besenczi Renáto (31, oktató), CoC: 9/73, Crystal II, Bátfai clan
+                        </para>
+                    </listitem>
+                    <listitem>
+                        <para>
+                            Rozsos Péter (19, hallgató), CoC: 8/75, Gold 2, -
+                        </para>
+                    </listitem>
+                    <listitem>
+                        <para>
+                            Kárpáti Tamás (, hallgató), CoC: 4/16, Bronze II, Bátfai clan                                    
+                        </para>           
+                    </listitem>
+                </itemizedlist>
+            </section>
+            <section>
+                <title>Utánpótlás</title>             
+                <para></para>            
+                <section>
+                    <title>U12</title>             
+                    <para>Potenciálisan felmerülő játékok: Minecraft (PEGI 7, 7+).</para>            
+                    <itemizedlist>
+                        <listitem>
+                            <para>
+                                Bátfai Mátyás Bendegúz (11)
+                            </para>
+                        </listitem>
+                        <listitem>
+                            <para>
+                                Bátfai Nándor Benjámin (9)
+                            </para>
+                        </listitem>
+                        <listitem>
+                            <para>
+                                Bátfai Margaréta Niobé (9)                                    
+                            </para>           
+                        </listitem>
+                    </itemizedlist>
+                </section>
+                <section>
+                    <title>U18</title>             
+                    <para>Potenciálisan felmerülő játékok: League of Legends (PEGI 12, 12+), Clash of Clans (PEGI 13, 13+).</para>            
+                    <itemizedlist>
+                        <listitem>
+                            <para>
+                                Szabó Simon Szilveszter (15)
+                            </para>
+                        </listitem>
+                        <listitem>
+                            <para>
+                                Szabó Ádám Kornél (13)                                    
+                            </para>           
+                        </listitem>
+                    </itemizedlist>
+                </section>                
+            </section>
+            <section>
+                <title>Programozó</title>             
+                <para>Minden itt felsorolt tagnak egy játék alá is besoroltnak kell lennie.</para>            
+                <itemizedlist>
+                    <listitem>
+                        <para>
+                            Bátfai Norbert, DE adjunktus, PhD informatika, kitüntetéses programtervező matematikus.
+                        </para>
+                    </listitem>
+                    <listitem>
+                        <para>
+                            Besenczi Renátó, DE tanársegéd, PhD hallgató, okleveles mérnökinformatikus MSc.
+                        </para>
+                    </listitem>
+                    <listitem>
+                        <para>
+                            Kárpáti Tamás, DE gazdaságinformatikus BSc hallgató.
+                        </para>
+                    </listitem>
+                    <listitem>
+                        <para>
+                            Monori Fanny, DE mérnökinformatikus MSc hallgató.
+                        </para>
+                    </listitem>
+                    <listitem>
+                        <para>
+                            Bogacsovics Gergő, DE programtervező informatikus BSc hallgató.
+                        </para>
+                    </listitem>
+                    <listitem>
+                        <para>
+                            Jeszenszky Péter, DE adjunktus, PhD informatika, okleveles programtervező matematikus.
+                        </para>
+                    </listitem>
+                    <listitem>
+                        <para>
+                            Kovács Lajos, DE programtervező informatikus BSc hallgató.                                    
+                        </para>           
+                    </listitem>
+                    <listitem>
+                        <para>
+                            Kakócz Erik, DE programtervező informatikus BSc hallgató.                                    
+                        </para>           
+                    </listitem>
+                </itemizedlist>
+            </section>
+            <section>
+                <title>Mentor</title>             
+                <para></para>            
+                <itemizedlist>
+                    <listitem>
+                        <para>
+                            Bátfai Norbert, DE adjunktus, PhD informatika, kitüntetéses programtervező matematikus.                                    
+                        </para>           
+                    </listitem>
+                </itemizedlist>
+            </section>
+            <section>
+                <title>Közvetítő</title>             
+                <para></para>            
+                <itemizedlist>
+                    <listitem>
+                        <para>
+                            Rozsos Péter, DE programtervező informatikus BSc hallgató.                                    
+                        </para>           
+                    </listitem>
+                </itemizedlist>
+            </section>            
+        </section>
+    </chapter>
+</part>
+    

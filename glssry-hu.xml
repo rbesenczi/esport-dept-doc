@@ -1,0 +1,147 @@
+    <glossary xmlns="http://docbook.org/ns/docbook" version="5.1" xml:lang="hu"
+              xmlns:xlink="http://www.w3.org/1999/xlink"
+              xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Szójegyzék</title>
+    <glossdiv>
+        <title>C</title>
+        <glossentry xml:id="coc">
+            <glossterm>Clash of Clans</glossterm>
+            <abbrev>CoC</abbrev>
+            <glossdef>
+                <para> 
+                    A finn Supercell mobil MMORTS játéka, <link xlink:href="http://supercell.com/en/games/clashofclans/">http://supercell.com/en/games/clashofclans/</link>.
+                    <indexterm>
+                        <primary>Supercell</primary>
+                        <secondary>Clash of Clans</secondary>                        
+                    </indexterm>                                        
+                </para>
+                <glossseealso otherterm="mmorts">MMORTS</glossseealso>                 
+            </glossdef>
+        </glossentry>        
+    </glossdiv>
+    <glossdiv>
+        <title>D</title>
+        <glossentry xml:id="de">
+            <glossterm>Debreceni Egyetem</glossterm>
+            <abbrev>DE</abbrev>
+            <glossdef>
+                <para>A DE a Debreceni Egyetem rövidítése, <link xlink:href="http://www.unideb.hu/">http://www.unideb.hu/</link>.
+                </para>
+            </glossdef>
+        </glossentry>
+        <glossentry xml:id="deepmind">
+            <glossterm>DeepMind</glossterm>
+            <glossdef>
+                <para>A gépi tanulás és az emberi szintű mesterséges intelligencia területén a Google <indexterm>
+                        <primary>Google</primary>
+                        <secondary>DeepMind</secondary>
+                    </indexterm> piacvezető és meghatározó (3 áttörés cikk az emberi szintű intelligenciával kapcsolatban a 
+                    Nature                    
+                    <indexterm>
+                        <primary>Nature folyóirat</primary>
+                    </indexterm>                    
+                    folyóiratban) cége, 
+                    <link xlink:href="https://deepmind.com/">https://deepmind.com/</link>.
+                </para>
+                <glossseealso otherterm="tf">Tensorflow</glossseealso> 
+            </glossdef>
+        </glossentry>
+    </glossdiv>    
+    <glossdiv>
+        <title>E</title>
+        <glossentry xml:id="esport">
+            <glossterm>e-sport</glossterm>
+            <glossdef>
+                <para>
+                    <indexterm>
+                        <primary>e-sport</primary>
+                    </indexterm>
+                    Mára az elektronikus játékok játszása a mindennapi rutin szerves része. Ez nagy közösségszervező erőt képvisel, amelyre ipar és verseny épül, 
+                    összefoglaló névvel illetve ez a jelenségkör az e-sport <citation>ESAMU</citation>, <citation>FABA</citation>.                     
+                </para>    
+            </glossdef>
+        </glossentry>
+    </glossdiv>
+    <glossdiv>
+        <title>M</title>
+        <glossentry xml:id="mmorpg">
+            <glossterm>MMORPG</glossterm>
+            <acronym>Massively Multiplayer On-line Role-Playing Game</acronym>            
+            <glossdef>
+                <para>
+                    Egy tipikus játéktípus: tömeges felhasználói bázisú, online, szerepjátékok.
+                    <indexterm>
+                        <primary>MMORPG</primary>
+                    </indexterm>
+                </para>
+            </glossdef>
+        </glossentry>
+        <glossentry xml:id="mmorts">
+            <glossterm>MMORTS</glossterm>
+            <acronym>Massively Multiplayer On-line Real-Time Strategy Game</acronym>            
+            <glossdef>
+                <para>
+                    Egy tipikus játéktípus: tömeges felhasználói bázisú, online, valós idejű stratégiai játékok.
+                    <indexterm>
+                        <primary>MMORTS</primary>
+                    </indexterm>
+                </para>
+            </glossdef>
+        </glossentry>
+    </glossdiv>
+
+    <glossdiv>
+        <title>R</title>
+        <glossentry xml:id="robotpszicho">
+            <glossterm>Robotpszichológia</glossterm>
+            <glossdef>
+                <para>
+                    <indexterm>
+                        <primary>robotpszichológia</primary>
+                    </indexterm>
+                    Az <link xlink:href="https://en.wikipedia.org/wiki/Robopsychology">Asimovi robotpszichológia</link> programozói szemszögből értelmezett implementálása, lásd  
+                    <link xlink:href="https://github.com/nbatfai/Robopsychology">https://github.com/nbatfai/Robopsychology</link>.
+                </para>
+            </glossdef>
+        </glossentry>
+    </glossdiv>    
+    <glossdiv>
+        <title>T</title>
+        <glossentry xml:id="tf">
+            <glossterm>Tensorflow</glossterm>
+            <glossdef>
+                <para>
+                    <indexterm>
+                        <primary>DeepMind</primary>
+                        <secondary>Tensorflow</secondary> 
+                    </indexterm>                    
+                    A Google heterogén (multinyelves: például Python, C++, multiplatformos: például CPU, GPU, TPU, And, iOS), nyílt forráskódú gépi tanulási 
+                    <link xlink:href="https://www.tensorflow.org/">https://www.tensorflow.org/</link> megoldása.
+                </para>
+                <glossseealso otherterm="deepmind">DeepMind</glossseealso>                 
+            </glossdef>
+        </glossentry>
+    </glossdiv>
+    <glossdiv>
+        <title>U</title>
+        <glossentry xml:id="udprog">
+            <glossterm>The Yearbook of the Programmers of University of Debrecen</glossterm>
+            <abbrev>UDPROG</abbrev>
+            <glossdef>
+                <para>
+                    <indexterm>
+                        <primary>UDPROG</primary>
+                    </indexterm>A Debreceni Egyetem <link xlink:href="http://progpater.blog.hu/2014/05/31/ez_a_prog1_mi_lesz_a">reguláris programozás oktatásához</link> 
+                    (2014-2017)
+                    kapcsolódó,
+                    Facebook-on szervezett
+                    <link xlink:href="https://www.facebook.com/groups/udprog/">fejlesztői közösség</link>,
+                    melynek egyik gyújtópontjában <link xlink:href="http://sourceforge.net/p/udprog/code/ci/master/tree/">szoftverek</link>,
+                    a másikban maga az
+                    <link xlink:href="http://sourceforge.net/projects/udprog/files/?source=navbar">évkönyv</link> áll.
+                </para>
+            </glossdef>
+        </glossentry>
+    </glossdiv>
+</glossary>
+
