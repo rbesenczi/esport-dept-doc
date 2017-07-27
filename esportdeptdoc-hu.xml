@@ -35,7 +35,7 @@
                 </address>
             </author>
         </authorgroup>
-        <edition>DEAC-Hackers, Debrecen, 2017. július. 26, v. hu.0.0.4.0</edition>
+        <edition>DEAC-Hackers, Debrecen, 2017. július. 27, v. hu.0.0.4.1</edition>
         <pubdate>2017</pubdate>
         <copyright>
             <year>2017</year>
@@ -85,7 +85,10 @@
     </info>   
     <dedication>
         <para>
-            &#x201E;Soha nem adjuk fel a harcot!&#x201D; – &#x201E;We never give up the fight.&#x201D;
+            <blockquote>
+                <attribution>Bátfai Norbert, <citation>NEMESPOR BOOK</citation>.</attribution>
+                <para>Én játszok, te játszol, ő játszik, mi játszunk, ti játszotok, ők játszanak.</para>
+            </blockquote>
         </para>
     </dedication>
     <preface>
@@ -113,6 +116,13 @@
         <xi:fallback>
             <para>
                 <emphasis>XInclude: deptintro-hu.xml file not found</emphasis>
+            </para>
+        </xi:fallback>
+    </xi:include>         
+    <xi:include href="members-hu.xml">
+        <xi:fallback>
+            <para>
+                <emphasis>XInclude: members-hu.xml file not found</emphasis>
             </para>
         </xi:fallback>
     </xi:include>         

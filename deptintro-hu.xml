@@ -1,10 +1,16 @@
 <part xmlns="http://docbook.org/ns/docbook" version="5.1" xml:lang="hu"
       xmlns:xlink="http://www.w3.org/1999/xlink"
-      xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="samuentropy_portfolio_bevezetes_hu">
-    <title>Bevezetés</title>
+      xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="deptintro_hu">
+    <title>Bevezetés és forma</title>
     <partintro>
-        <para>             
-        </para>
+        <para>            
+            <blockquote>
+                <attribution>A <indexterm>
+                        <primary>Bátfai klán</primary>
+                    </indexterm>Bátfai klán mottója a CoC-ban.</attribution>
+                <para>&#x201E;Soha nem adjuk fel a harcot!&#x201D; – &#x201E;We never give up the fight.&#x201D;</para>
+            </blockquote>
+        </para>                
     </partintro>
     <chapter>
         <info>
@@ -120,7 +126,11 @@
         <section>
             <title>Tisztségviselők</title>             
             <para>
-                Mivel a szakosztály a DEAC-on belül jön létre, így a vezetőség döntési kompetenciája a sportszakmai kérdésekben merül ki. A vezetőség a döntéseket többségi szavazás alapján hozza, a döntések moderátora a szakosztályvezető. További vezetőségi tagok a kutatási, szakmai, informatikai, oktatási és a virtuális vezető. Tipikus sportszakmai kérdések a versenyzők, edzők kiválasztása, lehetőség szerint interdiszciplináris kutatások végzése és hasznosítása az e-sportban.                
+                Mivel a szakosztály a DEAC-on belül jön létre, így a vezetőség döntési kompetenciája a sportszakmai 
+                kérdésekben merül ki. A vezetőség a döntéseket többségi szavazás alapján hozza, a döntések moderátora 
+                a szakosztályvezető. További vezetőségi tagok a kutatási, szakmai, informatikai, oktatási és a 
+                virtuális vezető. Tipikus sportszakmai kérdések a versenyzők, edzők kiválasztása, lehetőség 
+                szerint interdiszciplináris kutatások végzése és hasznosítása az e-sportban.                
             </para>
             <section>
                 <title>Szakosztályvezető</title>             
@@ -129,7 +139,9 @@
                     lehetőség szerint támogatók keresése. Feladatát a szakosztály szempontjából társadalmi munkában látja el.
                 </para>
                 <para>
-                    Javasolt személy: Dr. habil. Szabó József, szabo.jozsef@arts.unideb.hu, e. docens.                
+                    Javasolt személy: Dr. habil. <indexterm>
+                        <primary>Szabó József</primary>
+                    </indexterm>Szabó József, szabo.jozsef@arts.unideb.hu, e. docens.                
                 </para>
             </section>
             <section>
@@ -140,7 +152,9 @@
                     folyóirat cikk) publikálásába. Feladatát a szakosztály szempontjából társadalmi munkában látja el.
                 </para>
                 <para>
-                    Javasolt személy: Dr. Bátfai Norbert, batfai.norbert@inf.unideb.hu, e. adjunktus.                
+                    Javasolt személy: Dr. <indexterm>
+                        <primary>Bátfai Norbert</primary>
+                    </indexterm>Bátfai Norbert, batfai.norbert@inf.unideb.hu, e. adjunktus.                
                 </para>
             </section>
             <section>
@@ -150,7 +164,9 @@
                     és szakosztályokkal. Feladatát a szakosztály szempontjából társadalmi munkában látja el.
                 </para>
                 <para>
-                    Javasolt személy: Besenczi Renátó, besenczi.renato@inf.unideb.hu, e. tanársegéd.                    
+                    Javasolt személy: <indexterm>
+                        <primary>Besenczi Renátó</primary>
+                    </indexterm>Besenczi Renátó, besenczi.renato@inf.unideb.hu, e. tanársegéd.                    
                 </para>
             </section>
             <section>
@@ -161,7 +177,9 @@
                     Feladatát a szakosztály szempontjából társadalmi munkában látja el.
                 </para>
                 <para>
-                    Javasolt személy: Dr. Jeszenszky Péter, jeszenszky.peter@inf.unideb.hu, e. adjunktus.                   
+                    Javasolt személy: Dr. <indexterm>
+                        <primary>Jeszenszky Péter</primary>
+                    </indexterm>Jeszenszky Péter, jeszenszky.peter@inf.unideb.hu, e. adjunktus.                   
                 </para>
             </section>
             <section>
@@ -170,14 +188,19 @@
                     Feladata a szakosztály oktatási munkájának kontrollja, az edzők és on-line edzők moderálása nevelési aspektusokból.
                 </para>
                 <para>
-                    Javasolt személy: Dr. Buda András, buda.andras@arts.unideb.hu, e. adjunktus.                    
+                    Javasolt személy: Dr. <indexterm>
+                        <primary>Buda András</primary>
+                    </indexterm>Buda András, buda.andras@arts.unideb.hu, e. adjunktus.                    
                 </para>
             </section>
             <section>
                 <title>Virtuális vezető</title>             
                 <para>
                     Adott esetben, sportszakmai kérdésben az on-line tagság többségi szavazatának eredménye, amely ezen intézményen 
-                    keresztül egy szavazatként jelenik meg a vezetőség többségi szavazásában.
+                    keresztül egy szavazatként jelenik meg a vezetőség többségi szavazásában. Az ilyen döntési események lehetőség
+                    szerint közvetítésre kerülnek a <indexterm>
+                        <primary>twitch</primary>
+                    </indexterm>twitch-en.
                 </para>
             </section>                        
         </section>
@@ -204,7 +227,8 @@
                     A programozó részt vesz az e-sporttal kapcsolatos kutatásokat támogató, lehetőség szerinti FOSS<footnote>
                         <para>
                             Free and open-source software. Adott esetben megfelelő licencű szoftverben való módosítás is elképzelhető, 
-                            mint ahogyan a https://github.com/nbatfai/SamuEntropy/releases/download/v0.0.1/samuentropy-idea-hu.pdf 
+                            mint ahogyan a                              
+                            <link xlink:href="https://github.com/nbatfai/SamuEntropy/releases/download/v0.0.1/samuentropy-idea-hu.pdf">https://github.com/nbatfai/SamuEntropy/releases/download/v0.0.1/samuentropy-idea-hu.pdf</link>
                             dokumentum felveti a 0 AD játékot, vagy ugyancsak adott esetben az aktuális mesterséges intelligencia 
                             forradalom és a játékok kölcsönhatási területének ismert játékai is érdekesek lehetnek.                                                                                                                           
                         </para>
@@ -222,242 +246,6 @@
                 <para>
                     Lehetőség szerint részt vesz a szakosztály e-sport aktivitásának bemutatásában. Szerepét a szakosztály szempontjából társadalmi munkában látja el. Lehetőség szerint díjazásban részesülhet. 
                 </para>
-            </section>            
-        </section>
-        <section>
-            <title>Induló játékok, szerepkörök és alapító on-line tagok</title>             
-            <para>
-                Adott játékos több játék és szerep alatt is szerepelhet.
-            </para>                
-            <section>
-                <title>League of Legends (LoL)</title>             
-                <para>
-                    Az alapító on-line tag érdeklődőket a következő Versenyző és Játékos pontokban mutatjuk be az alábbi formában:
-                    Név (életkor, DE egyetemi polgár-e), LoL: szint/hősismereti szint rang (régió).
-                </para>
-                <section>
-                    <title>Versenyző</title>             
-                    <para>
-                        Az itt sorolt játékosok motivációja a versenyzés.
-                    </para>
-                    <section>
-                        <title>? csapat</title>             
-                        <para>
-                        </para>
-                        <itemizedlist>
-                            <listitem>
-                                <para>
-                                    Csapatkapitány: Bersenszki Márió (22, hallgató), LoL: 30/175 Platina I (EUNE) adc.
-                                </para>
-                            </listitem>
-                            <listitem>
-                                <para>
-                                    Bencs Dániel (22 , hallgató ), LoL: 30/143 Arany I (EUNE) sup, mid.
-                                </para>
-                            </listitem>
-                            <listitem>
-                                <para>
-                                    Kovács Lajos (22, hallgató), LoL: 30/75 - (EUNE)
-                                </para>
-                            </listitem>
-                            <listitem>
-                                <para>
-                                    Béres Márk (20, hallgató), LoL: 30/323 Arany II (EUNE) top, adc.
-                                </para>
-                            </listitem>
-                            <listitem>
-                                <para>
-                                    Tóth Máté Károly (21, hallgató), LoL: 30/86 Ezüst III (EUNE), mid, top, jg, adc.
-                                </para>
-                            </listitem>
-                        </itemizedlist>
-                    </section>                        
-                    <section>
-                        <title>Destructor csapat</title>             
-                        <para>
-                        </para>
-                        <itemizedlist>
-                            <listitem>
-                                <para>
-                                    Csapatkapitány: Dudás Tamás (, hallgató), LoL: 30/332 Platina I (EUNE) adc, jg, sup.
-                                </para>
-                            </listitem>
-                            <listitem>
-                                <para>
-                                    Csizmadia Szabolcs (19, hallgató), LoL: 30/297 Platina 3 (EUNE) jg, adc.
-                                </para>
-                            </listitem>
-                            <listitem>
-                                <para>
-                                    Stempel Richárd (20, hallgató), LoL: 30/151 Bronz I (EUNE)
-                                </para>
-                            </listitem>
-                            <listitem>
-                                <para>
-                                    Zilizi Gergő (19, hallgató), LoL: 30/50 - (EUNE) mid, jg.
-                                </para>
-                            </listitem>
-                            <listitem>
-                                <para>
-                                    Telegdy Mátyás Bendegúz (19, hallgató), LoL: 30/215 Ezüst V (EUNE) top, jg, sup.
-                                </para>
-                            </listitem>
-                        </itemizedlist>
-                    </section>                        
-                </section>
-                <section>
-                    <title>Játékos, senior</title>             
-                    <para>
-                        Az itt sorolt játékosok motivációja nem a versenyzés, hanem csak a játék.
-                    </para>
-                    <itemizedlist>
-                        <listitem>
-                            <para>
-                                Bátfai Norbert (45, oktató), LoL: 30/48 Bronz III (EUNE)
-                            </para>
-                        </listitem>
-                        <listitem>
-                            <para>
-                                Kakócz Erik (, hallgató), LoL: 30/29 - (EUNE)
-                            </para>
-                        </listitem>
-                    </itemizedlist>
-                </section>
-            </section>
-            <section>
-                <title>Clash of Clans (CoC)</title>             
-                <para>Név (életkor, DE egyetemi polgár-e), CoC: th szint/tapasztalati szint, liga, klán</para> 
-                <itemizedlist>
-                    <listitem>
-                        <para>
-                            Bátfai Norbert (45, oktató), CoC: 11/115, Champion III, Bátfai clan
-                        </para>
-                    </listitem>
-                    <listitem>
-                        <para>
-                            Besenczi Renáto (31, oktató), CoC: 9/73, Crystal II, Bátfai clan
-                        </para>
-                    </listitem>
-                    <listitem>
-                        <para>
-                            Rozsos Péter (19, hallgató), CoC: 8/75, Gold 2, -
-                        </para>
-                    </listitem>
-                    <listitem>
-                        <para>
-                            Kárpáti Tamás (, hallgató), CoC: 4/16, Bronze II, Bátfai clan                                    
-                        </para>           
-                    </listitem>
-                </itemizedlist>
-            </section>
-            <section>
-                <title>Utánpótlás</title>             
-                <para></para>            
-                <section>
-                    <title>U12</title>             
-                    <para>Potenciálisan felmerülő játékok: Minecraft (PEGI 7, 7+).</para>            
-                    <itemizedlist>
-                        <listitem>
-                            <para>
-                                Bátfai Mátyás Bendegúz (11)
-                            </para>
-                        </listitem>
-                        <listitem>
-                            <para>
-                                Bátfai Nándor Benjámin (9)
-                            </para>
-                        </listitem>
-                        <listitem>
-                            <para>
-                                Bátfai Margaréta Niobé (9)                                    
-                            </para>           
-                        </listitem>
-                    </itemizedlist>
-                </section>
-                <section>
-                    <title>U18</title>             
-                    <para>Potenciálisan felmerülő játékok: League of Legends (PEGI 12, 12+), Clash of Clans (PEGI 13, 13+).</para>            
-                    <itemizedlist>
-                        <listitem>
-                            <para>
-                                Szabó Simon Szilveszter (15)
-                            </para>
-                        </listitem>
-                        <listitem>
-                            <para>
-                                Szabó Ádám Kornél (13)                                    
-                            </para>           
-                        </listitem>
-                    </itemizedlist>
-                </section>                
-            </section>
-            <section>
-                <title>Programozó</title>             
-                <para>Minden itt felsorolt tagnak egy játék alá is besoroltnak kell lennie.</para>            
-                <itemizedlist>
-                    <listitem>
-                        <para>
-                            Bátfai Norbert, DE adjunktus, PhD informatika, kitüntetéses programtervező matematikus.
-                        </para>
-                    </listitem>
-                    <listitem>
-                        <para>
-                            Besenczi Renátó, DE tanársegéd, PhD hallgató, okleveles mérnökinformatikus MSc.
-                        </para>
-                    </listitem>
-                    <listitem>
-                        <para>
-                            Kárpáti Tamás, DE gazdaságinformatikus BSc hallgató.
-                        </para>
-                    </listitem>
-                    <listitem>
-                        <para>
-                            Monori Fanny, DE mérnökinformatikus MSc hallgató.
-                        </para>
-                    </listitem>
-                    <listitem>
-                        <para>
-                            Bogacsovics Gergő, DE programtervező informatikus BSc hallgató.
-                        </para>
-                    </listitem>
-                    <listitem>
-                        <para>
-                            Jeszenszky Péter, DE adjunktus, PhD informatika, okleveles programtervező matematikus.
-                        </para>
-                    </listitem>
-                    <listitem>
-                        <para>
-                            Kovács Lajos, DE programtervező informatikus BSc hallgató.                                    
-                        </para>           
-                    </listitem>
-                    <listitem>
-                        <para>
-                            Kakócz Erik, DE programtervező informatikus BSc hallgató.                                    
-                        </para>           
-                    </listitem>
-                </itemizedlist>
-            </section>
-            <section>
-                <title>Mentor</title>             
-                <para></para>            
-                <itemizedlist>
-                    <listitem>
-                        <para>
-                            Bátfai Norbert, DE adjunktus, PhD informatika, kitüntetéses programtervező matematikus.                                    
-                        </para>           
-                    </listitem>
-                </itemizedlist>
-            </section>
-            <section>
-                <title>Közvetítő</title>             
-                <para></para>            
-                <itemizedlist>
-                    <listitem>
-                        <para>
-                            Rozsos Péter, DE programtervező informatikus BSc hallgató.                                    
-                        </para>           
-                    </listitem>
-                </itemizedlist>
             </section>            
         </section>
     </chapter>

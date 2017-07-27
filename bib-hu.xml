@@ -1,9 +1,31 @@
 <bibliography xmlns="http://docbook.org/ns/docbook" version="5.1" xml:lang="hu"
               xmlns:xlink="http://www.w3.org/1999/xlink"
-              xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="samuentropy_portfolio_bib_hu">
+              xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bib_hu">
     <title>Irodalomjegyzék</title>
     <bibliodiv>
         <title>E-sport</title>
+        <biblioentry>
+            <abbrev>NEMESPOR BOOK</abbrev>
+            <authorgroup>
+                <author>
+                    <personname>
+                        <firstname>Norbert</firstname>
+                        <surname>Bátfai</surname>
+                    </personname>
+                </author>
+            </authorgroup>
+            <title>MAGYAR NEMZETI E-SPORT PORTFÓLIÓ ÉS STRATÉGIA</title>
+            <biblioset relation="journal">
+                <volumenum></volumenum>
+                <pagenums></pagenums>
+            </biblioset>
+            <publisher>
+                <publishername>
+                    <link xlink:href="https://github.com/nbatfai/SamuEntropy/releases/download/nemespor/samuentropy-portfolio-hu.pdf">https://github.com/nbatfai/SamuEntropy/releases/download/nemespor/samuentropy-portfolio-hu.pdf</link>
+                </publishername>
+            </publisher>
+            <pubdate>2017</pubdate>
+        </biblioentry>                
         <biblioentry>
             <abbrev>ESPADM</abbrev>
             <authorgroup>
