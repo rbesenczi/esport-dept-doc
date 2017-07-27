@@ -133,76 +133,109 @@
                 szerint interdiszciplináris kutatások végzése és hasznosítása az e-sportban.                
             </para>
             <section>
-                <title>Szakosztályvezető</title>             
+                <title>Vezetőség</title>             
                 <para>
-                    Feladata a szakosztály népszerűsítése, érdekeinek védelme az egyetemi közegben, a vezetőség moderálása, 
-                    lehetőség szerint támogatók keresése. Feladatát a szakosztály szempontjából társadalmi munkában látja el.
                 </para>
-                <para>
-                    Javasolt személy: Dr. habil. <indexterm>
-                        <primary>Szabó József</primary>
-                    </indexterm>Szabó József, szabo.jozsef@arts.unideb.hu, e. docens.                
-                </para>
-            </section>
-            <section>
-                <title>Kutatási vezető</title>             
-                <para>
-                    Feladata a szakosztállyal kapcsolatba hozható interdiszciplináris kutatások lehetőség szerinti integrálása, 
-                    kutatási tervek készítése, hallgatók bevonása a tudományos közlemények (poszter, előadás, konferencia kiadvány, 
-                    folyóirat cikk) publikálásába. Feladatát a szakosztály szempontjából társadalmi munkában látja el.
-                </para>
-                <para>
-                    Javasolt személy: Dr. <indexterm>
-                        <primary>Bátfai Norbert</primary>
-                    </indexterm>Bátfai Norbert, batfai.norbert@inf.unideb.hu, e. adjunktus.                
-                </para>
-            </section>
-            <section>
-                <title>Szakmai vezető</title>             
-                <para>
-                    Feladata a koordináció és kapcsolattartás a versenyek szervezőkkel, játékcégekkel, más e-sport szervezetekkel
-                    és szakosztályokkal. Feladatát a szakosztály szempontjából társadalmi munkában látja el.
-                </para>
-                <para>
-                    Javasolt személy: <indexterm>
-                        <primary>Besenczi Renátó</primary>
-                    </indexterm>Besenczi Renátó, besenczi.renato@inf.unideb.hu, e. tanársegéd.                    
-                </para>
-            </section>
-            <section>
-                <title>Informatikai vezető</title>             
-                <para>
-                    Feladata az open source elvek lehetőség szerinti érvényesítése, például az on-line  támogató célú dokumentum
-                    formátumoknál, vagy az esetleges oktatási vagy versenyzői labor kialakításánál (például playonlinux). 
-                    Feladatát a szakosztály szempontjából társadalmi munkában látja el.
-                </para>
-                <para>
-                    Javasolt személy: Dr. <indexterm>
-                        <primary>Jeszenszky Péter</primary>
-                    </indexterm>Jeszenszky Péter, jeszenszky.peter@inf.unideb.hu, e. adjunktus.                   
-                </para>
-            </section>
-            <section>
-                <title>Nevelési vezető</title>             
-                <para>
-                    Feladata a szakosztály oktatási munkájának kontrollja, az edzők és on-line edzők moderálása nevelési aspektusokból.
-                </para>
-                <para>
-                    Javasolt személy: Dr. <indexterm>
-                        <primary>Buda András</primary>
-                    </indexterm>Buda András, buda.andras@arts.unideb.hu, e. adjunktus.                    
-                </para>
-            </section>
-            <section>
-                <title>Virtuális vezető</title>             
-                <para>
-                    Adott esetben, sportszakmai kérdésben az on-line tagság többségi szavazatának eredménye, amely ezen intézményen 
-                    keresztül egy szavazatként jelenik meg a vezetőség többségi szavazásában. Az ilyen döntési események lehetőség
-                    szerint közvetítésre kerülnek a <indexterm>
-                        <primary>twitch</primary>
-                    </indexterm>twitch-en.
-                </para>
+                <section>
+                    <title>Szakosztályvezető</title>             
+                    <para>
+                        Feladata a szakosztály népszerűsítése, érdekeinek védelme az egyetemi közegben, a vezetőség moderálása, 
+                        lehetőség szerint támogatók keresése. Feladatát a szakosztály szempontjából társadalmi munkában látja el.
+                    </para>
+                    <para>
+                        Javasolt személy: Dr. habil. <indexterm>
+                            <primary>Szabó József</primary>
+                        </indexterm>Szabó József, szabo.jozsef@arts.unideb.hu, e. docens.                
+                    </para>
+                </section>
+                <section>
+                    <title>Kutatási vezető</title>             
+                    <para>
+                        Feladata a szakosztállyal kapcsolatba hozható interdiszciplináris kutatások lehetőség szerinti integrálása, 
+                        kutatási tervek készítése, hallgatók bevonása a tudományos közlemények (poszter, előadás, konferencia kiadvány, 
+                        folyóirat cikk) publikálásába. Feladatát a szakosztály szempontjából társadalmi munkában látja el.
+                    </para>
+                    <para>
+                        Javasolt személy: Dr. <indexterm>
+                            <primary>Bátfai Norbert</primary>
+                        </indexterm>Bátfai Norbert, batfai.norbert@inf.unideb.hu, e. adjunktus.                
+                    </para>
+                </section>
+                <section>
+                    <title>Szakmai vezető</title>             
+                    <para>
+                        Feladata a koordináció és kapcsolattartás a versenyek szervezőkkel, játékcégekkel, más e-sport szervezetekkel
+                        és szakosztályokkal. Feladatát a szakosztály szempontjából társadalmi munkában látja el.
+                    </para>
+                    <para>
+                        Javasolt személy: <indexterm>
+                            <primary>Besenczi Renátó</primary>
+                        </indexterm>Besenczi Renátó, besenczi.renato@inf.unideb.hu, e. tanársegéd.                    
+                    </para>
+                </section>
+                <section>
+                    <title>Informatikai vezető</title>             
+                    <para>
+                        Feladata az open source elvek lehetőség szerinti érvényesítése, például az on-line  támogató célú dokumentum
+                        formátumoknál, vagy az esetleges oktatási vagy versenyzői labor kialakításánál (például playonlinux). 
+                        Feladatát a szakosztály szempontjából társadalmi munkában látja el.
+                    </para>
+                    <para>
+                        Javasolt személy: Dr. <indexterm>
+                            <primary>Jeszenszky Péter</primary>
+                        </indexterm>Jeszenszky Péter, jeszenszky.peter@inf.unideb.hu, e. adjunktus.                   
+                    </para>
+                </section>
+                <section>
+                    <title>Nevelési vezető</title>             
+                    <para>
+                        Feladata a szakosztály oktatási munkájának kontrollja, az edzők és on-line edzők moderálása nevelési aspektusokból.
+                    </para>
+                    <para>
+                        Javasolt személy: Dr. <indexterm>
+                            <primary>Buda András</primary>
+                        </indexterm>Buda András, buda.andras@arts.unideb.hu, e. adjunktus.                    
+                    </para>
+                </section>
+                <section>
+                    <title>Virtuális vezető</title>             
+                    <para>
+                        Adott esetben, sportszakmai kérdésben az on-line tagság többségi szavazatának eredménye, amely ezen intézményen 
+                        keresztül egy szavazatként jelenik meg a vezetőség többségi szavazásában. Az ilyen döntési események lehetőség
+                        szerint közvetítésre kerülnek a <indexterm>
+                            <primary>twitch</primary>
+                        </indexterm>twitch-en.
+                    </para>
+                </section>
             </section>                        
+            <section>
+                <title>Középezetőség - szakértők</title>             
+                <para>
+                    A középvezetői réteg a vezetőség szakmai vezető tagjának szoros irányítása alatt dolgozik.
+                    Feladata a szakmai vezető játékspecifikus támogatása, az adott játék szakértői ismerete, kapcsolattartás
+                    a játék fórumaival (gyártók, versenyszervezők stb.), a játékkal kapcsolatos esetleges lokális vagy regionális szervezés. 
+                    Feladatukat a szakosztály szempontjából társadalmi munkában látják el. 
+                    Lehetőség szerint díjazásban részesülhetnek. A középvezetői posztok fenntartása vagy újak létesítése vezetőségi hatáskör.
+                </para>
+                <section>
+                    <title>League of Legends szakértő</title>             
+                    <para>
+                        Javasolt személy: .                
+                    </para>
+                </section>
+                <section>
+                    <title>Clash of Clans szakértő</title>             
+                    <para>
+                        Javasolt személy: .                
+                    </para>
+                </section>
+                <section>
+                    <title>Minecraft szakértő</title>             
+                    <para>
+                        Javasolt személy: .                
+                    </para>
+                </section>
+            </section>                                    
         </section>
         <section>
             <title>Szerepkörök</title>             
@@ -238,7 +271,10 @@
             <section>
                 <title>Mentor</title>             
                 <para>
-                    A mentor részt vesz az e-sporttal kapcsolatos kutatások és fejlesztések hasznosításában (néhány használati esetet említve: a pszichológus felkészíti, az orvosi életviteli tanácsokkal, a matematikus taktikai vázzal látja el a versenyzőket). Szerepét a szakosztály szempontjából társadalmi munkában látja el. Lehetőség szerint díjazásban részesülhet.
+                    A mentor részt vesz az e-sporttal kapcsolatos kutatások és fejlesztések hasznosításában 
+                    (néhány használati esetet említve: a pszichológus felkészíti, az orvosi életviteli tanácsokkal, 
+                    a matematikus taktikai vázzal látja el a versenyzőket). Szerepét a szakosztály szempontjából társadalmi munkában látja el. 
+                    Lehetőség szerint díjazásban részesülhet.
                 </para>
             </section>
             <section>
