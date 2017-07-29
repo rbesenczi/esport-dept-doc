@@ -177,7 +177,32 @@
                     </listitem>
                 </itemizedlist>
             </section>
-            
+            <section>
+                <title>CS:GO</title>             
+                <para>Név (életkor, DE egyetemi polgár-e), MMR</para> 
+                <itemizedlist>
+                    <listitem>
+                        <para>
+                            Török Attila (20, hallgató), mm rank: globál, faceit szint: 9.
+                        </para>
+                    </listitem>
+                    <listitem>
+                        <para>
+                            Bence Novák (20, hallgató), mm rank: globál, faceit level: 9.
+                        </para>
+                    </listitem>
+                    <listitem>
+                        <para>
+                            Kornél Czentye (20, hallgató), mm rank: globál, faceit level: 7.
+                        </para>
+                    </listitem>
+                    <listitem>
+                        <para>
+                            Varga Péter (23, nem), mm rank: globál, faceit rank: 7.
+                        </para>           
+                    </listitem>
+                </itemizedlist>
+            </section>            
             <section>
                 <title>Utánpótlás</title>             
                 <para></para>            

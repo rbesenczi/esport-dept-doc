@@ -298,10 +298,20 @@
         </section>
         <section>
             <title>A szakosztály működése</title>             
-            <para>
-                Induláskor a vezetőséget és a középvezetőséget a jelen dokumentum rögzíti. Egy év elteltével, majd két évenként a vezetőség választja meg
-                a középvezetőséget. Két év elteltével, majd két évente a középvezetőség választja meg a vezetőséget. 
-            </para>
+            <section>
+                <title>A vezetőség és a középvezetőség választása</title>                         
+                <para>
+                    Induláskor a vezetőséget és a középvezetőséget a jelen dokumentum rögzíti. Egy év elteltével, majd két évenként a vezetőség választja meg
+                    a középvezetőséget. Két év elteltével, majd két évente a középvezetőség választja meg a vezetőséget. 
+                </para>
+            </section>        
+            <section>
+                <title>Motivációs és munkaterv</title>                         
+                <para>
+                    A középvezetőség választása többségi szavazásán alapul. A vezetőség választása hasonlóan, de ennek alapja a potenciális vezetőségek 
+                    aktuálisan elkészített motivációs és munkaterve. Az induláskori motivációs és munkatervet a jelen dokumentum rögzíti. 
+                </para>
+            </section>        
         </section>        
     </chapter>
 </part>
