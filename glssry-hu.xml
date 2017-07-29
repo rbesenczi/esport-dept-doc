@@ -9,11 +9,13 @@
             <abbrev>CoC</abbrev>
             <glossdef>
                 <para> 
-                    A finn Supercell mobil MMORTS játéka, <link xlink:href="http://supercell.com/en/games/clashofclans/">http://supercell.com/en/games/clashofclans/</link>.
+                    A finn Supercell mobil MMORTS játéka, 
+                    <link xlink:href="http://supercell.com/en/games/clashofclans/">http://supercell.com/en/games/clashofclans/</link>.
                     <indexterm>
                         <primary>Supercell</primary>
                         <secondary>Clash of Clans</secondary>                        
-                    </indexterm>                                        
+                    </indexterm>                                  
+                    A Clash of Clans a Supercell Oy bejegyzett védjegye.      
                 </para>
                 <glossseealso otherterm="mmorts">MMORTS</glossseealso>                 
             </glossdef>
@@ -63,6 +65,24 @@
         </glossentry>
     </glossdiv>
     <glossdiv>
+        <title>L</title>
+        <glossentry xml:id="lol">
+            <glossterm>League of Legends</glossterm>
+            <abbrev>LoL</abbrev>
+            <glossdef>
+                <para> 
+                    A Riot Games MOBA játéka, 
+                    <link xlink:href="http://www.leagueoflegends.com/">http://www.leagueoflegends.com/</link>.
+                    <indexterm>
+                        <primary>Riot</primary>
+                        <secondary>LoL</secondary>                        
+                    </indexterm>                                  
+                    A League of Legends a Riot Games Inc. bejegyzett védjegye.      
+                </para>            
+            </glossdef>
+        </glossentry>
+    </glossdiv>
+    <glossdiv>
         <title>M</title>
         <glossentry xml:id="mmorpg">
             <glossterm>MMORPG</glossterm>
@@ -89,7 +109,6 @@
             </glossdef>
         </glossentry>
     </glossdiv>
-
     <glossdiv>
         <title>R</title>
         <glossentry xml:id="robotpszicho">
@@ -104,7 +123,25 @@
                 </para>
             </glossdef>
         </glossentry>
-    </glossdiv>    
+    </glossdiv>
+    <glossdiv>
+        <title>S</title>
+        <glossentry xml:id="sc2">
+            <glossterm>Starcraft</glossterm>
+            <abbrev>SC</abbrev>
+            <glossdef>
+                <para> 
+                    A Blizzard Entertainment RTS játéka, 
+                    <link xlink:href="http://us.battle.net/sc2/en/">http://us.battle.net/sc2/en/</link>.
+                    <indexterm>
+                        <primary>Blizzard</primary>
+                        <secondary>Starcraft</secondary>                        
+                    </indexterm>                                  
+                    A Starcraft a Blizzard Entertainment Inc. bejegyzett védjegye.      
+                </para>            
+            </glossdef>
+        </glossentry>
+    </glossdiv>        
     <glossdiv>
         <title>T</title>
         <glossentry xml:id="tf">
