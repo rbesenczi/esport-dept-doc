@@ -24,7 +24,14 @@
         <section>
             <title>A szakosztály célja</title>             
             <para>
-                A szakosztály fő célja az e-sporttal kapcsolatba hozható interdiszciplináris (például informatikai, 
+                A szakosztály fő célja az e-sporttal kapcsolatba hozható interdiszciplináris<footnote>
+                    <para>
+                        Az e-sporttal kapcsolatba hozható interdiszciplináris kutatási célokat vezet be például a 
+                        <link xlink:href="https://github.com/nbatfai/SamuEntropy/releases/download/nemespor/samuentropy-portfolio-hu.pdf">https://github.com/nbatfai/SamuEntropy/releases/download/nemespor/samuentropy-portfolio-hu.pdf</link>
+                        dokumentum.    
+                    </para>
+                </footnote>
+                (például informatikai, 
                 társadalomtudományi, oktatási, nevelési, pszichológiai, orvosi, gazdasági vagy akár 
                 mérnöki) tudományos kutatások támogatása.
             </para>
@@ -106,7 +113,7 @@
                 <title>Tag</title>             
                 <para>
                     A tag olyan on-line tag, aki tagdíjat fizet. A megfelelő létszámban felgyűlt tagok számára 
-                    rendez a szakosztály edzést, Tipikus használati eset lehet például, hogy egy adott játékot 
+                    rendez a szakosztály edzést. Tipikus használati eset lehet például, hogy egy adott játékot 
                     nem ismerő játékos adott tanuló periódusban tagként szerepel, majd a megfelelő edzésmunka 
                     után visszavált on-line tagságra.                    
                 </para>
@@ -247,6 +254,18 @@
                         Javasolt személy: .                
                     </para>
                 </section>
+                <section>
+                    <title>CS:GO szakértő</title>             
+                    <para>
+                        Török Attila, , programtervező informatikus BSc hallgató.                
+                    </para>
+                </section>
+                <section>
+                    <title>UP szakértő</title>             
+                    <para>
+                        Javasolt személy: .                
+                    </para>
+                </section>                
             </section>                                    
         </section>
         <section>

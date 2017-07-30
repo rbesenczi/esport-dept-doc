@@ -35,7 +35,7 @@
                 </address>
             </author>
         </authorgroup>
-        <edition>DEAC-Hackers, Debrecen, 2017. július. 29, v. hu.0.0.7.1</edition>
+        <edition>DEAC-Hackers, Debrecen, 2017. július. 29, v. hu.0.0.7.7</edition>
         <pubdate>2017</pubdate>
         <copyright>
             <year>2017</year>
@@ -67,6 +67,13 @@
             <para>
                 <link xlink:href="http://gnu.hu/fdl.html">http://gnu.hu/fdl.html</link>                
             </para>
+            <tip>
+                <title>GNU FDL</title>
+            <para>
+                A GNU FDL szabad licenc választását az indokolja, hogy a remélhetőleg itt kidolgozott
+                jó gyakorlatot mintaként más egyetemi közegben alapítandó e-sport szakosztályok fel tudják használni.
+            </para>
+            </tip>            
         </legalnotice>            
         <revhistory>
             <revision>

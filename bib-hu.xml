@@ -93,12 +93,13 @@
             </authorgroup>
             <title>Az e-sport és a robotpszichológia közös jövője</title>
             <biblioset relation="journal">
-                <volumenum></volumenum>
-                <pagenums></pagenums>
+                <volumenum>XVI</volumenum>
+                <issuenum>4</issuenum>                
+                <pagenums>26-39</pagenums>
             </biblioset>
             <publisher>
                 <publishername>
-                    Közlésre elfogadott kézirat
+                    Információs Társadalom, <link xlink:href="http://informaciostarsadalom.infonia.hu/index.php/inftars/article/view/33/i_tarsadalom_2016_4_2_batfai_et_al">http://informaciostarsadalom.infonia.hu/index.php/inftars/article/view/33/i_tarsadalom_2016_4_2_batfai_et_al</link>
                 </publishername>
             </publisher>
             <pubdate>2016</pubdate>
@@ -272,15 +273,17 @@
             </authorgroup>
             <title>Robopsychology manifesto: Samu in his prenatal development</title>
             <biblioset relation="journal">
-                <volumenum></volumenum>
-                <pagenums></pagenums>
+                <volumenum>10</volumenum>
+                <issuenum>1</issuenum>                                
+                <pagenums>3-12</pagenums>
             </biblioset>
             <publisher>
                 <publishername>
-                    Beküldött kézirat
+                    CARPATHIAN JOURNAL OF ELECTRONIC AND COMPUTER ENGINEERING,
+                    <link xlink:href="http://cjece.ubm.ro/vol/10-2017/1705.02-10101.pdf">http://cjece.ubm.ro/vol/10-2017/1705.02-10101.pdf</link>
                 </publishername>
             </publisher>
-            <pubdate>2016</pubdate>
+            <pubdate>2017</pubdate>
         </biblioentry>        
         <biblioentry>
             <abbrev>BRAINBENCHMARKING</abbrev>
