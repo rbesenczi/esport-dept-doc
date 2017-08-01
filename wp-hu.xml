@@ -16,100 +16,200 @@
         <para>
         </para>
         <section>
-            <title>A szakosztály szervezése</title>             
-            <itemizedlist>
-                <listitem>
-                    <para>
-                        Iniciálisan az UDPROG közösségre támaszkodva a lehető legtöbb játék vonatkozásában on-line tagok toborzása.
-                    </para> 
-                </listitem>
-                <listitem>
-                    <para>
-                        Az IK HÖK támogatásával további on-line tagok toborzása.
-                    </para> 
-                </listitem>
-            </itemizedlist>
+            <title>2017/2018-as szezon</title>                         
+            <section>
+                <title>A szakosztály szervezése</title>             
+                <itemizedlist>
+                    <listitem>
+                        <para>
+                            Iniciálisan az UDPROG közösségre támaszkodva a lehető legtöbb játék vonatkozásában on-line tagok toborzása.
+                        </para> 
+                    </listitem>
+                    <listitem>
+                        <para>
+                            Az IK HÖK támogatásával további on-line tagok toborzása.
+                        </para> 
+                    </listitem>
+                </itemizedlist>
+            </section>
+            <section>
+                <title>E-sport versenyzés</title>       
+                <itemizedlist>
+                    <listitem>      
+                        <para>
+                            A szakosztály szervezésében előálló on-line tagságból lehetőség szerint versenyző csapatok összeállítása.
+                        </para>
+                    </listitem>
+                    <listitem>
+                        <para>
+                            Az EFOP 3.6.1 pályázatbeli Smart City és E-Sport Living Lab-ban versenyzői laborként támogatni a DEAC-Hackers LoL csapatait. 
+                        </para>    
+                    </listitem>
+                    <listitem>        
+                        <para>
+                            A szakosztályon belüli játék tornák kialakítása. 
+                        </para>  
+                    </listitem>
+                    <listitem>          
+                        <para>
+                            Helyi helyszíni játék torna kialakítása. 
+                        </para>   
+                    </listitem>
+                    <listitem>         
+                        <para>
+                            Regionális helyszíni játék torna kialakítása. 
+                        </para>       
+                    </listitem>
+                    <listitem>     
+                        <para>
+                            Részvétel helyi vagy regionális egyéb helyszíni játék tornákon. 
+                        </para>   
+                    </listitem>
+                    <listitem>     
+                        <para>
+                            Részvétel országos tornákon.
+                        </para>   
+                    </listitem>
+                    <listitem>         
+                        <para>
+                            Részvétel on-line játék tornákon.
+                        </para>     
+                    </listitem>
+                    <listitem>       
+                        <para>
+                            Részvétel on-line nemzetközi játék tornákon.
+                        </para>    
+                    </listitem>
+                </itemizedlist>                     
+            </section>              
+            <section>
+                <title>Kutatás, fejlesztés és innováció</title> 
+                <itemizedlist>
+                    <listitem>            
+                        <para>
+                            Az e-sport tehetségkutatást támogató <citation>BRAINBENCHMARKING</citation> szoftvere tesztelésének megszervezése a szakosztályban. 
+                        </para>
+                    </listitem>
+                    <listitem>
+                        <para>
+                            Az EFOP 3.6.1 pályázatbeli Smart City és E-Sport Living Lab kutatási támogatása E-sport vonatkozásban. 
+                        </para>
+                    </listitem>
+                    <listitem>
+                        <para>
+                            Az Országos Neveléstudományi Konferencián bemutatni a DEAC-Hackers szakosztályt. 
+                        </para>             
+                    </listitem>
+                </itemizedlist>
+            </section>              
+            <section>
+                <title>Nevelés, oktatás és életmód</title>             
+                <para>
+                    A szakosztály U12 és U18 életének beindítása.
+                </para>
+            </section>                      
+            <section>
+                <title>Informatikai kultúra</title>             
+                <para>
+                    A Linuxon történő játék támogatása know-how-al.
+                </para>
+            </section>                      
         </section>
         <section>
-            <title>E-sport versenyzés</title>       
-            <itemizedlist>
-                <listitem>      
-                    <para>
-                        A szakosztály szervezésében előálló on-line tagságból lehetőség szerint versenyző csapatok összeállítása.
-                    </para>
-                </listitem>
-                <listitem>
-                    <para>
-                        Az EFOP 3.6.1 pályázatbeli Smart City és E-Sport Living Lab-ban versenyzői laborként támogatni a DEAC-Hackers LoL csapatait. 
-                    </para>    
-                </listitem>
-                <listitem>        
-                    <para>
-                        A szakosztályon belüli játék tornák kialakítása. 
-                    </para>  
-                </listitem>
-                <listitem>          
-                    <para>
-                        Helyi helyszíni játék torna kialakítása. 
-                    </para>   
-                </listitem>
-                <listitem>         
-                    <para>
-                        Regionális helyszíni játék torna kialakítása. 
-                    </para>       
-                </listitem>
-                <listitem>     
-                    <para>
-                        Részvétel helyi vagy regionális egyéb helyszíni játék tornákon. 
-                    </para>   
-                </listitem>
-                <listitem>     
-                    <para>
-                        Részvétel országos tornákon.
-                    </para>   
-                </listitem>
-                <listitem>         
-                    <para>
-                        Részvétel on-line játék tornákon.
-                    </para>     
-                </listitem>
-                <listitem>       
-                    <para>
-                        Részvétel on-line nemzetközi játék tornákon.
-                    </para>    
-                </listitem>
-            </itemizedlist>                     
-        </section>              
-        <section>
-            <title>Kutatás, fejlesztés és innováció</title> 
-            <itemizedlist>
-                <listitem>            
-                    <para>
-                        Az e-sport tehetségkutatást támogató <citation>BRAINBENCHMARKING</citation> szoftvere tesztelésének megszervezése a szakosztályban. 
-                    </para>
-                </listitem>
-                <listitem>
-                    <para>
-                        Az EFOP 3.6.1 pályázatbeli Smart City és E-Sport Living Lab kutatási támogatása E-sport vonatkozásban. 
-                    </para>
-                </listitem>
-                <listitem>
-                    <para>
-                        Az Országos Neveléstudományi Konferencián bemutatni a DEAC-Hackers szakosztályt. 
-                    </para>             
-                </listitem>
-            </itemizedlist>
-        </section>              
-        <section>
-            <title>Nevelés, oktatás és életmód</title>             
-            <para>
-            </para>
-        </section>                      
-        <section>
-            <title>Informatikai kultúra</title>             
-            <para>
-            </para>
-        </section>                      
+            <title>2018/2019-es szezon</title>                         
+            <section>
+                <title>A szakosztály szervezése</title>             
+                <itemizedlist>
+                    <listitem>
+                        <para>
+                            Az első év eredményeire építve további on-line tagok toborzása.
+                        </para> 
+                    </listitem>
+                    <listitem>
+                        <para>
+                            A versenyzéssel kapcsolatos eredmények áttekintése, korrekciók.
+                        </para> 
+                    </listitem>
+                    <listitem>
+                        <para>
+                            A középvezetői munka értékelése, középvezetői tisztújítás.
+                        </para> 
+                    </listitem>                    
+                    <listitem>
+                        <para>
+                            Az EFOP 3.6.1 pályázatbeli Smart City és E-Sport Living Lab-beli versenyzői labor nyílt nap keretébeni bemutatása (páldául
+                            Kutatók éjszakája, Lányok napja).
+                        </para>    
+                    </listitem>                    
+                </itemizedlist>
+            </section>
+            <section>
+                <title>E-sport versenyzés</title>       
+                <itemizedlist>
+                    <listitem>      
+                        <para>
+                            Az első év tapasztalatai alapján előzetes versenynaptár összeállítása a szezon elején.
+                        </para>
+                    </listitem>
+                    <listitem>
+                        <para>
+                            Az EFOP 3.6.1 pályázatbeli Smart City és E-Sport Living Lab-ban versenyzői laborként támogatni a DEAC-Hackers LoL csapatait. 
+                        </para>    
+                    </listitem>
+                    <listitem>        
+                        <para>
+                            Az első év tapasztalatai alapján a szakosztályon belüli, helyszíni, regionális saját játék tornák értékelése, korrekciók. 
+                        </para>  
+                    </listitem>
+                    <listitem>     
+                        <para>
+                            Részvétel helyi vagy regionális egyéb helyszíni játék tornákon. 
+                        </para>   
+                    </listitem>
+                    <listitem>     
+                        <para>
+                            Részvétel országos tornákon.
+                        </para>   
+                    </listitem>
+                    <listitem>         
+                        <para>
+                            Részvétel on-line játék tornákon.
+                        </para>     
+                    </listitem>
+                    <listitem>       
+                        <para>
+                            Részvétel on-line nemzetközi játék tornákon.
+                        </para>    
+                    </listitem>
+                </itemizedlist>                     
+            </section>              
+            <section>
+                <title>Kutatás, fejlesztés és innováció</title> 
+                <itemizedlist>
+                    <listitem>            
+                        <para>
+                            Az e-sport tehetséggondozás felé kiterjeszteni az első év tehetségkutatási programját.
+                        </para>
+                    </listitem>
+                    <listitem>
+                        <para>
+                            Az EFOP 3.6.1 pályázatbeli Smart City és E-Sport Living Lab további kutatási támogatása E-sport vonatkozásban. 
+                        </para>
+                    </listitem>
+                </itemizedlist>
+            </section>              
+            <section>
+                <title>Nevelés, oktatás és életmód</title>             
+                <para>
+                    Az idősebb korosztályok szakosztályba vonásának megvizsgálása. 
+                </para>
+            </section>                      
+            <section>
+                <title>Informatikai kultúra</title>             
+                <para>
+                </para>
+            </section>                      
+        </section>
     </chapter>
 </part>
     
