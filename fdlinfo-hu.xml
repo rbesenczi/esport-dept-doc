@@ -1,0 +1,90 @@
+    <info xmlns="http://docbook.org/ns/docbook" version="5.1" xml:lang="hu"
+          xmlns:xlink="http://www.w3.org/1999/xlink"
+          xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>DEAC-Hackers</title>
+    <subtitle>e-sport szakosztály alapító dokumentum</subtitle>
+    <titleabbrev>DHACK</titleabbrev>
+    <authorgroup>
+        <author>
+            <personname>
+                <honorific>Dr.</honorific>
+                <surname>Bátfai</surname>
+                <firstname>Norbert</firstname>        
+            </personname>    
+            <affiliation>
+                <shortaffil>E. adjunktus, DE.</shortaffil>
+                <jobtitle>Egyetemi adjunktus</jobtitle>
+                <orgname>Debreceni Egyetem</orgname>
+                <orgdiv>Információtechnológiai Tanszék</orgdiv>
+                <address>
+                    <email>batfai.norbert@inf.unideb.hu</email>
+                    <email>nbatfai@gmail.com</email>
+                </address>
+            </affiliation>
+            <address>
+                <street>Kassai út 26.</street>
+                <city>Debrecen</city>
+                <postcode>4028</postcode>
+                <country>Magyarország</country>
+                <email>batfai.norbert@inf.unideb.hu</email>
+                <otheraddr>
+                    <link xlink:href="http://www.inf.unideb.hu/~nbatfai">http://www.inf.unideb.hu/~nbatfai</link>
+                </otheraddr>
+            </address>
+        </author>
+    </authorgroup>        
+    <edition>DEAC-Hackers, Debrecen, 2017. augusztus. 8, v. hu.fdl.0.1.0.4</edition>
+    <pubdate>2017</pubdate>
+    <copyright>
+        <year>2017</year>
+        <holder>Dr. Bátfai Norbert</holder>
+    </copyright>
+    <legalnotice>
+        <para>DEAC-Hackers e-sport szakosztály alapító dokumentum
+        </para>
+        <para>                
+            Copyright (C) 2017, Norbert Bátfai. Ph.D., batfai.norbert@inf.unideb.hu, nbatfai@gmail.com, 
+        </para>
+        <para>
+            Permission is granted to copy, distribute and/or modify this document
+            under the terms of the GNU Free Documentation License, Version 1.3
+            or any later version published by the Free Software Foundation;
+            with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+            A copy of the license is included in the section entitled "GNU
+            Free Documentation License".                
+        </para>
+        <para>
+            <link xlink:href="https://www.gnu.org/licenses/fdl.html">https://www.gnu.org/licenses/fdl.html</link>                
+        </para>
+            
+        <para>
+            Engedélyt adunk Önnek a jelen dokumentum sokszorosítására, terjesztésére és/vagy módosítására 
+            a Free Software Foundation által kiadott GNU FDL 1.3-as, vagy bármely azt követő verziójának 
+            feltételei alapján. Nincs Nem Változtatható szakasz, nincs Címlapszöveg, nincs Hátlapszöveg.                
+        </para>
+        <para>
+            <link xlink:href="http://gnu.hu/fdl.html">http://gnu.hu/fdl.html</link>                
+        </para>
+        <tip>
+            <title>GNU FDL és CC BY 4.0 duál licenc</title>
+            <para>
+                A duál licencelés választását az indokolja, hogy a remélhetőleg itt kidolgozott
+                jó gyakorlatot mintaként más egyetemi közegben alapítandó e-sport szakosztályok is fel tudják használni.
+            </para>
+        </tip>        
+    </legalnotice>            
+    <revhistory>
+        <revision>
+            <revnumber>hu0.0.4.0</revnumber>
+            <date>2017-07-26</date>
+            <authorinitials>nbatfai</authorinitials>
+            <revremark>
+                Iniciális dokumentum.                     
+                A dokumentum további fejlesztése innentől közösségi alapon történik: 
+                <link xlink:href="https://github.com/nbatfai/esport-dept-doc">https://github.com/nbatfai/esport-dept-doc</link>,
+                verziótörténet tekintetében lásd az ottani ChangeLog-ot. Az érdeklődő közösség szervezése:
+                <link xlink:href="https://groups.google.com/forum/#!forum/nemespor">https://groups.google.com/forum/#!forum/nemespor</link>, csatlakozz!                 
+            </revremark>
+        </revision>
+    </revhistory>
+</info>   

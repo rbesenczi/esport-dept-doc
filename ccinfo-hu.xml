@@ -1,0 +1,82 @@
+    <info xmlns="http://docbook.org/ns/docbook" version="5.1" xml:lang="hu"
+          xmlns:xlink="http://www.w3.org/1999/xlink"
+          xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>DEAC-Hackers</title>
+    <subtitle>e-sport szakosztály alapító dokumentum</subtitle>
+    <titleabbrev>DHACK</titleabbrev>
+    <authorgroup>
+        <author>
+            <personname>
+                <honorific>Dr.</honorific>
+                <surname>Bátfai</surname>
+                <firstname>Norbert</firstname>        
+            </personname>    
+            <affiliation>
+                <shortaffil>E. adjunktus, DE.</shortaffil>
+                <jobtitle>Egyetemi adjunktus</jobtitle>
+                <orgname>Debreceni Egyetem</orgname>
+                <orgdiv>Információtechnológiai Tanszék</orgdiv>
+                <address>
+                    <email>batfai.norbert@inf.unideb.hu</email>
+                    <email>nbatfai@gmail.com</email>
+                </address>
+            </affiliation>
+            <address>
+                <street>Kassai út 26.</street>
+                <city>Debrecen</city>
+                <postcode>4028</postcode>
+                <country>Magyarország</country>
+                <email>batfai.norbert@inf.unideb.hu</email>
+                <otheraddr>
+                    <link xlink:href="http://www.inf.unideb.hu/~nbatfai">http://www.inf.unideb.hu/~nbatfai</link>
+                </otheraddr>
+            </address>
+        </author>
+    </authorgroup>        
+    <edition>DEAC-Hackers, Debrecen, 2017. augusztus. 8, v. hu.cc.0.1.0.4</edition>
+    <pubdate>2017</pubdate>
+    <copyright>
+        <year>2017</year>
+        <holder>Dr. Bátfai Norbert</holder>
+    </copyright>
+    <legalnotice>
+        <para>DEAC-Hackers e-sport szakosztály alapító dokumentum
+        </para>
+        <para>                
+            Copyright (C) 2017, Norbert Bátfai. Ph.D., batfai.norbert@inf.unideb.hu, nbatfai@gmail.com, 
+        </para>
+        <para>
+            This work is licensed under a Creative Commons Attribution 4.0 International License.
+        </para>
+        <para>
+            <link xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</link>                
+        </para>            
+        <para>
+            Ez a mű a Creative Commons Nevezd meg! 4.0 Nemzetközi Licenc feltételeinek megfelelően felhasználható.                
+        </para>
+        <para>
+            <link xlink:href="https://creativecommons.org/licenses/by/4.0/deed.hu">https://creativecommons.org/licenses/by/4.0/deed.hu</link>                
+        </para>
+        <tip>
+            <title>GNU FDL és CC BY 4.0 duál licenc</title>
+            <para>
+                A duál licencelés választását az indokolja, hogy a remélhetőleg itt kidolgozott
+                jó gyakorlatot mintaként más egyetemi közegben alapítandó e-sport szakosztályok is fel tudják használni.
+            </para>
+        </tip>            
+    </legalnotice>            
+    <revhistory>
+        <revision>
+            <revnumber>hu0.0.4.0</revnumber>
+            <date>2017-07-26</date>
+            <authorinitials>nbatfai</authorinitials>
+            <revremark>
+                Iniciális dokumentum.                     
+                A dokumentum további fejlesztése innentől közösségi alapon történik: 
+                <link xlink:href="https://github.com/nbatfai/esport-dept-doc">https://github.com/nbatfai/esport-dept-doc</link>,
+                verziótörténet tekintetében lásd az ottani ChangeLog-ot. Az érdeklődő közösség szervezése:
+                <link xlink:href="https://groups.google.com/forum/#!forum/nemespor">https://groups.google.com/forum/#!forum/nemespor</link>, csatlakozz!                 
+            </revremark>
+        </revision>
+    </revhistory>
+</info>   

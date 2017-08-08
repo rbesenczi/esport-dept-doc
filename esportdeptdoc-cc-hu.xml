@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns="http://docbook.org/ns/docbook" version="5.1" xml:lang="hu"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xi="http://www.w3.org/2001/XInclude">    
+    <xi:include href="ccinfo-hu.xml">
+        <xi:fallback>
+            <para>
+                <emphasis>XInclude: ccinfo-hu.xml file not found</emphasis>
+            </para>
+        </xi:fallback>
+    </xi:include>         
+    <dedication>
+        <para>
+            <blockquote>
+                <attribution>Bátfai Norbert, <citation>NEMESPOR BOOK</citation>.</attribution>
+                <para>Én játszok, te játszol, ő játszik, mi játszunk, ti játszotok, ők játszanak.</para>
+            </blockquote>
+        </para>
+    </dedication>
+    <preface>
+        <title>Előszó</title>
+        <para>
+            A dokumentum célja jó gyakorlat kidolgozása újszerű, könnyen fenntartható e-sport orientált sportszervezet létrehozására. 
+        </para>            
+        <para>
+            Az e-sport szakosztály létrehozásának motivációja az egyetemi sportélet, az egyetemi kutatás és az elektronikus sportok 
+            közötti kapcsolatok kiépítésének támogatása, illetve a terület határainak feszegetése, például a nyílt forráskódú 
+            programozás szellemi sportként való értelmezésének felvetésével. A jelen dokumentum hivatása azon vágyunk szervezeti 
+            keretekbe rögzítése, hogy a motivációinkban osztozó érdeklődőket minél nagyobb számban szervezhessük egy újszerű, de 
+            mégis sport hagyományainkon kinyíló, könnyen fenntartható, akár önszervező jelleget is felmutatni képes struktúrába, 
+            jelesül éppen a DEAC-Hackers e-sport szakosztályba.           
+        </para>
+    </preface>    
+    <xi:include href="glssry-hu.xml">
+        <xi:fallback>
+            <para>
+                <emphasis>XInclude: glssry-hu.xml file not found</emphasis>
+            </para>
+        </xi:fallback>
+    </xi:include>         
+    <xi:include href="deptintro-hu.xml">
+        <xi:fallback>
+            <para>
+                <emphasis>XInclude: deptintro-hu.xml file not found</emphasis>
+            </para>
+        </xi:fallback>
+    </xi:include>         
+    <xi:include href="members-hu.xml">
+        <xi:fallback>
+            <para>
+                <emphasis>XInclude: members-hu.xml file not found</emphasis>
+            </para>
+        </xi:fallback>
+    </xi:include>         
+    <xi:include href="wp-hu.xml">
+        <xi:fallback>
+            <para>
+                <emphasis>XInclude: members-hu.xml file not found</emphasis>
+            </para>
+        </xi:fallback>
+    </xi:include>         
+    <xi:include href="bib-hu.xml">
+        <xi:fallback>
+            <para>
+                <emphasis>XInclude: bib-hu.xml file not found</emphasis>
+            </para>
+        </xi:fallback>
+    </xi:include>         
+    <acknowledgements>
+        <para>
+            Köszönet illeti a
+            NEMESPOR, <link xlink:href="https://groups.google.com/forum/#!forum/nemespor">https://groups.google.com/forum/#!forum/nemespor</link>, 
+            levelezési lista és az UDPROG  szakmai csoport
+            tagjait inspiráló érdeklődésükért és hasznos észrevételeikért.
+        </para>          
+    </acknowledgements>
+</book>

@@ -132,9 +132,41 @@
                             </listitem>
                         </itemizedlist>
                     </section>                        
+                    <section>
+                        <title> csapat</title>             
+                        <para>
+                        </para>
+                        <itemizedlist>
+                            <listitem>
+                                <para>
+                                    Csapatkapitány: Bagi Péter (27, nem), LoL: 30/258 Arany I (EUNE) fill.
+                                </para>
+                            </listitem>
+                            <listitem>
+                                <para>
+                                    Bagi Mátyás (24, igen), LoL: 30/344 Platina II (EUNE) fill.
+                                </para>
+                            </listitem>
+                            <listitem>
+                                <para>
+                                    Szabó Ádám (24, nem), LoL: 30/356 Platina II (EUNE) adc,sup,mid,jng.
+                                </para>
+                            </listitem>
+                            <listitem>
+                                <para>
+                                    Mészáros Sándor (22, igen), LoL: 30/98 Gold V - (EUNE) jng,sup.
+                                </para>
+                            </listitem>
+                            <listitem>
+                                <para>
+                                    Csákó Bence (24, igen), LoL: 30/223 Platina II (EUNE) mid,top.                                    
+                                </para>
+                            </listitem>
+                        </itemizedlist>
+                    </section>                                            
                 </section>
                 <section>
-                    <title>Játékos, senior, tartalék</title>             
+                    <title>&#x201E;Csak játékos&#x201D;, senior, általános tartalék</title>             
                     <para>
                         Az itt sorolt játékosok motivációja nem a versenyzés, hanem csak a játék.
                     </para>
@@ -210,6 +242,11 @@
                     <listitem>
                         <para>
                             Kornel Filep (, hallgató), MMR:                            
+                        </para>           
+                    </listitem>
+                    <listitem>
+                        <para>
+                            Szalontai Jordán (, hallgató), MMR:                            
                         </para>           
                     </listitem>
                 </itemizedlist>
