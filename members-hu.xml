@@ -149,12 +149,12 @@
                             </listitem>
                             <listitem>
                                 <para>
-                                    Szabó Ádám (24, nem), LoL: 30/356 Platina II (EUNE) adc,sup,mid,jng.
+                                    Szabó Ádám (24, nem), LoL: 30/356 Platina II (EUNE) adc, sup, mid, jng.
                                 </para>
                             </listitem>
                             <listitem>
                                 <para>
-                                    Mészáros Sándor (22, igen), LoL: 30/98 Gold V - (EUNE) jng,sup.
+                                    Mészáros Sándor (22, igen), LoL: 30/98 Gold V - (EUNE) jng, sup.
                                 </para>
                             </listitem>
                             <listitem>
@@ -162,8 +162,41 @@
                                     Csákó Bence (24, igen), LoL: 30/223 Platina II (EUNE) mid,top.                                    
                                 </para>
                             </listitem>
+                        </itemizedlist>                       
+                    </section>         
+                    <section>
+                        <title>Kiricarry csapat</title>             
+                        <para>
+                            Edző: Jármi László (24), laci.jarmi@gmail.com, DE GTK kereskedelmi marketing BSc hallgató.
+                        </para>
+                        <itemizedlist>
+                            <listitem>
+                                <para>
+                                    Csapatkapitány: Antal Asztrik (19, hallgató), LoL: 30/268 Gyémánt I (EUNE) adc.
+                                </para>
+                            </listitem>
+                            <listitem>
+                                <para>
+                                    Paszerbovics Roland (20, hallgató), LoL: 30/273 Gyémánt III (EUNE) top.
+                                </para>
+                            </listitem>
+                            <listitem>
+                                <para>
+                                    Kelemen Viktor (20, hallgató), LoL: 30/263 Gyémánt I (s6 Kihívó) (EUNE) jg.
+                                </para>
+                            </listitem>
+                            <listitem>
+                                <para>
+                                    Netri Zsolt (18, hallgató), LoL: 30/235 Platina I (EUNE) mid.
+                                </para>
+                            </listitem>
+                            <listitem>
+                                <para>
+                                    Czevár István (20, hallgató), LoL: 30/291 Gyémánt V (EUNE) sup.
+                                </para>
+                            </listitem>
                         </itemizedlist>
-                    </section>                                            
+                    </section>                                                                               
                 </section>
                 <section>
                     <title>&#x201E;Csak játékos&#x201D;, senior, általános tartalék</title>             
@@ -173,7 +206,7 @@
                     <itemizedlist>
                         <listitem>
                             <para>
-                                Bátfai Norbert (45, oktató), LoL: 30/48 Bronz III (EUNE)
+                                Bátfai Norbert (45, oktató), LoL: 30/62 Bronz IV (EUNE)
                             </para>
                         </listitem>
                         <listitem>
@@ -183,7 +216,12 @@
                         </listitem>
                         <listitem>
                             <para>
-                                Monori Fanny (, hallgató), LoL: -/- - (-)
+                                Monori Fanny (, hallgató), LoL: 8/10 - (EUNE)
+                            </para>
+                        </listitem>
+                        <listitem>
+                            <para>
+                                Besenczi Renáto (31, oktató), LoL: 4/- - (EUNE)
                             </para>
                         </listitem>
                     </itemizedlist>
@@ -195,7 +233,7 @@
                 <itemizedlist>
                     <listitem>
                         <para>
-                            Bátfai Norbert (45, oktató), CoC: 11/116, Champion III, Bátfai clan
+                            Bátfai Norbert (45, oktató), CoC: 11/118, Champion III, Bátfai clan
                         </para>
                     </listitem>
                     <listitem>
@@ -421,6 +459,17 @@
                     </listitem>
                 </itemizedlist>
             </section>
+            <section>
+                <title>Edző</title>             
+                <para></para>            
+                <itemizedlist>
+                    <listitem>
+                        <para>
+                            Jármi László (24), laci.jarmi@gmail.com, DE GTK kereskedelmi marketing BSc hallgató.
+                        </para>           
+                    </listitem>
+                </itemizedlist>
+            </section>            
             <section>
                 <title>Mentor</title>             
                 <para></para>            
