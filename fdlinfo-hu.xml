@@ -1,9 +1,9 @@
     <info xmlns="http://docbook.org/ns/docbook" version="5.1" xml:lang="hu"
           xmlns:xlink="http://www.w3.org/1999/xlink"
           xmlns:xi="http://www.w3.org/2001/XInclude">
-    <title>DEAC-Hackers</title>
+    <title>$SPORTEGYESÜLET-Hackers</title>
     <subtitle>e-sport szakosztály alapító dokumentum</subtitle>
-    <titleabbrev>DHACK</titleabbrev>
+    <titleabbrev>HACK</titleabbrev>
     <authorgroup>
         <author>
             <personname>
@@ -33,14 +33,14 @@
             </address>
         </author>
     </authorgroup>        
-    <edition>DEAC-Hackers, Debrecen, 2017. augusztus. 23, v. hu.fdl.0.1.0.17</edition>
+    <edition>$SPORTEGYESÜLET-Hackers, Debrecen, 2017. szeptember. 7, v. hu.fdl.0.1.0.18</edition>
     <pubdate>2017</pubdate>
     <copyright>
         <year>2017</year>
         <holder>Dr. Bátfai Norbert</holder>
     </copyright>
     <legalnotice>
-        <para>DEAC-Hackers e-sport szakosztály alapító dokumentum
+        <para>$SPORTEGYESÜLET-Hackers e-sport szakosztály alapító dokumentum
         </para>
         <para>                
             Copyright (C) 2017, Norbert Bátfai. Ph.D., batfai.norbert@inf.unideb.hu, nbatfai@gmail.com, 
