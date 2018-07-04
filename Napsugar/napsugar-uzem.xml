@@ -1,0 +1,134 @@
+<part xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xi="http://www.w3.org/2001/XInclude" version="5.0" xml:lang="hu">
+    <title>Üzemeltetési keretek</title>
+    <partintro>
+        <para> 
+        </para>
+    </partintro>
+    <chapter>
+        <info>
+            <title>A napi üzem megtervezése</title>
+            <keywordset>
+                <keyword/>
+            </keywordset>
+        </info>
+
+        <section>
+            <title>Humánerőforrás gazdálkodás</title>
+            <para>
+                Mihálydeák Tamás, Ispány Márton
+            </para> 
+            <section>
+                <title>Szervezett, szervezeti részvétel</title>
+                <para>
+                    
+                    Bátfai Norbert, Ispány Márton
+                </para> 
+            </section>
+            <section>
+                <title>Önkéntes részvétel</title>
+                <para>
+                    Bátfai Norbert
+                </para> 
+            </section>                
+        </section>
+        <section>
+            <title>Rendszeradminisztráció és felügyelet</title>
+            <para>
+                Bátfai Norbert
+            </para> 
+        </section>
+        <section>
+            <title>Szoftver műhely koncepció</title>
+            <para>
+                Egyetemi spinoffok potenciális támogatása, Bátfai Norbert.
+            </para> 
+        </section>
+        <section>
+            <title>Streamer műhely koncepció</title>
+            <para>
+                Besenczi Renátó, Veres Dávid.
+            </para> 
+        </section>
+            
+        <section>
+            <title>Beágyazottság és közönségkapcsolatok</title>
+            <para>
+                Bátfai Norbert
+            </para> 
+        </section>
+            
+        <section>
+            <title>Használati esetek</title>
+            <para>
+                Elképzelni/kitalálni a jelölt szerzőnként egy konkrét (szerzőnként különböző) használati esetet, hogy mit 
+                csinálna személy szerint a létesítményben és röviden, fél, egy oldalban részletezni, 
+                Jármi László, 
+                Szabó Bálint, 
+                Molnár Zsolt, 
+                Vinnai Tamás, 
+                Rozsos Péter, 
+                Dudás Tamás István, 
+                Veres Dávid, 
+                Bogacsovics Gergő, 
+                Paszerbovics Roland.
+            </para> 
+        </section>            
+            
+        <section>
+            <title>Esetleges bevételek</title>
+            <para>
+            </para> 
+            <section>
+                <title>Szponzoráció</title>
+                <para>
+                    Besenczi Renátó.
+                </para> 
+            </section>
+            <section>
+                <title>Saját oktatási csatorna</title>
+                <para>
+                    OpenCourseWare?, Bátfai Norbert.
+                </para> 
+            </section>
+            <section>
+                <title>Táboroztatás</title>
+                <para>
+                    Esport és programozás, a téli és nyári szünetekre ütemezve, Bátfai Norbert.
+                </para> 
+            </section>
+            <section>
+                <title>Tehetséggondozás</title>
+                <para>
+                    Programozás, Bátfai Norbert.
+                </para> 
+            </section>
+            <section>
+                <title>Szervezett foglalkozás</title>
+                <para>
+                    Például fizetős tagdíj megosztása a DEH és a DEIK között, Bátfai Norbert.
+                </para> 
+                                        
+                <section>
+                    <title>Bootcamp</title>
+                    <para>
+                        Besenczi Renátó.
+                    </para>
+                </section>
+                <section>
+                    <title>Felnőttképzés</title>
+                    <para>
+                        Ispány Márton.
+                    </para>
+                </section>
+                <section>
+                    <title>65+ felettiek bevonása</title>
+                    <para>
+                        Ispány Márton.
+                    </para>
+                </section>
+                    
+            </section>
+
+        </section>
+    </chapter>                
+</part>         

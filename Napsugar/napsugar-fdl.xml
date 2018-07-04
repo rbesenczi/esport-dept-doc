@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xi="http://www.w3.org/2001/XInclude" version="5.0" xml:lang="hu">    
+    
+    <xi:include href="napsugar-fdlinfo.xml">
+        <xi:fallback>
+            <para>
+                <emphasis>XInclude: napsugar-fdlinfo.xml file not found</emphasis>
+            </para>
+        </xi:fallback>
+    </xi:include>     
+        
+    <dedication>
+        <para>
+            Mottó
+        </para>
+    </dedication>
+    
+    <xi:include href="napsugar-pre.xml">
+        <xi:fallback>
+            <para>
+                <emphasis>XInclude: napsugar-pre.xml file not found</emphasis>
+            </para>
+        </xi:fallback>
+    </xi:include> 
+ 
+    <xi:include href="napsugar-glossary.xml">
+        <xi:fallback>
+            <para>
+                <emphasis>XInclude: napsugar-glossary.xml file not found</emphasis>
+            </para>
+        </xi:fallback>
+    </xi:include> 
+
+    <xi:include href="napsugar-intro.xml">
+        <xi:fallback>
+            <para>
+                <emphasis>XInclude: napsugar-glossary.xml file not found</emphasis>
+            </para>
+        </xi:fallback>
+    </xi:include> 
+
+    <xi:include href="napsugar-szervezet.xml">
+        <xi:fallback>
+            <para>
+                <emphasis>XInclude: napsugar-szervezet.xml file not found</emphasis>
+            </para>
+        </xi:fallback>
+    </xi:include> 
+
+    <xi:include href="napsugar-infrastrukt.xml">
+        <xi:fallback>
+            <para>
+                <emphasis>XInclude: napsugar-infrastrukt.xml file not found</emphasis>
+            </para>
+        </xi:fallback>
+    </xi:include> 
+                                                                                                                                                                  
+                                                                                                                                                                  
+    <xi:include href="napsugar-intezmeny.xml">
+        <xi:fallback>
+            <para>
+                <emphasis>XInclude: napsugar-intezmeny.xml file not found</emphasis>
+            </para>
+        </xi:fallback>
+    </xi:include> 
+                                                                                                                                                                  
+                                                                                                                                                                  
+    <xi:include href="napsugar-uzem.xml">
+        <xi:fallback>
+            <para>
+                <emphasis>XInclude: napsugar-uzem.xml file not found</emphasis>
+            </para>
+        </xi:fallback>
+    </xi:include>                                                                                                                                                                                                                                                                               
+                                                                                                            
+                                                                                                                                                                                                                                                                                                                 
+
+    <part>
+        <title>Mellékletek</title>
+        <partintro>
+            <para> 
+            </para>
+        </partintro>
+        <chapter>
+            <info>
+                <title>Korábbi és kapcsolódó dokumentumok</title>
+                <keywordset>
+                    <keyword/>
+                </keywordset>
+            </info>
+
+            <section>
+                <title>A DEAC-Hackers alapító és működési dokumentuma</title>
+                <para>
+                </para> 
+
+            </section>
+            <section>
+                <title>A DEAC-Hackers Esport Almanach</title>
+                <para>
+                </para> 
+
+            </section>
+        </chapter>                
+    </part>         
+                                                                                          
+    <xi:include href="napsugar-bib.xml">
+        <xi:fallback>
+            <para>
+                <emphasis>XInclude: napsugar-bib.xml file not found</emphasis>
+            </para>
+        </xi:fallback>
+    </xi:include>     
+          
+    <xi:include href="napsugar-ack.xml">
+        <xi:fallback>
+            <para>
+                <emphasis>XInclude: napsugar-ack.xml file not found</emphasis>
+            </para>
+        </xi:fallback>
+    </xi:include>     
+
+</book>

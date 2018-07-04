@@ -1,0 +1,42 @@
+<part xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xi="http://www.w3.org/2001/XInclude" version="5.0" xml:lang="hu">
+    <title>Bevezetés</title>
+    <partintro>
+        <para> 
+        </para>
+    </partintro>
+    <chapter>
+        <info>
+            <title>Vízió</title>
+            <keywordset>
+                <keyword/>
+            </keywordset>
+        </info>
+
+        <section>
+            <title>Vezetői összefoglaló</title>
+            <para>
+                Bátfai Norbert
+            </para> 
+        </section>
+        <section>
+            <title>Jövőképek és utópiák</title>
+            <para>
+                Mesterséges intelligencia és informatikai trendekbe illesztés. Bátfai Norbert, Ispány Márton.
+            </para> 
+        </section>
+        <section>
+            <title>Küldetésnyilatkozat</title>
+            <para>
+                Esport, Bátfai Norbert. Reguláris oktatás, Mihálydeák Tamás. Kutatás, Ispány Márton.
+            </para> 
+        </section>
+        <section>
+            <title>Kockázatelemzés és kezelés</title>
+            <para>
+                Beágyazottság, Bátfai Norbert. Esport játékok és szponzorációs megfelelések,
+                Besenczi Renátó. A dokumentum és a későbbi ügymenet (esetleges fejlesztések) 
+                licencelése, GDPR kérdések, Jeszenszky Péter.
+            </para> 
+        </section>
+    </chapter>                
+</part>  

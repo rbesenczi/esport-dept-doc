@@ -1,0 +1,54 @@
+<part xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xi="http://www.w3.org/2001/XInclude" version="5.0" xml:lang="hu">
+    <title>Szervezeti keretek</title>
+    <partintro>
+        <para> 
+        </para>
+    </partintro>
+    <chapter>
+        <info>
+            <title>A DEAC-Hackers és DEIK kapcsolatának szabályozása</title>
+            <keywordset>
+                <keyword/>
+            </keywordset>
+        </info>
+
+        <section>
+            <title>DEIK szándéknyilatkozat</title>
+            <para>
+                Mihálydeák Tamás
+            </para> 
+        </section>
+            
+        <section>
+            <title>A DEAC-Hackers alapító dokumentumának módosítása</title>
+            <para>
+                A tagsági osztályok és a tervezett létesítményhasználat tekintetében (például több létesítményjogosultsággal rendelkezzenek 
+                a fizető tagok, az ilyen potenciális jogosultságok összegyűjtése, esetleges tagdíj megosztás a DEH és a DEIK között) Bátfai Norbert.
+            </para>                 
+            <section>
+                <title>A DEAC-Hackers vezetési struktúra bővítése</title>
+                <para>
+                    Egy további vezetőségi tag pozíció bevezetése, akit a DEIK delegál és ennek megfelelően a kari érdekek érvényesítésén dolgozhat a DEH vezetőségben. Bátfai Norbert.
+                </para> 
+            </section>
+                
+        </section>
+            
+        <section>
+            <title>A DEIK döntési kompetenciái</title>
+            <para>
+                A Nagyerdei Stadionbeli helyet érintő kérdésekben. Mihálydeák Tamás, Ispány Márton.
+            </para> 
+        </section>
+
+        <section>
+            <title>A DEAC-Hackers döntési kompetenciái</title>
+            <para>
+                Sportszakmai kérdésekben. A DEAC-Hackers szintű kutatási és fejlesztési kérdésekben
+                (nem, vagy nem a DEIK által támogatott K+F tevékenység). Bátfai Norbert.
+            </para> 
+        </section>
+                        
+            
+    </chapter>                
+</part>         

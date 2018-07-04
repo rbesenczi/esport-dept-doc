@@ -1,0 +1,111 @@
+<revhistory xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xi="http://www.w3.org/2001/XInclude" version="5.0" xml:lang="hu">
+    <revision>
+        <revnumber>0.0.1</revnumber>
+        <date>2018-07-02</date>
+        <authorinitials>nbatfai</authorinitials>
+        <revremark>
+            Iniciális dokumentum: a Mihálydeák Tamás DEIK dékánnal történő egyeztetés után, 
+            alapvetően egy bő tartalomjegyzék és tematizált feladatlista a kidolgozó potenciális 
+            (előzetesen nem egyeztetett) társszerzők hozzárendelésével. 
+            A dokumentum célja a DE kancellár számára szakmai tanulmányként felajánlani. Ha az iniciális bő
+            tartalomjegyzék támogatást kap, akkor kifejlesztési ideje rövid határidős, 10 nap. 
+            Ez a korábban megszerzett
+            tapasztalatainkra építve vállalható.
+            A 10 napba beleértve az átnézési fázist is, mely ugyancsak 
+            vállalható, ennek tekintetében lásd a kockázatok alatt az átnézők korai bevonását, a dokumentum fejlődésének folyamatos nyomon követhetőségét 
+            (GitHub tároló).  A jelen kiinduló dokumentum DocBook XML váza a NEMESPOR dokumentum DocBook XML vázából (lásd a 
+            https://github.com/nbatfai/SamuEntropy GitHub repóban)
+            indul ki, a tárgyszó és irodalomjegyzék részek átvételével. Cím, alcím munkaverzió javaslatok: A Tudás Templomának Arénája, 
+            esetleg rövidebben a Tudás Aréna,
+            A DEAC-Hackers és az Informatikai Kar stratégiai és operatív együttműködése a Nagyerdei Stadionban.
+        </revremark>
+    </revision>
+    <revision>
+        <revnumber>0.0.2</revnumber>
+        <date>2018-07-03</date>
+        <authorinitials>nbatfai</authorinitials>
+        <revremark>
+            Tervezett felkérendő társszerzők:
+
+
+            Dr. habil. Mihálydeák Tamás, e. docens, IK dékán,
+            Dr. habil. Ispány Márton, e. docens, IT tanszékvezető,
+            Dr. habil. Szabó József, e. docens, DEH szakosztályvezető, 
+            Dr. Bátfai Norbert, e. adjunktus, DEH kutatási vezető,
+            Besenczi Renátó, e. tanársegéd, DEH szakmai vezető,
+            Dr. Jeszenszky Péter, e. adjunktus, DEH informatikai vezető,
+            Jármi László, League of Legends szakértő, GTK hallgató,
+            Szabó Bálint, Rainbow Six Siege szakértő, IK hallgató, 
+            Molnár Zsolt, Clash Royale szakértő, 
+            Vinnai Tamás, FIFA szakértő hallgató, GTK hallgató,
+            Rozsos Péter, StarCraft szakértő IK hallgató,
+            Dudás Tamás István, IK hallgató,
+            Veres Dávid, IK hallgató,
+            Bogacsovics Gergő, IK hallgató,
+            Paszerbovics Roland, IK hallgató.                    
+        </revremark>
+    </revision>
+    <revision>
+        <revnumber>0.0.2.1</revnumber>
+        <date>2018-07-03</date>
+        <authorinitials>nbatfai</authorinitials>
+        <revremark>
+            Tervezett felkérendő átnézők, rövid véleményezők:
+
+            Dr. Buda András, e. adjunktus, DEH nevelési vezető,
+            Kovács Marianna, DEAC,
+            Kárpáti Tamás, HÖK,
+            Komzsik János, 
+            Fábián István, 
+            Szabella Olivér, TF hallgató, 
+            Török Attila, Kosda Bence, Bosznai Zoltán, Bodnár Péter, Magyar Tamás, Tóth László Szilárd, Kovács Imre.                    
+        </revremark>
+    </revision>
+    <revision>
+        <revnumber>0.0.3</revnumber>
+        <date>2018-07-03</date>
+        <authorinitials>nbatfai</authorinitials>
+        <revremark>
+            Mihálydeák Tamásnak előzetesen elküldve pdf formában, cél a dokumentum tartalmi feladatainak
+            szóbeli átbeszélése a Bács Zoltán kancellár, Mihálydeák Tamás dékán és Bátfai Norbert a jelen tervezett dokumentum
+            tervezett szerkesztője körében.
+        </revremark>
+    </revision>
+    <revision>
+        <revnumber>0.0.4</revnumber>
+        <date>2018-07-03</date>
+        <authorinitials>nbatfai</authorinitials>
+        <revremark>
+            Az előző bejegyzés megbeszélésén megkapta a dokumentum a zöld utat! Javítások, 
+            a feladat és társszerző hozzárendelések finomítása.
+            Munkacím cseréje, alcím módosítása.
+        </revremark>
+    </revision>
+    <revision>
+        <revnumber>0.0.5</revnumber>
+        <date>2018-07-03</date>
+        <authorinitials>nbatfai</authorinitials>
+        <revremark>
+            Jeszenszky Péterrel egyeztetve a dokumentum licencének beállítása (GNU FDL és CC BY 4.0) ez most az FDL változat a 
+            GitHub repóba már majd mindkettő.
+        </revremark>
+    </revision>
+    <revision>
+        <revnumber>0.0.6</revnumber>
+        <date>2018-07-03</date>
+        <authorinitials>nbatfai</authorinitials>
+        <revremark>
+            A dokumentum pdf formátumban mellékelve a társszerzői és az átnézői, véleményezői felkérésekhez.
+        </revremark>
+    </revision>
+    <revision>
+        <revnumber>0.0.7</revnumber>
+        <date>2018-07-04</date>
+        <authorinitials>nbatfai</authorinitials>
+        <revremark>
+            A tagnap induló fejlesztés kódneve, hagyományaink szerint a tegnapi névnap: Napsugár. Duál licencelésnek megfelelő modularizálás, ehhez
+            a DocBook alapnál áttértem az esport-dept-doc gyakorlatára. Feladatok további finomítása. Források fejlesztése innentől a GitHub repóban:
+            https://github.com/nbatfai/esport-dept-doc (lásd ott a napsugar alatt). 
+        </revremark>
+    </revision>
+</revhistory>

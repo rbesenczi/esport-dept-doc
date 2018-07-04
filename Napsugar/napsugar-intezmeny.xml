@@ -1,0 +1,273 @@
+<part xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xi="http://www.w3.org/2001/XInclude" version="5.0" xml:lang="hu">
+    <title>Intézményi keretek</title>
+    <partintro>
+        <para> 
+        </para>
+    </partintro>
+    <chapter>
+        <info>
+            <title>A létesítmény tartalmi megtöltése</title>
+            <keywordset>
+                <keyword/>
+            </keywordset>
+        </info>
+
+        <section>
+            <title>Funkcionális követelmények</title>
+            <para>
+                Bátfai Norbert
+            </para> 
+        </section>
+            
+        <section>
+            <title>Versenykörnyezet</title>
+            <para>
+                Besenczi Renátó
+            </para> 
+        </section>            
+            
+        <section>
+            <title>IT infrastruktúra</title>
+            <para>
+                Besenczi Renátó
+            </para> 
+                
+                
+                
+            <section>
+                <title>Játékspecifikus szakterületi követelmények</title>
+                <para>
+                    Azt leírni, hogy mire kell figyelni, ha offline vagy online versenyt akarunk adott játékban rendezni, Renátó megmutatja
+                    a példát a CoC kapcsán. Pár kisebb-nagyobb, hazai-nemzetközi versenyt hozni példának, Besenczi Renátó.
+                </para> 
+                
+                <section>
+                    <title>LoL</title>
+                    <para>
+                        Besenczi Renátóval egyeztetve Jármi László.
+                    </para>
+                </section>
+
+                <section>
+                    <title>R6S</title>
+                    <para>
+                        Besenczi Renátóval egyeztetve Szabó Bálint.
+                    </para>
+                </section>
+
+                <section>
+                    <title>CoC</title>
+                    <para>
+                        Besenczi Renátó.
+                    </para>
+                </section>
+            
+                <section>
+                    <title>CR</title>
+                    <para>
+                        Besenczi Renátóval egyeztetve Molnár Zsolt.
+                    </para>
+                </section>
+
+                <section>
+                    <title>FIFA</title>
+                    <para>
+                        Besenczi Renátóval egyeztetve Vinnai Tamás.
+                    </para>
+                </section>
+                            
+                <section>
+                    <title>SC</title>
+                    <para>
+                        Rozsos Péter egyeztetve Vinnai Tamás.
+                    </para>
+                </section>
+
+                <section>
+                    <title>CS</title>
+                    <para>
+                        Besenczi Renátó.
+                    </para>
+                </section>
+                                                                                    
+                <section>
+                    <title>PUBG</title>
+                    <para>
+                        Besenczi Renátó.
+                    </para>
+                </section>
+
+                <section>
+                    <title>DOTA</title>
+                    <para>
+                        Besenczi Renátó.
+                    </para>
+                </section>
+                                                                                                                                                                                                                                                            
+                <section>
+                    <title>HS</title>
+                    <para>
+                        Besenczi Renátó.
+                    </para>
+                </section>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                <section>
+                    <title>WOT</title>
+                    <para>
+                        Besenczi Renátó.
+                    </para>
+                </section>
+
+            </section>
+                
+            <section>
+                <title>IKT eszközök</title>
+                <para>
+                    Besenczi Renátó
+                </para> 
+            </section>
+                
+            <section>
+                <title>Hálózati Architektúra</title>
+                <para>
+                    Besenczi Renátó
+                </para> 
+            </section>
+
+            <section>
+                <title>Szoftver háttér</title>
+                <para>
+                    Kitérve oktatási oldalra is, például UP és Minecraft, Jeszenszky Péter.
+                </para> 
+                                                           
+            </section>
+
+            <section>
+                <title>Saját internetes megjelenés</title>
+                <para>
+                    Besenczi Renátó
+                </para> 
+                    
+                <section>
+                    <title>Internetes arculat koncepciója</title>
+                    <para>
+                        Például legyen honlapja? Mobilon is legyen elérhető? Mi legyen mögötte, legyen netes közösségi oldala stb.?
+                        Dudás Tamás István, Veres Dávid, Bogacsovics Gergő, Paszerbovics Roland.
+                    </para>
+                    <section>
+                        <title>Megvalósíthatóság és szoftver háttér</title>
+                        <para>
+                            Esetleg a DEAC-Hackers szerver oldalának hosztolása is, annak szoftveres koncepciója, Jeszenszky Péter, Veres Dávid, Bogacsovics Gergő.
+                        </para> 
+                    </section>
+ 
+                </section>                    
+                    
+            </section>
+                
+                                                
+                                                
+        </section>
+        <section>
+            <title>Oktatás</title>
+            <para>
+                Bátfai Norbert
+            </para> 
+                
+            <section>
+                <title>DEIK szint</title>
+                <para>
+                    Mihálydeák Tamás
+                </para> 
+                
+                <section>
+                    <title>Tantermek kialakítása</title>
+                    <para>
+                        16-18 fős, a hagyományos tantermi keretek megőrzése, Mihálydeák Tamás.
+                    </para> 
+                </section>
+                
+                <section>
+                    <title>Esport kurzus</title>
+                    <para>
+                        Bátfai Norbert
+                    </para> 
+                </section>
+                <section>
+                    <title>Gépi tanulás a gyakorlatban kurzus</title>
+                    <para>
+                        Ispány Márton
+                    </para> 
+                </section>
+                <section>
+                    <title>További kurzusok</title>
+                    <para>
+                        Mihálydeák Tamás
+                    </para> 
+                </section>
+                
+            </section>
+                
+            <section>
+                <title>DEAC-Hackers szint</title>
+                <para>
+                    Edzések, Besenczi Renátó.
+                </para> 
+                    
+                <section>
+                    <title>Nyílt edzések</title>
+                    <para>
+                        Városi közösségépítés, Besenczi Renátó.
+                    </para> 
+                </section>
+                    
+            </section>
+                
+        </section>
+            
+        <section>
+            <title>Innováció</title>
+            <para>
+                Bátfai Norbert
+            </para> 
+            <section>
+                <title>Streamer tanár</title>
+                <para>
+                    Bátfai Norbert
+                </para> 
+            </section>
+                
+            <section>
+                <title>Fakultáció középiskolásoknak</title>
+                <para>
+                    Szabó József
+                </para> 
+            </section>
+                
+        </section>            
+        
+            
+        <section>
+            <title>Kutatás</title>
+            <para>
+                Bátfai Norbert
+            </para> 
+                
+            <section>
+                <title>DEIK szint</title>
+                <para>
+                    Ispány Márton
+                </para> 
+            </section>
+                
+            <section>
+                <title>DEAC-Hackers szint</title>
+                <para>
+                    Bátfai Norbert
+                </para>                     
+            </section>
+                
+        </section>                    
+            
+    </chapter>                
+</part>   

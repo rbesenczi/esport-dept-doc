@@ -1,0 +1,34 @@
+<preface xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xi="http://www.w3.org/2001/XInclude" version="5.0" xml:lang="hu">
+    <title>Háttér, szervezés és licencelés</title>    
+    <para>            
+        Kockázatelemzés és kezelés a beágyazottság tekintetében részben majd részletesen kifejtve, itt csak a dokumentum 
+        licencelését kell tárgyalni.
+        A DEAC-Hackers alapításakor, a NEMESPOR kutatói közösségben is megvitatott 
+        dual licencelés (GNU FDL és CC BY 4.0) a javasolt követendő, hogy egyrészt a nyíltság,  
+        az érdeklődők bevonása megalapozza
+        a széles társadalmi beágyazottságot, illetve jó gyakorlatként szerepelhessünk más intézményeknek, 
+        másrészt azt is biztosítani kell, hogy a jelen dokumentum egy esetleges bizalmas kiegészítése
+        zárt licenccel is legyen ellátható.
+        Jeszenszky Péter.
+    </para> 
+    <para>
+        A jelen dokumkentum fejlesztésének helye a GitHub 
+        <link xlink:href="https://github.com/nbatfai/esport-dept-doc/">https://github.com/nbatfai/esport-dept-doc/</link> tároló, a
+        térsszerzőktól vagy pull requesteket kérek, vagy plain text tartalmat, amit megkapva magam szerkesztek be.
+        Bátfai Norbert.
+    </para>                 
+    <para>
+        A dokumentum szerkezete, Bátfai Norbert.
+    </para>                 
+        
+    <section>
+        <title>A dokumentum fejlesztésének ütemezése</title>
+        <para>
+            A fejlődő dokumentum iterálása az 
+            átnézést vállalókkal, a NEMESPOR országos
+            kutatói levelezési listával, a DEAC-Hackers előszoba és az UDPROG FB közösségekkel folyamatos. A feladatok finomítása,
+            társszerzők hozzárendelése, ennek hangolása ugyancsak folyamatos.  
+        </para> 
+    </section>
+
+</preface>    

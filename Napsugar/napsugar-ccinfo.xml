@@ -1,0 +1,84 @@
+<info xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xi="http://www.w3.org/2001/XInclude" version="5.0" xml:lang="hu">
+
+    <xi:include href="napsugar-title.xml">
+        <xi:fallback>
+            <para>
+                <emphasis>XInclude: napsugar-title.xml file not found</emphasis>
+            </para>
+        </xi:fallback>
+    </xi:include>               
+
+    <xi:include href="napsugar-subtitle.xml">
+        <xi:fallback>
+            <para>
+                <emphasis>XInclude: napsugar-subtitle.xml file not found</emphasis>
+            </para>
+        </xi:fallback>
+    </xi:include>               
+
+    <xi:include href="napsugar-titleabbrev.xml">
+        <xi:fallback>
+            <para>
+                <emphasis>XInclude: napsugar-titleabbrev.xml file not found</emphasis>
+            </para>
+        </xi:fallback>
+    </xi:include>               
+
+    <xi:include href="napsugar-authors.xml">
+        <xi:fallback>
+            <para>
+                <emphasis>XInclude: napsugar-authors.xml file not found</emphasis>
+            </para>
+        </xi:fallback>
+    </xi:include>               
+
+    <xi:include href="napsugar-edt.xml">
+        <xi:fallback>
+            <para>
+                <emphasis>XInclude: napsugar-edt.xml file not found</emphasis>
+            </para>
+        </xi:fallback>
+    </xi:include>               
+
+    <pubdate>2018</pubdate>
+    <copyright>
+        <year>2018</year>
+        <holder>Dr. Bátfai Norbert</holder>
+        <holder>A TOVÁBBI TÁRSSZERZŐK MEGNEVEZÉSE</holder>
+    </copyright>
+    <legalnotice>           
+        <para>                
+            Copyright (C) 2018, Norbert Bátfai. Ph.D., batfai.norbert@inf.unideb.hu, nbatfai@gmail.com, 
+            A TOVÁBBI TÁRSSZERZŐK MEGNEVEZÉSE
+        </para>
+<para>
+            This work is licensed under a Creative Commons Attribution 4.0 International License.
+        </para>
+        <para>
+            <link xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</link>                
+        </para>            
+        <para>
+            Ez a mű a Creative Commons Nevezd meg! 4.0 Nemzetközi Licenc feltételeinek megfelelően felhasználható.                
+        </para>
+        <para>
+            <link xlink:href="https://creativecommons.org/licenses/by/4.0/deed.hu">https://creativecommons.org/licenses/by/4.0/deed.hu</link>                
+        </para>
+        <tip>
+            <title>GNU FDL és CC BY 4.0 duál licenc</title>
+            <para>
+                A duál licencelés választását az indokolja, hogy az itt kidolgozott
+                jó gyakorlatot mintaként mások is alkalmazhassák és akár mi, akár ők akár be is zárhassák (ha például saját zárt anyagaikka
+                akarják bővíteni a dokumentumot).
+            </para>
+        </tip> 
+    </legalnotice>   
+    
+    <xi:include href="napsugar-revhistory.xml">
+        <xi:fallback>
+            <para>
+                <emphasis>XInclude: napsugar-revhistory file not found</emphasis>
+            </para>
+        </xi:fallback>
+    </xi:include>               
+                               
+</info>   

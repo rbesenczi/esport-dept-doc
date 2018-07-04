@@ -1,0 +1,101 @@
+<part xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xi="http://www.w3.org/2001/XInclude" version="5.0" xml:lang="hu">
+    <title>Infrastrukturális keretek</title>
+    <partintro>
+        <para> 
+        </para>
+    </partintro>
+    <chapter>
+        <info>
+            <title>A Nagyerdei Stadionba tervezett létesítmény</title>
+            <keywordset>
+                <keyword/>
+            </keywordset>
+        </info>
+
+        <section>
+            <title>A létesítmény neve</title>
+            <para>
+                Várom a társszerzők javaslatait, vagy metódust a név kialakításának támogatására (például felmerült 
+                elnevezések szondázása FB szavazással).
+            </para> 
+        </section>
+
+        <section>
+            <title>A létesítmény fizikai megjelenésének tervei és jellemzésük</title>
+            <para>
+                Elrendezés és funkcionális koncepció, Besenczi Renátó. 
+            </para> 
+                
+            <section>
+                <title>Esport támogatása</title>
+                <para>
+                    Besenczi Renátó. 
+                </para> 
+            </section>
+
+            <section>
+                <title>Oktatás támogatása</title>
+                <para>
+                    Mihálydeák Tamás. 
+                </para> 
+            </section>
+                
+            <section>
+                <title>Kutatások támogatása</title>
+                <para>
+                    Ispány Márton. 
+                </para> 
+            </section>
+            
+            <section>
+                <title>Társadalmi beágyazottság támogathatósága</title>
+                <para>
+                    Bátfai Norbert.
+                </para> 
+            </section>
+            
+            <section>
+                <title>Külcsín</title>
+                <para>
+                    Besenczi Renátó. 
+                </para> 
+                <section>
+                    <title>Esport orientált előzetes szakmai skiccek</title>
+                    <para>
+                        Besenczi Renátó. 
+                    </para> 
+                    <mediaobject>
+                        <imageobject>
+                            <imagedata fileref="img/" scale="55"/>
+                        </imageobject>
+                        <textobject>
+                            <phrase>
+                                leiras                                        
+                            </phrase>
+                        </textobject>
+                    </mediaobject>
+                </section>                    
+                <section>
+                    <title>Oktatás orientált előzetes szakmai skiccek</title>
+                    <para>
+                        Besenczi Renátó. 
+                    </para> 
+                </section>
+                <section>
+                    <title>Belsőépítészeti, bútor és világítás elképzelések</title>
+                    <para>
+                        
+                    </para> 
+                </section>                
+            </section>
+                
+            <section>
+                <title>Belbecs</title>
+                <para>
+                    Bátfai Norbert. 
+                </para> 
+            </section>
+                                                
+        </section>
+    </chapter>                
+</part>         
