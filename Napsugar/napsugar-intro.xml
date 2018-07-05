@@ -37,6 +37,65 @@
                 Besenczi Renátó. A dokumentum és a későbbi ügymenet (esetleges fejlesztések) 
                 licencelése, GDPR kérdések, Jeszenszky Péter.
             </para> 
+            <para>
+                A kialakítandó edzőteremnek több esport szakmai szempontnak is meg kell felelnie, ha szeretnénk maximalizálni annak kihasználtságát. Ezen fő szempontokat itt most csak felvillantjuk, a későbbiekben bonjuk ki részletesen. Az edzőterem fő funkciói az alábbiak:
+                <itemizedlist mark='opencircle'>
+                    <listitem>
+                        <para>
+                            DEAC-Hackers esport edzések
+                        </para>
+                    </listitem>
+                    <listitem>
+                        <para>
+                            Esport elméleti és gyakorlati oktatása
+                        </para>
+                    </listitem>
+                    <listitem>
+                        <para>
+                            Esport kutatások támogatása
+                        </para>
+                    </listitem>
+                    <listitem>
+                        <para>
+                            Nemzetközi színvonalú versenyek szervezhetősége
+                        </para>
+                    </listitem>
+                    <listitem>
+                        <para>
+                            Nyári gyermektáborok szervezhetősége
+                        </para>
+                    </listitem>
+                    <listitem>
+                        <para>
+                            Közösségi tér biztosítása a régió gamerei számára
+                        </para>
+                    </listitem>
+                    <listitem>
+                        <para>
+                            Az esporthoz és a gaminghez köthető tevékenységek támogatása, mint például versenyek, edzések élő közvetítése
+                        </para>
+                    </listitem>
+                    <listitem>
+                        <para>
+                            Edzőterem bérbeadása más csapatok, szervezetek számára (un. bootcamp-ek szervezhetősége).
+                        </para>
+                    </listitem>
+                </itemizedlist>
+            </para> 
+            <para>
+                A fenti esport funkciók eléréséhez számos követelménynek meg kell felelni. Esport edzések, nyári gyermektáborok és bootcamp-ek lebonyolításához természetesen nélkülözhetetlen olyan technikai, technológiai és adminisztratív háttér biztosítása, mely a lehető legmagasabb szint elérését is lehetővé teszi. Talán ki sem kell külön emelni, hogy a leginkább hardverigényes játékok is megfelelő minőségben legyenek játszhatóak (sőt, adott esetben közvetíthetőek a nagyközönség számára), melyhez olyan számítógépek szükségesek, melyek a jelen pillanatban elérhető legnagyobb teljesítményűek a desktop PC-k között. Ilyen konfigurációkat iránymutatás céljából a későbbiekben villantunk fel. Hasonlóan magas teljesítmény szükséges az esport oktatási és kutatási vonal. Emellett természetesen a hosszú távú fentarthatóságot is szem előtt tartva ezeket a számítógépeket érdemes és szükséges legalább évente upgrade-elni.
+            </para> 
+            <para>
+                A játékgyártók is előírnak számos követelményt például hivatalos versenyek szervezhetőségére is. Példaként említhető, hogy a League of Legends nevű játékban hivatalos, a játékgyártó Riot Games Inc. által is elismert és támogatott versenyt csak 5+5+2 tartalék számítógéppel lehet rendezni, melyeknek mindegyiknek azonos hardver és szoftverkonfigurációval kell rendelkezniük (tehát különbség a gépek között nem lehet). 
+            </para> 
+            <para>
+                Fontosnak tartjuk, hogy mindent, ami az edzőteremben történik (és nem számít sportszakmai szempontból titkosnak) közvetítsük a nagyközönségnek, minél jobban nyissunk a gamer közösségek felé. A versenyek és edzések közvetítése csupán egy szelete ennek, szeretnénk a lehető legnagyobb mértékben bevonzani, együttműködni a régió gaminggel és esporttal foglalkozó formációival, közösségeivel. Ez közvetlenül is hasznos a számunkra, hiszen a régió influencerein át a gamerek megismerkedhetnek a DEAC-Hackersszel, közvetve pedig a szponzorok, az edzőteremben hirdetők juthatnak nagyobb médiafelülethez.
+            </para> 
+            <para>
+                Itt szükséges kitérni arra, hogy szeretnénk a lehető legnagyobb mértékben támogatni a szponzoraink, a DEAC-Hackers vagy az edzőterem szponzorainak a megjelenését. Ehhez minden olyan felületet szeretnénk kiajánlani, melyek érdekesek lehetnek egy potenciális partner számára. Például: logó elhelyezése az edzőteremben, a DEAC-Hackers játékosainak mezén, terem névadó szponzorok (például "ASUS laboratórium" vagy "LG gaming aréna"), vagy akár az edzőterem névadó szponzora (például "DEAC-ROG edzőterem"). Cserébe elképzelhető az edzőterem gépeinek biztosítása vagy az edzőterem infrastruktúrális költségeinek átvállalása (de praktikusan egy reklámszerződés keretei között létrejövő üzleti aktus, melynek tárgya lehet bármi, amire az edzőteremnek globálisan szüksége lehet).
+            </para> 
+
+
         </section>
     </chapter>                
 </part>  
