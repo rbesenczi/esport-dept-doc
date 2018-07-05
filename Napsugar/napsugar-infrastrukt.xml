@@ -210,13 +210,44 @@
                     Besenczi Renátó. 
                 </para> 
                 <section>
-                    <title>Esport orientált előzetes szakmai skiccek</title>
+                    <title>Előzetes szakmai skiccek</title>
                     <para>
                         Besenczi Renátó. 
                     </para> 
+                        <section>
+                            <title>"A2" skicc</title>
+                        <para>
+                            A2 skicc leírás.
+                        </para> 
+                        <mediaobject>
+                            <imageobject>
+                                <imagedata fileref="img/edzoterem_terv_A2_Fsz.pdf" scale="65"/>
+                            </imageobject>
+                            <textobject>
+                                <phrase>
+                                    leiras                                        
+                                </phrase>
+                            </textobject>
+                        </mediaobject>
+                        <mediaobject>
+                            <imageobject>
+                                <imagedata fileref="img/edzoterem_terv_A2_Em.pdf" scale="65"/>
+                            </imageobject>
+                            <textobject>
+                                <phrase>
+                                    leiras                                        
+                                </phrase>
+                            </textobject>
+                        </mediaobject>
+                    </section>
+                    <section>
+                        <title>"A" skicc</title>
+                        <para>
+                            A skicc leírás.
+                        </para>
                     <mediaobject>
                         <imageobject>
-                            <imagedata fileref="img/" scale="55"/>
+                            <imagedata fileref="img/edzoterem_terv_A_Fsz.pdf" scale="65"/>
                         </imageobject>
                         <textobject>
                             <phrase>
@@ -224,13 +255,72 @@
                             </phrase>
                         </textobject>
                     </mediaobject>
-                </section>                    
-                <section>
-                    <title>Oktatás orientált előzetes szakmai skiccek</title>
-                    <para>
-                        Besenczi Renátó. 
-                    </para> 
+                    <mediaobject>
+                        <imageobject>
+                            <imagedata fileref="img/edzoterem_terv_A_Em.pdf" scale="65"/>
+                        </imageobject>
+                        <textobject>
+                            <phrase>
+                                leiras                                        
+                            </phrase>
+                        </textobject>
+                    </mediaobject>
                 </section>
+                <section>
+                    <title>"B" skicc</title>
+                    <para>
+                        B skicc leírás.
+                    </para>
+
+                    <mediaobject>
+                        <imageobject>
+                            <imagedata fileref="img/edzoterem_terv_B_Fsz.pdf" scale="65"/>
+                        </imageobject>
+                        <textobject>
+                            <phrase>
+                                leiras                                        
+                            </phrase>
+                        </textobject>
+                    </mediaobject>
+                    <mediaobject>
+                        <imageobject>
+                            <imagedata fileref="img/edzoterem_terv_B_Fsz.pdf" scale="65"/>
+                        </imageobject>
+                        <textobject>
+                            <phrase>
+                                leiras                                        
+                            </phrase>
+                        </textobject>
+                    </mediaobject>
+                </section>
+                <section>
+                    <title>"C" skicc</title>
+                    <para>
+                        C skicc leírás.
+                    </para>
+                    <mediaobject>
+                        <imageobject>
+                            <imagedata fileref="img/edzoterem_terv_C_Fsz.pdf" scale="65"/>
+                        </imageobject>
+                        <textobject>
+                            <phrase>
+                                leiras                                        
+                            </phrase>
+                        </textobject>
+                    </mediaobject>
+                    <mediaobject>
+                        <imageobject>
+                            <imagedata fileref="img/edzoterem_terv_C_Fsz.pdf" scale="65"/>
+                        </imageobject>
+                        <textobject>
+                            <phrase>
+                                leiras                                        
+                            </phrase>
+                        </textobject>
+                    </mediaobject>
+                </section>
+                </section>                    
+               
                 <section>
                     <title>Belsőépítészeti, bútor és világítás elképzelések</title>
                     <para>
