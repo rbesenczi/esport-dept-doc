@@ -27,5 +27,32 @@
             </otheraddr>
         </address>
     </author>
+
+    <author>
+        <personname>
+            <honorific>Mr.</honorific>
+            <surname>Besenczi</surname>
+            <firstname>Renátó</firstname>        
+        </personname>    
+        <affiliation>
+            <shortaffil>tanársegéd, DE.</shortaffil>
+            <jobtitle>Egyetemi tanársegéd</jobtitle>
+            <orgname>Debreceni Egyetem</orgname>
+            <orgdiv>Információ Technológia Tanszék</orgdiv>
+            <address>
+                <email>besenczi.renato@inf.unideb.hu</email>
+            </address>
+        </affiliation>
+        <address>
+            <street>Kassai út 26.</street>
+            <city>Debrecen</city>
+            <postcode>4028</postcode>
+            <country>Magyarország</country>
+            <email>besenczi.renato@inf.unideb.hu</email>
+            <otheraddr>
+                <link xlink:href="http://www.inf.unideb.hu/besenczi.renato">http://www.inf.unideb.hu/besenczi.renato</link>
+            </otheraddr>
+        </address>
+    </author>
         
 </authorgroup>
