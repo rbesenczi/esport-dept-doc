@@ -131,7 +131,17 @@
                 <title>Hálózati Architektúra</title>
                 <para>
                     Besenczi Renátó
-                </para> 
+                </para>
+                <mediaobject>
+                    <imageobject>
+                        <imagedata fileref="img/hálózat_skicc.PNG" scale="45"/>
+                    </imageobject>
+                    <textobject>
+                        <phrase>
+                            leiras                                        
+                        </phrase>
+                    </textobject>
+                </mediaobject> 
             </section>
 
             <section>
