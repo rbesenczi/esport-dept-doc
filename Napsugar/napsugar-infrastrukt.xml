@@ -33,47 +33,47 @@
                 <para>
                     Az edzőtermet úgy alakítjuk ki, hogy az több funkciót is el tudjon látni. Ezek a funkciók:
                     <itemizedlist mark='opencircle'>
-                    <listitem>
-                        <para>
-                            DEAC-Hackers esport edzések
-                        </para>
-                    </listitem>
-                    <listitem>
-                        <para>
-                            Esport elméleti és gyakorlati oktatása
-                        </para>
-                    </listitem>
-                    <listitem>
-                        <para>
-                            Esport kutatások támogatása
-                        </para>
-                    </listitem>
-                    <listitem>
-                        <para>
-                            Nemzetközi színvonalú versenyek szervezhetősége
-                        </para>
-                    </listitem>
-                    <listitem>
-                        <para>
-                            Nyári gyermektáborok szervezhetősége
-                        </para>
-                    </listitem>
-                    <listitem>
-                        <para>
-                            Közösségi tér biztosítása a régió gamerei számára
-                        </para>
-                    </listitem>
-                    <listitem>
-                        <para>
-                            Az esporthoz és a gaminghez köthető tevékenységek támogatása, mint például versenyek, edzések élő közvetítése
-                        </para>
-                    </listitem>
-                    <listitem>
-                        <para>
-                            Edzőterem bérbeadása más csapatok, szervezetek számára (un. bootcamp-ek szervezhetősége).
-                        </para>
-                    </listitem>
-                </itemizedlist>
+                        <listitem>
+                            <para>
+                                DEAC-Hackers esport edzések
+                            </para>
+                        </listitem>
+                        <listitem>
+                            <para>
+                                Esport elméleti és gyakorlati oktatása
+                            </para>
+                        </listitem>
+                        <listitem>
+                            <para>
+                                Esport kutatások támogatása
+                            </para>
+                        </listitem>
+                        <listitem>
+                            <para>
+                                Nemzetközi színvonalú versenyek szervezhetősége
+                            </para>
+                        </listitem>
+                        <listitem>
+                            <para>
+                                Nyári gyermektáborok szervezhetősége
+                            </para>
+                        </listitem>
+                        <listitem>
+                            <para>
+                                Közösségi tér biztosítása a régió gamerei számára
+                            </para>
+                        </listitem>
+                        <listitem>
+                            <para>
+                                Az esporthoz és a gaminghez köthető tevékenységek támogatása, mint például versenyek, edzések élő közvetítése
+                            </para>
+                        </listitem>
+                        <listitem>
+                            <para>
+                                Edzőterem bérbeadása más csapatok, szervezetek számára (un. bootcamp-ek szervezhetősége).
+                            </para>
+                        </listitem>
+                    </itemizedlist>
                 </para>
                 <section>
                     <title>DEAC-Hackers edzések</title>
@@ -214,111 +214,134 @@
                     <para>
                         Besenczi Renátó. 
                     </para> 
-                        <section>
-                            <title>"A2" skicc</title>
+                    <section>
+                        <title>"A2" skicc</title>
                         <para>
                             A2 skicc leírás.
                         </para> 
-                        <mediaobject>
-                            <imageobject>
-                                <imagedata fileref="img/edzoterem_terv_A2_Fsz.pdf" scale="65"/>
-                            </imageobject>
-                            <textobject>
-                                <phrase>
-                                    leiras                                        
-                                </phrase>
-                            </textobject>
-                        </mediaobject>
-                        <mediaobject>
-                            <imageobject>
-                                <imagedata fileref="img/edzoterem_terv_A2_Em.pdf" scale="65"/>
-                            </imageobject>
-                            <textobject>
-                                <phrase>
-                                    leiras                                        
-                                </phrase>
-                            </textobject>
-                        </mediaobject>
+                        <figure>
+                            <title>A2</title>
+                            <mediaobject>
+                                <imageobject>
+                                    <imagedata fileref="img/edzoterem_terv_A2_Fsz.pdf" scale="65"/>
+                                </imageobject>
+                                <textobject>
+                                    <phrase>
+                                        leiras                                        
+                                    </phrase>
+                                </textobject>
+                            </mediaobject>
+                        </figure>
+                        <figure>
+                            <title>A</title>
+                            <mediaobject>
+                                <imageobject>
+                                    <imagedata fileref="img/edzoterem_terv_A2_Em.pdf" scale="65"/>
+                                </imageobject>
+                                <textobject>
+                                    <phrase>
+                                        leiras                                        
+                                    </phrase>
+                                </textobject>
+                            </mediaobject>
+                        </figure>
                     </section>
                     <section>
                         <title>"A" skicc</title>
                         <para>
                             A skicc leírás.
                         </para>
-                    <mediaobject>
-                        <imageobject>
-                            <imagedata fileref="img/edzoterem_terv_A_Fsz.pdf" scale="65"/>
-                        </imageobject>
-                        <textobject>
-                            <phrase>
-                                leiras                                        
-                            </phrase>
-                        </textobject>
-                    </mediaobject>
-                    <mediaobject>
-                        <imageobject>
-                            <imagedata fileref="img/edzoterem_terv_A_Em.pdf" scale="65"/>
-                        </imageobject>
-                        <textobject>
-                            <phrase>
-                                leiras                                        
-                            </phrase>
-                        </textobject>
-                    </mediaobject>
-                </section>
-                <section>
-                    <title>"B" skicc</title>
-                    <para>
-                        B skicc leírás.
-                    </para>
-
-                    <mediaobject>
-                        <imageobject>
-                            <imagedata fileref="img/edzoterem_terv_B_Fsz.pdf" scale="65"/>
-                        </imageobject>
-                        <textobject>
-                            <phrase>
-                                leiras                                        
-                            </phrase>
-                        </textobject>
-                    </mediaobject>
-                    <mediaobject>
-                        <imageobject>
-                            <imagedata fileref="img/edzoterem_terv_B_Em.pdf" scale="65"/>
-                        </imageobject>
-                        <textobject>
-                            <phrase>
-                                leiras                                        
-                            </phrase>
-                        </textobject>
-                    </mediaobject>
-                </section>
-                <section>
-                    <title>"C" skicc</title>
-                    <para>
-                        C skicc leírás.
-                    </para>
-                    <mediaobject>
-                        <imageobject>
-                            <imagedata fileref="img/edzoterem_terv_C_Fsz.pdf" scale="65"/>
-                        </imageobject>
-                        <textobject>
-                            <phrase>
-                                leiras                                        
-                            </phrase>
-                        </textobject>
-                    </mediaobject>
-                    <mediaobject>
-                        <imageobject>
-                            <imagedata fileref="img/edzoterem_terv_C_Em.pdf" scale="65"/>
-                        </imageobject>
-                        <textobject>
-                            <phrase>
-                                leiras                                        
-                            </phrase>
-                        </textobject>
-                    </mediaobject>
-                </section>
+                        <figure>
+                            <title>AFsz</title>                        
+                            <mediaobject>
+                                <imageobject>
+                                    <imagedata fileref="img/edzoterem_terv_A_Fsz.pdf" scale="65"/>
+                                </imageobject>
+                                <textobject>
+                                    <phrase>
+                                        leiras                                        
+                                    </phrase>
+                                </textobject>
+                            </mediaobject>
+                        </figure>
+                        <figure>
+                            <title>AEm</title>
+                            <mediaobject>
+                                <imageobject>
+                                    <imagedata fileref="img/edzoterem_terv_A_Em.pdf" scale="65"/>
+                                </imageobject>
+                                <textobject>
+                                    <phrase>
+                                        leiras                                        
+                                    </phrase>
+                                </textobject>
+                            </mediaobject>
+                        </figure>
+                    </section>
+                    <section>
+                        <title>"B" skicc</title>
+                        <para>
+                            B skicc leírás.
+                        </para>
+                        <figure>
+                            <title>B</title>
+                            <mediaobject>
+                                <imageobject>
+                                    <imagedata fileref="img/edzoterem_terv_B_Fsz.pdf" scale="65"/>
+                                </imageobject>
+                                <textobject>
+                                    <phrase>
+                                        leiras                                        
+                                    </phrase>
+                                </textobject>
+                            </mediaobject>
+                        </figure>
+                        <figure>
+                            <title>BEm</title>
+                            <mediaobject>
+                                <imageobject>
+                                    <imagedata fileref="img/edzoterem_terv_B_Em.pdf" scale="65"/>
+                                </imageobject>
+                                <textobject>
+                                    <phrase>
+                                        leiras                                        
+                                    </phrase>
+                                </textobject>
+                            </mediaobject>
+                        </figure>
+                    </section>
+                    <section>
+                        <title>"C" skicc</title>
+                        <para>
+                            C skicc leírás.
+                        </para>
+                        <figure>
+                            <title>C</title>
+                            <mediaobject>
+                                <imageobject>
+                                    <imagedata fileref="img/edzoterem_terv_C_Fsz.pdf" scale="65"/>
+                                </imageobject>
+                                <textobject>
+                                    <phrase>
+                                        leiras                                        
+                                    </phrase>
+                                </textobject>
+                            </mediaobject>
+                        </figure>
+                        <figure>
+                            <title>C2</title>
+                            <mediaobject>
+                                <imageobject>
+                                    <imagedata fileref="img/edzoterem_terv_C_Em.pdf" scale="65"/>
+                                </imageobject>
+                                <textobject>
+                                    <phrase>
+                                        leiras                                        
+                                    </phrase>
+                                </textobject>
+                            </mediaobject>
+                        </figure>
+                    </section>
                 </section>                    
                
                 <section>
