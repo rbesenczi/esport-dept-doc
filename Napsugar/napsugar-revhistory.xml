@@ -108,4 +108,20 @@
             https://github.com/nbatfai/esport-dept-doc (lásd ott a napsugar alatt). 
         </revremark>
     </revision>
+    <revision>
+        <revnumber>0.0.8-0.0.11</revnumber>
+        <date>2018-07-05</date>
+        <authorinitials>rbesenczi</authorinitials>
+        <revremark>
+        </revremark>
+    </revision>
+    <revision>
+        <revnumber>0.0.12</revnumber>
+        <date>2018-07-05</date>
+        <authorinitials>nbatfai</authorinitials>
+        <revremark>
+            Vezetői összefoglaló, köröztetve a fórumokon is. Amikor a dokumentum közel kész (7. nap) akkor indokolt átnézni és 
+            újra hangolni a kész dokumentumra.
+        </revremark>
+    </revision>
 </revhistory>

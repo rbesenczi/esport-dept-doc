@@ -14,8 +14,47 @@
 
         <section>
             <title>Vezetői összefoglaló</title>
+            <para>                
+                A Nagyerdei Stadion tervezett esport és O+K+F+I<footnote>
+                    <para>Oktatás, kutatás, fejlesztés és innováció.</para>
+                </footnote> központjának célja teret biztosítani 
+                <itemizedlist>
+                    <listitem>
+                        <para>
+                            a DEAC-Hackers esport szakosztály stabil <emphasis>sportszakmai szerepléséhez</emphasis>
+                        </para>
+                    </listitem>    
+                    <listitem>
+                        <para>
+                            és a reguláris és irreguláris informatikai oktatáson keresztül az <emphasis>egyetemi spinoff</emphasis> 
+                            tevékenység gyakorlati megalapozásához.
+                        </para>
+                    </listitem> 
+                </itemizedlist>               
+            </para>                 
             <para>
-                Bátfai Norbert
+                Előnyünk más esport szakosztályokkal szemben az <emphasis>egyetem jelenléte</emphasis>, 
+                amely biztosítja egyrészt az interdiszciplináris, akár tudományos mélységű hátteret, másrészt a természeténél 
+                fogva évente megújuló, elhivatott, potenciális érdeklődő utánpótlásbázis gerincét. Ezt az bizonyítja, hogy 
+                <emphasis>NULLA forintos költségvetésből</emphasis>, az elmúlt egy esztendő alatt majd kétszáz fős, 
+                országos lefedettségű, sőt esetenként az ország határain is túlnyúló 
+                <emphasis>amatőr sportolói sportszerződéssel</emphasis> rendelkező igazolt játékost tudhat magáénak a DEAC-Hackers. Felelősségünk ennek a dokumentumnak a fejlesztéseit úgy átgondolni, hogy hozzá tudjunk adni ehhez az eddig lelkesedésből felépített organikus, élő szerveződéshez!
+            </para> 
+            <para>
+                Előnyünk más egyetemekkel szemben, hogy a <emphasis>DEAC</emphasis> képében van egy szervezett sport hátterünk, amely a tömeg és az amatőr szintű esport megszervezésének megadott és megad egy stabil irányvonalat.
+            </para> 
+            <para>
+                Előnyünk más informatikai (programozás, mesterséges intelligencia, esport) oktató, kutató, 
+                fejlesztő műhelyekkel szemben, hogy van egy aktívan esportoló  <indexterm>
+                        <primary>DEAC</primary>
+                        <secondary>DEAC-Hackers</secondary>                        
+</indexterm><emphasis>DEAC-Hackers</emphasis> esport szakosztályunk.
+            </para> 
+            <para>
+                A jelen dokumentum célja a DEAC-Hackers és a <indexterm>
+                        <primary>DEIK</primary>
+</indexterm><emphasis>DEIK</emphasis> értékeken alapuló szimbiózisának 
+                elindítása: a Nagyerdei Stadionban egy <emphasis>esport és O+K+F+I központ</emphasis> létrehozása.            
             </para> 
         </section>
         <section>
