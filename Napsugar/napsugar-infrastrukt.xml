@@ -214,129 +214,158 @@
                     <para>
                         Besenczi Renátó. 
                     </para> 
+                    <para>
+                        Az edzőterem jelenlegi állapotáról az alábbi két kép árulkodik. 
+                    </para> 
+                    <figure>
+                        <title>Edzőterem 1. fénykép</title>
+                        <mediaobject>
+                            <imageobject>
+                                <imagedata fileref="img/terem1.jpg" scale="80"/>
+                            </imageobject>
+                            <textobject>
+                                <phrase>
+                                    Az edzőterem jelenlegi állapota                                      
+                                </phrase>
+                            </textobject>
+                        </mediaobject>
+                    </figure>
+                    <figure>
+                        <title>Edzőterem 2. fénykép</title>
+                        <mediaobject>
+                            <imageobject>
+                                <imagedata fileref="img/terem2.jpg" scale="80"/>
+                            </imageobject>
+                            <textobject>
+                                <phrase>
+                                    leiras                                        
+                                </phrase>
+                            </textobject>
+                        </mediaobject>
+                    </figure>
                     <section>
-                        <title>"A2" skicc</title>
+                        <title>Edzőterem "A2" szakmai skicc</title>
                         <para>
                             A2 skicc leírás.
                         </para> 
                         <figure>
-                            <title>A2</title>
+                            <title>Edzőterem "A2" szakmai skicc földszint</title>
                             <mediaobject>
                                 <imageobject>
                                     <imagedata fileref="img/edzoterem_terv_A2_Fsz.pdf" scale="65"/>
                                 </imageobject>
                                 <textobject>
                                     <phrase>
-                                        leiras                                        
+                                        Edzőterem "A2" szakmai skicc földszint                                        
                                     </phrase>
                                 </textobject>
                             </mediaobject>
                         </figure>
                         <figure>
-                            <title>A</title>
+                            <title>Edzőterem "A2" szakmai skicc emelet</title>
                             <mediaobject>
                                 <imageobject>
                                     <imagedata fileref="img/edzoterem_terv_A2_Em.pdf" scale="65"/>
                                 </imageobject>
                                 <textobject>
                                     <phrase>
-                                        leiras                                        
+                                        Edzőterem "A2" szakmai skicc emelet                                        
                                     </phrase>
                                 </textobject>
                             </mediaobject>
                         </figure>
                     </section>
                     <section>
-                        <title>"A" skicc</title>
+                        <title>Edzőterem "A" szakmai skicc</title>
                         <para>
                             A skicc leírás.
                         </para>
                         <figure>
-                            <title>AFsz</title>                        
+                            <title>Edzőterem "A" szakmai skicc földszint</title>                        
                             <mediaobject>
                                 <imageobject>
                                     <imagedata fileref="img/edzoterem_terv_A_Fsz.pdf" scale="65"/>
                                 </imageobject>
                                 <textobject>
                                     <phrase>
-                                        leiras                                        
+                                        Edzőterem "A" szakmai skicc földszint                                        
                                     </phrase>
                                 </textobject>
                             </mediaobject>
                         </figure>
                         <figure>
-                            <title>AEm</title>
+                            <title>Edzőterem "A" szakmai skicc emelet</title>
                             <mediaobject>
                                 <imageobject>
                                     <imagedata fileref="img/edzoterem_terv_A_Em.pdf" scale="65"/>
                                 </imageobject>
                                 <textobject>
                                     <phrase>
-                                        leiras                                        
+                                        Edzőterem "A" szakmai skicc emelet                                        
                                     </phrase>
                                 </textobject>
                             </mediaobject>
                         </figure>
                     </section>
                     <section>
-                        <title>"B" skicc</title>
+                        <title>Edzőterem "B" szakmai skicc</title>
                         <para>
                             B skicc leírás.
                         </para>
                         <figure>
-                            <title>B</title>
+                            <title>Edzőterem "B" szakmai skicc földszint</title>
                             <mediaobject>
                                 <imageobject>
                                     <imagedata fileref="img/edzoterem_terv_B_Fsz.pdf" scale="65"/>
                                 </imageobject>
                                 <textobject>
                                     <phrase>
-                                        leiras                                        
+                                        Edzőterem "B" szakmai skicc földszint                                        
                                     </phrase>
                                 </textobject>
                             </mediaobject>
                         </figure>
                         <figure>
-                            <title>BEm</title>
+                            <title>Edzőterem "B" szakmai skicc emelet</title>
                             <mediaobject>
                                 <imageobject>
                                     <imagedata fileref="img/edzoterem_terv_B_Em.pdf" scale="65"/>
                                 </imageobject>
                                 <textobject>
                                     <phrase>
-                                        leiras                                        
+                                        Edzőterem "B" szakmai skicc emelet                                        
                                     </phrase>
                                 </textobject>
                             </mediaobject>
                         </figure>
                     </section>
                     <section>
-                        <title>"C" skicc</title>
+                        <title>Edzőterem "C" szakmai skicc</title>
                         <para>
                             C skicc leírás.
                         </para>
                         <figure>
-                            <title>C</title>
+                            <title>Edzőterem "C" szakmai skicc földszint</title>
                             <mediaobject>
                                 <imageobject>
                                     <imagedata fileref="img/edzoterem_terv_C_Fsz.pdf" scale="65"/>
                                 </imageobject>
                                 <textobject>
                                     <phrase>
-                                        leiras                                        
+                                        Edzőterem "C" szakmai skicc földszint                                        
                                     </phrase>
                                 </textobject>
                             </mediaobject>
                         </figure>
                         <figure>
-                            <title>C2</title>
+                            <title>Edzőterem "C" szakmai skicc emelet</title>
                             <mediaobject>
                                 <imageobject>
                                     <imagedata fileref="img/edzoterem_terv_C_Em.pdf" scale="65"/>
                                 </imageobject>
                                 <textobject>
                                     <phrase>
-                                        leiras                                        
+                                        Edzőterem "C" szakmai skicc emelet                                        
                                     </phrase>
                                 </textobject>
                             </mediaobject>

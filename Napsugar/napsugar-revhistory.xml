@@ -125,4 +125,12 @@
             újra hangolni a kész dokumentumra.
         </revremark>
     </revision>
+    <revision>
+        <revnumber>0.0.13</revnumber>
+        <date>2018-07-05</date>
+        <authorinitials>rbesenczi</authorinitials>
+        <revremark>
+            Az edzőterem jelenlegi állapotáról képek feltöltése, apróbb javítások a skicceknél.
+        </revremark>
+    </revision>
 </revhistory>
