@@ -13,11 +13,15 @@
         </info>
 
         <section>
-            <title>Vezetői összefoglaló</title>
+            <title>Kibővített vezetői összefoglaló</title>
+            <para>                            
+                Az előszóban a jelen dokumentum fejlesztésének elején rögzítettük 
+                a <link xlink:href="#napsugar-pre.Vezetoi">vezetői összefoglalót</link>. Ebben a pontban, a fejlesztés végén, tehát a kész anyag tükrében visszatekintve hangoltuk tovább.            
+            </para>
             <para>                
-                A Nagyerdei Stadion tervezett esport és O+K+F+I<footnote>
+                A Nagyerdei Stadion tervezett esport és O+K+F+I<!--<footnote>
                     <para>Oktatás, kutatás, fejlesztés és innováció.</para>
-                </footnote> központjának célja teret biztosítani 
+                </footnote>--> központjának célja teret biztosítani 
                 <itemizedlist>
                     <listitem>
                         <para>
