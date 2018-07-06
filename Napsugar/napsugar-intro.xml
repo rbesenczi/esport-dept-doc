@@ -114,6 +114,33 @@
                 <section>
                     <title>Szakmai beágyazottság</title>
                     <para>
+                        Informatikai nézőpontból szemlélődve nyilvánvaló, 
+                        hogy a számítógépes játékoknak, a &#x201E;gémingnek&#x201D; és az informatikának ugyanúgy van egy erős 
+                        közös metszete, mint 
+                        ahogyan van egy diszjunk része is. A metszetbeli megfigyelők (mondjuk egy játék fejlesztő) jó eséllyel üdvözölnék 
+                        jelen erőfeszítéseinket. Ezzel szemben a diszjunk rész reprezentáns informatikusa jó eséllyel opponálná 
+                        a játékok és a programozás oktatásának olyan
+                        szintű szimbiózisát, amelyet mi itt tervezünk.
+                    </para> 
+                    <para>
+                        Ezt kezelendő a kialakítandó létesítmény alábbi irányokba történő pozícionálását érdemes kiemelni.
+                <itemizedlist>
+                    <listitem>
+                        <para>
+                            Az informatikai kutatásokban a mesterséges általános intelligencia olyan projektjeihez megpróbálni
+                            csatlakozni, mint a <link xlink:href="https://github.com/Microsoft/malmo">Microsoft Malmo</link> 
+                            vagy a <link xlink:href="https://github.com/deepmind/lab">Google DeepMindLab</link>. Ezek egyértelműen játék alapú platformok
+                            (Minecraft és Quake III Arena) és egyben a mesterséges általános intelligencia kutatás fő sodorvonala is.
+                        </para>
+                    </listitem>    
+                    <listitem>
+                        <para>
+                            A létesítmény felhalmozott erős &#x201E;géming&#x201D; infrastruktúrájának kiajánlása az oktatás és kutatás
+                            támogatására, kimondottan szoftverfejlesztést is lényegi elemként tartalmazó kutatás+fejlesztési, 
+                            projektszemléletű gyakorlati alkalmazások irányába.
+                        </para>
+                    </listitem> 
+                </itemizedlist>               
                         
                     </para> 
                 </section>                            
