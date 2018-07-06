@@ -13,11 +13,15 @@
         </info>
 
         <section>
-            <title>Vezetői összefoglaló</title>
+            <title>Kibővített vezetői összefoglaló</title>
+            <para>                            
+                Az előszóban a jelen dokumentum fejlesztésének elején rögzítettük 
+                a <link xlink:href="#napsugar-pre.Vezetoi">vezetői összefoglalót</link>. Ebben a pontban, a fejlesztés végén, tehát a kész anyag tükrében visszatekintve hangoltuk tovább.            
+            </para>
             <para>                
-                A Nagyerdei Stadion tervezett esport és O+K+F+I<footnote>
+                A Nagyerdei Stadion tervezett esport és O+K+F+I<!--<footnote>
                     <para>Oktatás, kutatás, fejlesztés és innováció.</para>
-                </footnote> központjának célja teret biztosítani 
+                </footnote>--> központjának célja teret biztosítani 
                 <itemizedlist>
                     <listitem>
                         <para>
@@ -71,14 +75,40 @@
                 Esport, Bátfai Norbert. Reguláris oktatás, Mihálydeák Tamás. Kutatás, Ispány Márton.
             </para> 
         </section>
-        <section>
+        <section xml:id="napsugar-intro.Kockazatok">
             <title>Kockázatelemzés és kezelés</title>
             <section>
-                <title>Beágyazottság</title>
+                <title>Elfogadottság és beágyazottság</title>
                 <para>
                     Bátfai Norbert.
                 </para> 
+                <section>
+                    <title>Tagsági beágyazottság</title>
+                    <para>
+                    </para> 
+                </section>            
+                <section>
+                    <title>Társadalmi beágyazottság</title>
+                    <para>
+                    </para> 
+                </section>            
+                <section>
+                    <title>Sportbeli beágyazottság</title>
+                    <para>
+                    </para> 
+                </section>            
+                <section>
+                    <title>Esportbeli beágyazottság</title>
+                    <para>
+                    </para> 
+                </section>                            
+                <section>
+                    <title>Tudományos beágyazottság</title>
+                    <para>
+                    </para> 
+                </section>            
             </section>            
+            
             <section>
                 <title>Esport játékok és szponzorációs megfelelések</title>
             
