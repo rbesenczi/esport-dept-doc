@@ -45,7 +45,28 @@
         elindítása: a Nagyerdei Stadionban egy <emphasis>esport és O+K+F+I központ</emphasis> létrehozása.            
     </para> 
     <section>
-        <title>Háttér, szervezés és licencelés</title>    
+        <title>A szakmai munka szervezése és a dokumentum szerkezete</title>    
+        <para>
+            A Nagyerdei Stadionba létrehozandó esport és oktatási komplexum szakmai tartalmának tervezésénél a legszélesebb szakmai és
+            tudományos háttérre szeretnénk építkezni, hogy minimalizálhassuk a lehetséges (közösségi, társadalmi, sport és esportbeli) 
+            <link xlink:href="#napsugar-intro.Kockazatok">kockázatokat</link>. Ennek megfelelően a dokumentumot teljesen nyíltan, a szakmai fórumokon folyamatosan iterálva készítjük.    
+        </para>                 
+        <para>
+            A dokumentum forrása megtalálható a GitHub 
+            <link xlink:href="https://github.com/nbatfai/esport-dept-doc/">https://github.com/nbatfai/esport-dept-doc/</link> tárolójának 
+            <link xlink:href="https://github.com/nbatfai/esport-dept-doc/tree/master/Napsugar">Napsugár</link> könyvtárában.
+        </para>                 
+        <para>
+            A dokumentum mérnöki jellegű, belső hivatkozások segítik a redundáns, a különböző helyeken más-más mélységben vagy aspektusban
+            tárgyalt szakmai tartalom bejárását. Az első tartalmi rész a szándékainkat rögzíti, hogy milyen a kifejlesztendő
+            komplexummal kapcsolatba hozható esport, oktatási és kutatási
+            eredményeket szeretnénk elérni. A második tartalmi rész az ezt szolgáló szervezeti átalakításokat, intézkedéseket vázolja. 
+            A harmadik rész magának a létesítménynek az építését tárgyalja, melyet egy olyan intézményi rész követ, melynek hivatása a létesítmény
+            szakmai meghajtása. A tartalmi bontás utolsó része az intézmény üzemeltetésével kapcsolatos szakmai kérdésekkel foglalkozik. 
+        </para>                 
+    </section>
+    <section>
+        <title>Háttér, szervezés és licencelés</title>
         <para>            
             Kockázatelemzés és kezelés a beágyazottság tekintetében részben majd részletesen kifejtve, itt csak a dokumentum 
             licencelését kell tárgyalni.
@@ -56,24 +77,6 @@
             másrészt azt is biztosítani kell, hogy a jelen dokumentum egy esetleges bizalmas kiegészítése
             zárt licenccel is legyen ellátható.
             Jeszenszky Péter.
-        </para> 
-        <para>
-            A jelen dokumkentum fejlesztésének helye a GitHub 
-            <link xlink:href="https://github.com/nbatfai/esport-dept-doc/">https://github.com/nbatfai/esport-dept-doc/</link> tároló, a
-            térsszerzőktól vagy pull requesteket kérek, vagy plain text tartalmat, amit megkapva magam szerkesztek be.
-            Bátfai Norbert.
-        </para>                 
-        <para>
-            A dokumentum szerkezete, Bátfai Norbert.
-        </para>                 
-    </section>
-    <section>
-        <title>A dokumentum fejlesztésének ütemezése</title>
-        <para>
-            A fejlődő dokumentum iterálása az 
-            átnézést vállalókkal, a NEMESPOR országos
-            kutatói levelezési listával, a DEAC-Hackers előszoba és az UDPROG FB közösségekkel folyamatos. A feladatok finomítása,
-            társszerzők hozzárendelése, ennek hangolása ugyancsak folyamatos.  
         </para> 
     </section>
 

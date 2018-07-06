@@ -75,7 +75,7 @@
                 Esport, Bátfai Norbert. Reguláris oktatás, Mihálydeák Tamás. Kutatás, Ispány Márton.
             </para> 
         </section>
-        <section>
+        <section xml:id="Kockazatok">
             <title>Kockázatelemzés és kezelés</title>
             <section>
                 <title>Elfogadottság és beágyazottság</title>
@@ -97,6 +97,11 @@
                     <para>
                     </para> 
                 </section>            
+                <section>
+                    <title>Esportbeli beágyazottság</title>
+                    <para>
+                    </para> 
+                </section>                            
                 <section>
                     <title>Tudományos beágyazottság</title>
                     <para>
