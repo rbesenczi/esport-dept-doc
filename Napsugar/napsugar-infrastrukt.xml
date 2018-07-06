@@ -221,7 +221,7 @@
                         <title>Edzőterem 1. fénykép</title>
                         <mediaobject>
                             <imageobject>
-                                <imagedata fileref="img/terem1.jpg" scale="80"/>
+                                <imagedata fileref="img/terem1.jpg" scale="100"/>
                             </imageobject>
                             <textobject>
                                 <phrase>
@@ -234,7 +234,7 @@
                         <title>Edzőterem 2. fénykép</title>
                         <mediaobject>
                             <imageobject>
-                                <imagedata fileref="img/terem2.jpg" scale="80"/>
+                                <imagedata fileref="img/terem2.jpg" scale="100"/>
                             </imageobject>
                             <textobject>
                                 <phrase>
