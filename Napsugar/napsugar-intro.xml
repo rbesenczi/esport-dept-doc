@@ -64,6 +64,52 @@
         </section>
         <section>
             <title>Jövőképek és utópiák</title>
+            
+            <para>
+                A szakirodalom &#x201E;MI tél&#x201D; névvel illeti azt a komplex jelenség együttest, 
+                amikor befagy az MI kutatás és projektek támogatása, miután felismerik, hogy a tudományos kérdések és a 
+                jelenlegi technológiai válaszok között áthidalhatatlannak tűnő űr tátong. 
+                Hogy most éppen &#x201E;MI tavasz&#x201D; vagy &#x201E;MI ősz&#x201D; 
+                van-e, a &#x201E;világ eldönti&#x201D;<footnote>
+                    <para>
+                        <link xlink:href="https://www.imdb.com/title/tt0320661/">Mennyei Királyság, 2005</link>.</para>
+                </footnote>. 
+                Mi arra figyeljünk, amit mi tehetünk a fejlesztendő létesítményben. Mert a géming és az MI közötti 
+                alapvető kapcsolat triviális, a szakma kezdeteitől jelen van. Sőt, a jelenlegi MI áttörési kísérlet 
+                kirobbantója, hídfőállása éppen a Google DeepMind azon Nature publikációja 
+                (és az e mellett elérhető működő szoftver), amely azt mutatja be, hogy több tucatnyi 
+                klasszikus számítógépes játékhoz a humán játékosoknál eredményesebb, megerősítéses tanulásos játszó 
+                ágenst tudtak bemutatni <citation>ATARI</citation>, <citation>ATARI2</citation>.                            
+            </para> 
+            <para>
+                Mit tehetünk mi?
+            </para> 
+            <para>
+                A fejlesztendő létesítményben azt a hitet kell megadnunk a tagoknak, tipikusan a hallgatóknak, hogy ők is 
+                lehetnek azok az úttörők, akik közel vannak a &#x201E;tűzhöz&#x201D; abban az értelemben, hogy 
+                ismerik a legmodernebb technikai és tudományos 
+                trendeket, de csak elég lazán kapcsolódnak, így minőségileg új, akár az iparágat tematizáló
+                ötleteket tudnak bedobni. Legyünk őszinték: nem tudunk ilyenre
+                konkrét jövőbeli potenciális példát mondani! Ha tudnánk, akkor naná, hogy most is azon dolgoznánk. 
+                Csakis ennek az élmény alapjára próbáhatunk rávilágítani a következő gondolatmenettel. 
+                A nyílt forráskód mozgalomra alapozva ma úgy tekinthetünk a szoftver világára, mint a 70-es években a 
+                mérnökök a hardverre, ahol akár hobby tevékenységekből is jövőformáló tendenciák alakultak ki, ez a kor volt 
+                a PC kialakulásának kora. Mi lehet a szoftverben a hasonló áttörés? Ki tudja. Ha egy magyar csapat 
+                a mesterséges általános intelligenciában látná, akkor lehet, hogy a jövő mesterséges általános intelligenciájának az
+                alapértelmezett nyelve a magyar lenne? Ez lehetne a Magyar Nemzeti Mesterséges Intelligencia? Ez az első utópiánk.
+            </para> 
+            <para>
+                Második utópiánk egy saját, nyílt forráskódú esport cím, egy saját esport játék kifejlesztése. 
+                Ez annyiban konkrétabb az elsőnél, hogy
+                legalább megfogalmazható a cél. Ám mint olyan, annek az alkalmazásunknak triviálisan killer alkalmazásnak kell lennie,
+                amelynek fejlesztése ugye nem elhatározás kérdése. Tehát a fókusz itt is a hit megadásán lehet.
+            </para> 
+            <para>
+                Harmadik utópiánk, hogy egy DEAC-Hackers csapat szerepeljen egy nagyon rangos tornán, mondjuk a LoL világbajnokságon.
+                Itt már a cél és elvben a hozzá vezető út is ismert, a nehézségét az adja, hogy a fél világ ebben versenyez, amig az
+                első két esetben akár egyetlen eredeti ötlet is megválthatja a világot, itt be kell állni a sorba és ott állni az élre,
+                ahol mindenki rajthoz áll!
+            </para>             
             <para>
                 Mesterséges intelligencia és informatikai trendekbe illesztés. Bátfai Norbert, Ispány Márton.
             </para> 
