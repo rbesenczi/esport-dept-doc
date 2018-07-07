@@ -133,4 +133,12 @@
             Az edzőterem jelenlegi állapotáról képek feltöltése, apróbb javítások a skicceknél.
         </revremark>
     </revision>
+    <revision>
+        <revnumber>0.0.14.2</revnumber>
+        <date>2018-07-06</date>
+        <authorinitials>nbatfai</authorinitials>
+        <revremark>
+            Előszó refaktor, kockázatok elkezd, iterálva a fórumokon is.
+        </revremark>
+    </revision>
 </revhistory>

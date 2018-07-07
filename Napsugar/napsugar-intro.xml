@@ -11,7 +11,6 @@
                 <keyword/>
             </keywordset>
         </info>
-
         <section>
             <title>Kibővített vezetői összefoglaló</title>
             <para>                            
@@ -124,52 +123,79 @@
                     </para> 
                     <para>
                         Ezt kezelendő a kialakítandó létesítmény alábbi irányokba történő pozícionálását érdemes kiemelni.
-                <itemizedlist>
-                    <listitem>
-                        <para>
-                            Az informatikai kutatásokban a mesterséges általános intelligencia olyan projektjeihez megpróbálni
-                            csatlakozni, mint a <link xlink:href="https://github.com/Microsoft/malmo">Microsoft Malmo</link> 
-                            vagy a <link xlink:href="https://github.com/deepmind/lab">Google DeepMindLab</link>. Ezek egyértelműen játék alapú platformok
-                            (Minecraft és Quake III Arena) és egyben a mesterséges általános intelligencia kutatás fő sodorvonala is.
-                        </para>
-                    </listitem>    
-                    <listitem>
-                        <para>
-                            A létesítmény felhalmozott erős &#x201E;géming&#x201D; infrastruktúrájának kiajánlása az oktatás és kutatás
-                            támogatására, kimondottan szoftverfejlesztést is lényegi elemként tartalmazó kutatás+fejlesztési, 
-                            projektszemléletű gyakorlati alkalmazások irányába. További részletek tekintetében lásd a
-                            <link xlink:href="#napsugar-uzem.Sw-muhely">Szoftver-műhely koncepció</link> pontot!
-                        </para>
-                    </listitem> 
-                </itemizedlist>               
-                        
+                        <itemizedlist>
+                            <listitem>
+                                <para>
+                                    Az informatikai kutatásokban a mesterséges általános intelligencia olyan projektjeihez megpróbálni
+                                    csatlakozni, mint a <link xlink:href="https://github.com/Microsoft/malmo">Microsoft Malmo</link> 
+                                    vagy a <link xlink:href="https://github.com/deepmind/lab">Google DeepMindLab</link>. Ezek egyértelműen játék alapú platformok
+                                    (Minecraft és Quake III Arena) és egyben a mesterséges általános intelligencia kutatás fő sodorvonala is.
+                                </para>
+                            </listitem>    
+                            <listitem>
+                                <para>
+                                    A létesítmény felhalmozott erős &#x201E;géming&#x201D; infrastruktúrájának kiajánlása az oktatás és kutatás
+                                    támogatására, kimondottan szoftverfejlesztést is lényegi elemként tartalmazó kutatás+fejlesztési, 
+                                    projektszemléletű gyakorlati alkalmazások irányába. További részletek tekintetében lásd a
+                                    <link xlink:href="#napsugar-uzem.Sw-muhely">Szoftver-műhely koncepció</link> pontot!
+                                </para>
+                            </listitem> 
+                        </itemizedlist>                                       
                     </para> 
                 </section>                            
                 <section>
                     <title>Társadalmi beágyazottság</title>
                     <para>
+                        A számítógépes játékok társadalmi megítélése sokszínű és korosztályonként is differenciálható.
+                        Ennek a sokszínűségi spektrumnak az egyik vége a teljes elutasítás. A sikeres és elfogadott esport 
+                        nyilvánvalóan a spektrum másik végére lenne pozicionált. Ezt az esetleges társadalmi elutasítást 
+                        úgy tudjuk kezelni, hogy objektíven (tudományos értelemben és igényességgel) próbálunk vizsgálódni az itt
+                        felmerülő kérdések tekintetében. 
+                        Ebben az lesz segítségünkre, hogy az esporttal 
+                        kapcsolatban hagyományos értelemben vett kutatómunkát is végzünk. 
+                        Mert az esport szempontjából a társadalmi túlszabályozás a fenyegető kockázat.
+                        Konkrétan, kutatás szinten támogatnunk kell egy erős neveléstudományi vonalat és a tervezett létesítményben
+                        otthont kell adnunk olyan szerveződéseknek, amelyek támogatják a régió gyermekeinek már elfogadott 
+                        informatikai oktatását és nevelését, a játékkultúrájuk kialakítását, 
+                        továbbá az informatikai (és/vagy játékos) tehetségek felkutatását és a tehetséggondozást. Egyszerűen vissza
+                        kell valamit adni a társadalomnak!
                     </para> 
                 </section>            
                 <section>
                     <title>Sportbeli beágyazottság</title>
                     <para>
+                        A hagyományos sport is sokszínűen fogadja az esportot. Itt árnyalja a képet, hogy társadalmi beágyazottságnál
+                        említett kockázatot anyagi érdekek perturbálják, melyek most éppen az esport elfogadása felé billentik a mérleg nyelvét. 
+                        Hiszen az esportnak a fiatal korosztályokban nővekszik a népszerűsége, amíg talán a klasszikus sportoknak csökken. 
+                        Ebben a jelenségben az oksági kapcsolatokkal kapcsolatos
+                        kérdések tudományos kérdésként tárgyalhatóak (ahol még az is kiderülhet, hogy szimpla történeti együttállásról van szó). 
+                        Az esport szempontjából itt is 
+                        a társadalmi túlszabályozás a fenyegető kockázat, melyek az esport megszervezésével csökkenthetők.
+                    </para> 
+                    <para>
+                        Egy további, lokális kockázatot hordoz a tervezett létesítményre maga a helye, a Nagyerdei Stadion. Hiszen ez a Loki
+                        szentélye. Ha adott esetben rosszul szerepelne a csapat, akkor a felületes szemlélőben megszülethet a következő gondolat: 
+                        &#x201E;X. Y.-t nem igazoltuk, bezzeg esport van&#x201D;. Ezt a kockázatot külön nem tudjuk kezelni, ezért 
+                        érdemes a társadalmi beágyazottság alá besorolni és annak megfelelően kezelni.
                     </para> 
                 </section>            
                 <section>
                     <title>Esportbeli beágyazottság</title>
                     <para>
+                        A szémítógépes játékok világa a gyártó cégek generáló szerepével, moderálásával, de teljesen organikusan, 
+                        igény szerint kialakult módon működik (él). Fontos, hogy ezekre a struktúrákra ráépüljünk és ne szembe menjünk velük!
                     </para> 
                 </section>                            
                 <section>
                     <title>Tudományos beágyazottság</title>
                     <para>
+                        A tudományos elfogadottság szabályai kiforrottak, ha tudunk lektorált közleményeket tudományos folyóiratokban
+                        megjeleníteni, akkor itt nincs kockázat.
                     </para> 
                 </section>            
-            </section>            
-            
+            </section>                        
             <section>
-                <title>Esport játékok és szponzorációs megfelelések</title>
-            
+                <title>Esport játékok és szponzorációs megfelelések</title>          
                 <para>
                     A kialakítandó edzőteremnek több esport szakmai szempontnak is meg kell felelnie, ha szeretnénk maximalizálni annak kihasználtságát. Ezen fő szempontokat itt most csak felvillantjuk, a későbbiekben bonjuk ki részletesen. Az edzőterem fő funkciói az alábbiak:
                     <itemizedlist mark='opencircle'>
@@ -229,7 +255,6 @@
                 <para>
                     Itt szükséges kitérni arra, hogy szeretnénk a lehető legnagyobb mértékben támogatni a szponzoraink, a DEAC-Hackers vagy az edzőterem szponzorainak a megjelenését. Ehhez minden olyan felületet szeretnénk kiajánlani, melyek érdekesek lehetnek egy potenciális partner számára. Például: logó elhelyezése az edzőteremben, a DEAC-Hackers játékosainak mezén, terem névadó szponzorok (például "ASUS laboratórium" vagy "LG gaming aréna"), vagy akár az edzőterem névadó szponzora (például "DEAC-ROG edzőterem"). Cserébe elképzelhető az edzőterem gépeinek biztosítása vagy az edzőterem infrastruktúrális költségeinek átvállalása (de praktikusan egy reklámszerződés keretei között létrejövő üzleti aktus, melynek tárgya lehet bármi, amire az edzőteremnek globálisan szüksége lehet).
                 </para> 
-
             </section>
             <section>
                 <title>Licencelés, GDPR</title>
@@ -237,7 +262,6 @@
                     Jeszenszky Péter.
                 </para> 
             </section>            
-
         </section>
     </chapter>                
 </part>  
