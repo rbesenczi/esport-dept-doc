@@ -141,4 +141,12 @@
             Előszó refaktor, kockázatok elkezd, iterálva a fórumokon is.
         </revremark>
     </revision>
+    <revision>
+        <revnumber>0.0.15</revnumber>
+        <date>2018-07-07</date>
+        <authorinitials>nbatfai</authorinitials>
+        <revremark>
+            Intro rész feltöltés (megírás) elkezd.
+        </revremark>
+    </revision>
 </revhistory>
