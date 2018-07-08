@@ -173,4 +173,12 @@
             Névjavaslatok a face-es poszt alapján.
         </revremark>
     </revision>
+    <revision>
+        <revnumber>0.0.19</revnumber>
+        <date>2018-07-08</date>
+        <authorinitials>rbesenczi</authorinitials>
+        <revremark>
+            Bogacsovics Gergő és Dudás Tamás: Internetes arculat koncepciója feltöltése.
+        </revremark>
+    </revision>
 </revhistory>
