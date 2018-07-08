@@ -212,7 +212,7 @@
                 <section>
                     <title>Előzetes szakmai skiccek</title>
                     <para>
-                        Besenczi Renátó. 
+                        A készülő létesítményt úgy kell kialakítanunk, hogy megfeleljen a korábban is ismertetett esportszakmai, oktatási, kutatási céloknak, valamint a kor szellemében a lehető legmodernebb megjelenése legyen. Ebben a fejezetben több alternatívát is felvillantunk, mely különbőző arányban tartalmaz okatatási és esport elemeket. Ami mindegyik tervben közös és a lehető legnagyobb hangsúlyt kell hogy kapja az a gamer részleg, hiszen maga a létesítmény a DEAC-Hackers főhadiszállása, illetve a legnagyobb marketingértékkel ez rendelkezik. Ezért ez a rész középen helyezkedik el (a PC-s részleg a földszinten, a konzol részleg az emeleten). Fontosnak tartjuk ezt támogatandó egy olyan öltöző kialakítását, melyben az esportolók fel tudnak készülni a sokszor akár 7-8 órás edzésekre, fel tudják magukat frissíteni, ezért egy öltözőt is tervezünk kialakítani. Az esport támogatása mellett kiemelt szerepet számunk a streamer teremnek. Hiszen ez lesz az a részleg, amely széleskörű megjelenést fog biztosítani a teremnek és úgy általában az egyetemi esportnak, a DEAC-Hackersnek. Ezeken felül mindegyik tervben szerepel egy iroda, mely adminisztratív feladatok ellátásához (IT és valós idejű hálózatmenedzsment, tagok adminisztratív kezelése stb) és az esetlegesen szükséges folyamatos jelenléthez szükséges. Ezek minden tervben jelen vannak.
                     </para> 
                     <para>
                         Az edzőterem jelenlegi állapotáról az alábbi két kép árulkodik. 
@@ -243,10 +243,19 @@
                             </textobject>
                         </mediaobject>
                     </figure>
+                    <para>
+                        A gamer részleg a különböző, korábban is tárgyalt szempontok miatt 24 PC-ből és 4 konzolból áll. A PC-s részleget a földszinten, 4 6-os csoportban (az egyes csoportokat paravánnal elhatárolhatóan) kell kialakítani. A 4 db konzol 2 PS4 Proból és 2 Xbox-ból áll, a szükséges TV-kel az emeleten.
+                    </para> 
+                    <para>
+                        A streamer részleg kialakítása hasonlóan az edzőterem többi egységéhez a kor szellemének megfelelően a lehető legmodernebb technológiák alkalmazásával kell történjen, 2 gamer pc-vel, 1-1 konzollal, valamint 1 dedikált streamer pc-vel (részletes specifikáció a későbbiekben).
+                    </para> 
+                    <para>
+                        A továbbiakban alfejezetekre bontva fejtjük ki az egyes alternatívákat. Fontos megjegyeznünk, hogy ezek a tervek nem mérnöki tervezés eredményei, csupán a szemléltetés eszközei. A végleges tervek a mérnöki tervezés és a hatósági folyamatok során fognak kialakulni.
+                    </para> 
                     <section>
                         <title>Edzőterem "A2" szakmai skicc</title>
                         <para>
-                            A2 skicc leírás.
+                            Ebben a tervben kapja az oktatás a legnagyobb hangsúlyt, két 18+1 fős gépes tanteremmel. A tanterem kialakításához az intuíciót a DEIK 204-es tanterme adta. Méretben (6x6m) és befogadóképességben (18+1 fő) várhatóan a kettő egyforma lesz, amely egybeesik a DEIK-es terem adottságaival is ("DEIK-kompatibilis"). Minden tanteremben 18+1 egyforma tantermi számítógép (javasolt konfiguráció a későbbiekben), whiteboard, illetve kivetítésre alkalmas TV található. Projektort semmiképpen sem javaslunk a gyenge minőség és a fényviszonyok miatt, valamint ezek a TV-k mozgatható állványra szereltek, hogy verseny, vagy egyéb esemény során is használhatóak legyenek.
                         </para> 
                         <figure>
                             <title>Edzőterem "A2" szakmai skicc földszint</title>
@@ -278,7 +287,7 @@
                     <section>
                         <title>Edzőterem "A" szakmai skicc</title>
                         <para>
-                            A skicc leírás.
+                            Ez a terv annyiban különbözik az előzőtől, hogy a két tanterem közül az egyik egy kisebb méretű, 16+1 fő befogadóképességű. Viszont az öltöző és az iroda így nagyobb méretű. Az emeleti rész változatlan.
                         </para>
                         <figure>
                             <title>Edzőterem "A" szakmai skicc földszint</title>                        
@@ -310,7 +319,7 @@
                     <section>
                         <title>Edzőterem "B" szakmai skicc</title>
                         <para>
-                            B skicc leírás.
+                            Ebben a szcenárióban az esport nagyobb hangsúllyal van jelen, egyrészt a streamer részleg sokkal nagyobb, valamint a földszinten egy taktikai értekezletekre alkalmas szoba található. A emeleten megtalálható a 18+1 fős DEIK-kompatibilis tanterem.
                         </para>
                         <figure>
                             <title>Edzőterem "B" szakmai skicc földszint</title>
@@ -342,7 +351,7 @@
                     <section>
                         <title>Edzőterem "C" szakmai skicc</title>
                         <para>
-                            C skicc leírás.
+                            Ebben a javaslatban kapja az esport a legnagyobb hangsúlyt. Az előzőhöz képes a különbség, hogy az emeleten egy multifunkciós, átrendezhető terem kapott helyet.
                         </para>
                         <figure>
                             <title>Edzőterem "C" szakmai skicc földszint</title>
