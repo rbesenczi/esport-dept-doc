@@ -63,8 +63,7 @@
             </para> 
         </section>
         <section>
-            <title>Jövőképek és utópiák</title>
-            
+            <title>Jövőképek és utópiák</title>            
             <para>
                 A szakirodalom &#x201E;MI tél&#x201D; névvel illeti azt a komplex jelenség együttest, 
                 amikor befagy az MI kutatás és projektek támogatása, miután felismerik, hogy a tudományos kérdések és a 
@@ -111,11 +110,43 @@
                 ahol mindenki rajthoz áll!
             </para>             
             <para>
+                Összefoglalva az első utópiában ismeretlen a cél, így a hozzá vezető út is. A másodikban a cél jól ismert, de 
+                az utat nem lehet hozzá előre kijelölni. A harmadikban ismert a cél és az út is, ne csodálkozzunk hát, ha mindenki ezen jár.
+                Az elsőben kérdések kellenek, a másodikban válaszok, a harmadikban meg mindenkit le kell győzni.
+            </para>             
+            <para>
                 Mesterséges intelligencia és informatikai trendekbe illesztés. Bátfai Norbert, Ispány Márton.
             </para> 
         </section>
         <section>
             <title>Küldetésnyilatkozat</title>
+            <para>
+                A fejlesztendő létesítmény küldetése, hogy falai között hitet ébresszen az érdeklődő diákok, kutatók, DEAC-Hackers
+                tagok és DEIK hallgatók körében az ismertetett három utópia kijelölte irányba. Ezt a hitet táplálja a következő
+                praktikus használati esetekkel.
+                <itemizedlist>
+                    <listitem>
+                        <para>
+                            Támogassa a DEAC-Hackers esport szakosztály folyamatos esport tevékenységét, ennek tekintetében lásd
+                            a jelen dokumentumot általában.
+                        </para>
+                    </listitem>    
+                    <listitem>
+                        <para>
+                            Támogassa gyors prototípusozás szinten az egyéni vagy kis csoportos, projektszemléletű infokommunikációs 
+                            szoftverfejlesztéseket, ennek tekintetében lásd
+                            <link xlink:href="napsugar-uzem.Sw-muhely">Szoftver műhely koncepció</link> pontot.
+                        </para>
+                    </listitem> 
+                    <listitem>
+                        <para>
+                            Ezt a gyors, eldobható prototípusozást ajánlja fel hasznosításra a DEIK 
+                            reguláris és irreguláris informatikai oktatásának számára, ennek tekintetében lásd a
+                            <link xlink:href="napsugar-uzem.Sw-muhely.oktatas">Reguláris és irreguláris gyakorlatok</link> pontot. 
+                        </para>
+                    </listitem> 
+                </itemizedlist>               
+            </para> 
             <para>
                 Esport, Bátfai Norbert. Reguláris oktatás, Mihálydeák Tamás. Kutatás, Ispány Márton.
             </para> 

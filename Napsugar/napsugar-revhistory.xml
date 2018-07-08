@@ -146,7 +146,15 @@
         <date>2018-07-07</date>
         <authorinitials>nbatfai</authorinitials>
         <revremark>
-            Intro rész feltöltés (megírás) elkezd.
+            Intro rész feltöltés (megírás) elkezd, véleményezésre ki.
+        </revremark>
+    </revision>
+    <revision>
+        <revnumber>0.0.16</revnumber>
+        <date>2018-07-08</date>
+        <authorinitials>nbatfai</authorinitials>
+        <revremark>
+            Küldetésnyilatkozat (megírás) elkezd, véleményezésre ki.
         </revremark>
     </revision>
 </revhistory>
