@@ -20,20 +20,67 @@
         </section>
             
         <section>
-            <title>Versenykörnyezet</title>
+            <title>Gaming eszközök</title>
             <para>
-                Besenczi Renátó
+                Az edzőtermet úgy kell kialakítani, hogy annak elsődleges funkcióját, az esportot a lehető legnagyobb mértékben ki tudja szolgálni. Ehhez a legmodernebb eszközöket kell beszerezni, valamint optimális környezetet kell kialakítani. Az eszközöket tekintve a gamer PC-kre a konzolokra és a mobilos játékok miatt a tabletekre kiemelt figyelmet kell fordítani. Javaslatunk a gamer PC-k konfigurációjára a szükséges gamer perifériákkal az alábbi.
+                <figure>
+                    <title>Gamer PC konfiguráció javaslat.</title>
+                    <mediaobject>
+                        <imageobject>
+                            <imagedata fileref="img/gamer_pc.PNG" scale="33"/>
+                        </imageobject>
+                        <textobject>
+                            <phrase>
+                                Gamer PC konfiguráció javaslat.
+                            </phrase>
+                        </textobject>
+                    </mediaobject>
+                </figure>
+                Megjegyezzük, hogy ez csak egy iránymutatás, mely a kívánt teljesítményről árulkodik. A 28 darabszám az alábbiak szerint alakul: (6+6)*2 db a gamer setupba, 2 db versenytartalék, 2 db a streamer setupba.
             </para> 
+            <para>
+                A konzol setup ugyancsak kiemelt része az edzőteremnek. Erre az alábbi a javaslatunk.
+                <figure>
+                    <title>Konzol setup javaslat.</title>
+                    <mediaobject>
+                        <imageobject>
+                            <imagedata fileref="img/konzol.PNG" scale="40"/>
+                        </imageobject>
+                        <textobject>
+                            <phrase>
+                                Konzol setup javaslat.
+                            </phrase>
+                        </textobject>
+                    </mediaobject>
+                </figure>
+                A darabszámok az alábbiak szerint alakulnak. Konzol setup 2 db Playstation 4 Pro és 2 db XBox One X a gamer részlegre, 1-1 db a streamer részlegre, 4 db TV a gamer részlegre, 1 db a streamer részlegre.
+            </para>
+            <para>
+                Javaslatunk a tabletekre az alábbi.
+                <figure>
+                    <title>Tablet javaslat.</title>
+                    <mediaobject>
+                        <imageobject>
+                            <imagedata fileref="img/tablet.PNG" scale="40"/>
+                        </imageobject>
+                        <textobject>
+                            <phrase>
+                                Tablet javaslat.
+                            </phrase>
+                        </textobject>
+                    </mediaobject>
+                </figure>
+            </para>
+            <para>
+                Ezen eszközökön felül fontos, hogy a környezet is megfelelő legyen. Ezért a gaming és streamer egységekhez gamer asztalokat, székeket javaslunk beszerezni.
+            </para>
         </section>            
             
         <section>
-            <title>IT infrastruktúra</title>
+            <title>Versenykörnyezet</title>
             <para>
-                Besenczi Renátó
+                Az edzőterem egyik funkciója a versenyek szervezhetősége. Az alábbiakban játékonként részletezzük az esetleges speciális igényeket.
             </para> 
-                
-                
-                
             <section>
                 <title>Játékspecifikus szakterületi követelmények</title>
                 <para>
@@ -56,9 +103,12 @@
                 </section>
 
                 <section>
-                    <title>CoC</title>
+                    <title>Clash of Clans</title>
                     <para>
-                        Besenczi Renátó.
+                        A Clash of Clans játék egy mobiltelefonon/tableten játszható játék, de esport szempontból a tablet a kívánatos a nagyobb méret miatt. Az edzőterem kialakításánál figyelembe kell venni, hogy a versenyek lebonyolítása általában 5v5 rendszerben zajlik (tehát 10 játékos játszik egymás ellen). Egy ilyen versenyre láthatunk példát, amely a gyártó cég szervezésében zajlott: <link xlink:href="https://www.youtube.com/watch?v=0s23S2-24gk">itt</link>. Jelenleg még nincs tudomásunk arról, hogy bármely játékplatform támogatná Clash of Clans versenyek lebonyolítását, ezért a teljes versenyt nekünk kell adminisztrálni és vezényelni. Erre a DEAC-Hackers korábban kidolgozott egy működő versenyszabályzatot, melyet DE Barbár néven tesztelt is. Ezt a versenyszabályzatot javasoljuk alkalmazni a továbbiakban is.
+                    </para>
+                    <para>
+                        A játék eszköz tekintve nem igényel semmi speciálisat, egy átlagos tablet teljesen jól használható. Egy ilyen tabletet javasoltunk a Gaming eszközök fejezetben. Hálózati kommunikáció szükséges a játékhoz, melyet WiFi-n keresztül szükséges biztosítani. 
                     </para>
                 </section>
             
@@ -132,7 +182,34 @@
             <section>
                 <title>IKT eszközök</title>
                 <para>
-                    Besenczi Renátó
+                    Az edzőterembe adminisztratív feladatok ellátására további eszközöket javaslunk. Irodai PC-k beszerzése szükséges a hálózatmenedzsment, a rendszergazdai feladatok valamint egyéb, a szakosztály életében felmerülő adminisztratív feladatok ellátására. A javasolt konfiguráció az alábbi:
+                    <figure>
+                        <title>Irodai PC javaslat.</title>
+                        <mediaobject>
+                            <imageobject>
+                                <imagedata fileref="img/office_pc.PNG" scale="40"/>
+                            </imageobject>
+                            <textobject>
+                                <phrase>
+                                    Irodai PC javaslat.
+                                </phrase>
+                            </textobject>
+                        </mediaobject>
+                    </figure>                    
+                    Ezen felül javasoljuk laptopok beszerzését is az alábbiak szerint.
+                    <figure>
+                        <title>Laptop javaslat.</title>
+                        <mediaobject>
+                            <imageobject>
+                                <imagedata fileref="img/laptop.PNG" scale="30"/>
+                            </imageobject>
+                            <textobject>
+                                <phrase>
+                                    Laptop javaslat.
+                                </phrase>
+                            </textobject>
+                        </mediaobject>
+                    </figure>                    
                 </para> 
             </section>
                 
@@ -141,16 +218,37 @@
                 <para>
                     Besenczi Renátó
                 </para>
-                <mediaobject>
-                    <imageobject>
-                        <imagedata fileref="img/hálózat_skicc.PNG" scale="45"/>
-                    </imageobject>
-                    <textobject>
-                        <phrase>
-                            leiras                                        
-                        </phrase>
-                    </textobject>
-                </mediaobject> 
+                <para>
+                    <figure>
+                        <title>Hálózati skicc.</title>
+                        <mediaobject>
+                            <imageobject>
+                                <imagedata fileref="img/hálózat_skicc.PNG" scale="50"/>
+                            </imageobject>
+                            <textobject>
+                                <phrase>
+                                    Hálózati skicc
+                                </phrase>
+                            </textobject>
+                        </mediaobject>
+                    </figure>
+                </para>
+                <para>
+                    Javasolt hálózati eszközök az alábbiak:
+                    <figure>
+                        <title>Hálózati eszközök javaslat.</title>
+                        <mediaobject>
+                            <imageobject>
+                                <imagedata fileref="img/network.PNG" scale="50"/>
+                            </imageobject>
+                            <textobject>
+                                <phrase>
+                                    Hálózati eszközök javaslat.
+                                </phrase>
+                            </textobject>
+                        </mediaobject>
+                    </figure>
+                </para>
             </section>
 
             <section>
@@ -163,10 +261,6 @@
 
             <section>
                 <title>Saját internetes megjelenés</title>
-                <para>
-                    Besenczi Renátó
-                </para> 
-                    
                 <section>
                     <title>Internetes arculat koncepciója</title>
                     <para>
@@ -214,6 +308,22 @@
                     <title>Tantermek kialakítása</title>
                     <para>
                         16-18 fős, a hagyományos tantermi keretek megőrzése, Mihálydeák Tamás.
+                    </para> 
+                    <para>
+                        Javaslat a tantermi számítógépek konfigurációjára (Besenczi Renátó).
+                        <figure>
+                            <title>Tantermi PC javaslat.</title>
+                            <mediaobject>
+                                <imageobject>
+                                    <imagedata fileref="img/edu_pc.PNG" scale="40"/>
+                                </imageobject>
+                                <textobject>
+                                    <phrase>
+                                        Tantermi PC javaslat.
+                                    </phrase>
+                                </textobject>
+                            </mediaobject>
+                        </figure>                        
                     </para> 
                 </section>
                 

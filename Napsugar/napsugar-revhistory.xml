@@ -198,4 +198,12 @@
             áttekintése, hiánypótlások kiküldése.
         </revremark>
     </revision>
+    <revision>
+        <revnumber>0.0.22</revnumber>
+        <date>2018-07-08</date>
+        <authorinitials>rbesenczi</authorinitials>
+        <revremark>
+            Gaming eszközök be, IT eszközök be, versenykörnyezet CoC-ra be, hálózati eszközök be, tanterem pc-k javaslat be, streamer műhely koncepció elkezd.
+        </revremark>
+    </revision>    
 </revhistory>
