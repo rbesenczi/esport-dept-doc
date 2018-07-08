@@ -157,4 +157,20 @@
             Küldetésnyilatkozat (megírás) elkezd, véleményezésre ki.
         </revremark>
     </revision>
+    <revision>
+        <revnumber>0.0.17</revnumber>
+        <date>2018-07-08</date>
+        <authorinitials>rbesenczi</authorinitials>
+        <revremark>
+            Külcsín leírása.
+        </revremark>
+    </revision>
+    <revision>
+        <revnumber>0.0.18</revnumber>
+        <date>2018-07-08</date>
+        <authorinitials>rbesenczi</authorinitials>
+        <revremark>
+            Névjavaslatok a face-es poszt alapján.
+        </revremark>
+    </revision>
 </revhistory>
