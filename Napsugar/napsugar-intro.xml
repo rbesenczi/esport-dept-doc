@@ -11,7 +11,6 @@
                 <keyword/>
             </keywordset>
         </info>
-
         <section>
             <title>Kibővített vezetői összefoglaló</title>
             <para>                            
@@ -64,54 +63,218 @@
             </para> 
         </section>
         <section>
-            <title>Jövőképek és utópiák</title>
+            <title>Jövőképek és utópiák</title>            
             <para>
-                Mesterséges intelligencia és informatikai trendekbe illesztés. Bátfai Norbert, Ispány Márton.
+                A szakirodalom &#x201E;MI tél&#x201D; névvel illeti azt a komplex jelenség együttest, 
+                amikor befagy az MI kutatás és projektek támogatása, miután felismerik, hogy a tudományos kérdések és a 
+                jelenlegi technológiai válaszok között áthidalhatatlannak tűnő űr tátong. 
+                Hogy most éppen &#x201E;MI tavasz&#x201D; vagy &#x201E;MI ősz&#x201D; 
+                van-e, a &#x201E;világ eldönti&#x201D;<footnote>
+                    <para>
+                        <link xlink:href="https://www.imdb.com/title/tt0320661/">Mennyei Királyság, 2005</link>.</para>
+                </footnote>. 
+                Mi arra figyeljünk, amit mi tehetünk a fejlesztendő létesítményben. Mert a géming és az MI közötti 
+                alapvető kapcsolat triviális, a szakma kezdeteitől jelen van. Sőt, a jelenlegi MI áttörési kísérlet 
+                kirobbantója, hídfőállása éppen a Google DeepMind azon Nature publikációja 
+                (és az e mellett elérhető működő szoftver), amely azt mutatja be, hogy több tucatnyi 
+                klasszikus számítógépes játékhoz a humán játékosoknál eredményesebb, megerősítéses tanulásos játszó 
+                ágenst tudtak bemutatni <citation>ATARI</citation>, <citation>ATARI2</citation>.                            
+            </para> 
+            <para>
+                Mit tehetünk mi?
+            </para> 
+            <para>
+                A fejlesztendő létesítményben azt a hitet kell megadnunk a tagoknak, tipikusan a hallgatóknak, hogy ők is 
+                lehetnek azok az úttörők, akik közel vannak a &#x201E;tűzhöz&#x201D; abban az értelemben, hogy 
+                ismerik a legmodernebb technikai és tudományos 
+                trendeket, de csak elég lazán kapcsolódnak, így minőségileg új, akár az iparágat tematizáló
+                ötleteket tudnak bedobni. Legyünk őszinték: nem tudunk ilyenre
+                konkrét jövőbeli potenciális példát mondani! Ha tudnánk, akkor naná, hogy most is azon dolgoznánk. 
+                Csakis ennek az élmény alapjára próbáhatunk rávilágítani a következő gondolatmenettel. 
+                A nyílt forráskód mozgalomra alapozva ma úgy tekinthetünk a szoftver világára, mint a 70-es években a 
+                mérnökök a hardverre, ahol akár hobby tevékenységekből is jövőformáló tendenciák alakultak ki, ez a kor volt 
+                a PC kialakulásának kora. Mi lehet a szoftverben a hasonló áttörés? Ki tudja. Ha egy magyar csapat 
+                a mesterséges általános intelligenciában látná, akkor lehet, hogy a jövő mesterséges általános intelligenciájának az
+                alapértelmezett nyelve a magyar lenne? Ez lehetne a Magyar Nemzeti Mesterséges Intelligencia? Ez az első utópiánk.
+            </para> 
+            <para>
+                Második utópiánk egy saját, nyílt forráskódú esport cím, egy saját esport játék kifejlesztése. 
+                Ez annyiban konkrétabb az elsőnél, hogy
+                legalább megfogalmazható a cél. Ám mint olyan, annek az alkalmazásunknak triviálisan killer alkalmazásnak kell lennie,
+                amelynek fejlesztése ugye nem elhatározás kérdése. Tehát a fókusz itt is a hit megadásán lehet.
+            </para> 
+            <para>
+                Harmadik utópiánk, hogy egy DEAC-Hackers csapat szerepeljen egy nagyon rangos tornán, mondjuk a LoL világbajnokságon.
+                Itt már a cél és elvben a hozzá vezető út is ismert, a nehézségét az adja, hogy a fél világ ebben versenyez, amig az
+                első két esetben akár egyetlen eredeti ötlet is megválthatja a világot, itt be kell állni a sorba és ott állni az élre,
+                ahol mindenki rajthoz áll!
+            </para>             
+            <para>
+                Összefoglalva az első utópiában ismeretlen a cél, így a hozzá vezető út is. A másodikban a cél jól ismert, de 
+                az utat nem lehet hozzá előre kijelölni. A harmadikban ismert a cél és az út is, ne csodálkozzunk hát, ha mindenki ezen jár.
+                Az elsőben kérdések kellenek, a másodikban válaszok, a harmadikban meg mindenkit le kell győzni.
+            </para>             
+            <para>
+                További opcionális kiegészítés: mesterséges intelligencia és informatikai trendekbe illesztés, Ispány Márton.
             </para> 
         </section>
         <section>
             <title>Küldetésnyilatkozat</title>
             <para>
-                Esport, Bátfai Norbert. Reguláris oktatás, Mihálydeák Tamás. Kutatás, Ispány Márton.
+                A fejlesztendő létesítmény küldetése, hogy falai között hitet ébresszen az érdeklődő diákok, kutatók, DEAC-Hackers
+                tagok és DEIK hallgatók körében az ismertetett három utópia kijelölte irányba. Ezt a hitet táplálja a következő
+                praktikus használati esetekkel.
+                <itemizedlist>
+                    <listitem>
+                        <para>
+                            Támogassa a DEAC-Hackers esport szakosztály folyamatos esport tevékenységét, ennek tekintetében lásd
+                            a jelen dokumentumot általában.
+                        </para>
+                    </listitem>    
+                    <listitem>
+                        <para>
+                            Támogassa gyors prototípusozás szinten az egyéni vagy kis csoportos, projektszemléletű infokommunikációs 
+                            szoftverfejlesztéseket, ennek tekintetében lásd
+                            <link xlink:href="napsugar-uzem.Sw-muhely">Szoftver műhely koncepció</link> pontot.
+                        </para>
+                    </listitem> 
+                    <listitem>
+                        <para>
+                            Ezt a gyors, eldobható prototípusozást ajánlja fel hasznosításra a DEIK 
+                            reguláris és irreguláris informatikai oktatásának számára, ennek tekintetében lásd a
+                            <link xlink:href="napsugar-uzem.Sw-muhely.oktatas">Reguláris és irreguláris gyakorlatok</link> pontot. 
+                        </para>
+                    </listitem> 
+                </itemizedlist>               
+            </para> 
+            <para>
+                További opcionális kiegészítés: reguláris oktatás: Mihálydeák Tamás, kutatás: Ispány Márton.
             </para> 
         </section>
         <section xml:id="napsugar-intro.Kockazatok">
             <title>Kockázatelemzés és kezelés</title>
             <section>
                 <title>Elfogadottság és beágyazottság</title>
-                <para>
-                    Bátfai Norbert.
-                </para> 
                 <section>
                     <title>Tagsági beágyazottság</title>
                     <para>
+                        A DEAC-Hackers 169 igazolt játékossal rendelkezik, ebből 25 százalék DEIK hallgató. 
+                        A szerveződés életében igen nagy esemény és lehetőség
+                        a tervezett létesítmény. Lehet itt egyáltalán bármi rizikó? Igen, több szinten is! Egyrészt 
+                        mert ez a nagy fejlődési ugrás nem a 
+                        szerveződés organikus, előre látható, igény szerinti, 
+                        azaz szükségszerű fejlődési momentuma, hanem olyan esemény, melynek
+                        számos további együttálló, a szakosztály nézőpontjából &#x201E;külső&#x201D; oka van. 
+                        Ilyen például az egyetemi háttér megléte, a jelentős sport háttérrel is rendelkező egyetem, a Nagyerdei Stadion
+                        megléte, az Informatikai Kar támogatása és sorolhatnánk. 
+                        Ennél jóval kisebb szakosztályi előrelépések is előhoztak, felerősítettek 
+                        olyan hangulat és hozzáállásbeli változásokat a tagságban, amelyek felerősödve a közösségépítés kárára válnának. 
+                        Tehát egy olyan jelentős lehetőség, mint a szóban forgó létesítmény megkívánja a tagság felkészülését erre az 
+                        ugrásszerű nagy előrelépésre. 
+                    </para>
+                    <para>           
+                        Meg kell próbálnunk a tagságot résztvevőként bevonni a változások kialakításába, hogy mindannyian közösséget tudjunk
+                        érezni!             
+                        Ennek megfelelően a 
+                        tagság középvezetőinek egy részét társszerzőként, másik részét véleményezőként kértük fel részvételre
+                        ennek a dokumentumban az 
+                        elkészítésében. Továbbá a készítés során a fejlődő dokukmentum egészét, illetve kiemelt részeit külön is 
+                        folyamatosan megosztjuk a DEAC-Hackers közösségi csatornáin, kérve és figyelve a tagság reagálását.
+                    </para>                     
+                    <para>                        
+                        Másrészt még a DEIK programozó köreiből is ismert olyan elszórt vélemény, amelynek háttere, hogy kritikusan
+                        elkülönítik a játékot és a programozást. Nem vitás, hogy általában két különböző tevékenységről van szó. Ennek a
+                        jelenségnek a kibontását és kezelését lásd a következő szakmai kockázatok alatt.
                     </para> 
                 </section>            
                 <section>
+                    <title>Szakmai beágyazottság</title>
+                    <para>
+                        Informatikai nézőpontból szemlélődve nyilvánvaló, 
+                        hogy a számítógépes játékoknak, a &#x201E;gémingnek&#x201D; és az informatikának ugyanúgy van egy erős 
+                        közös metszete, mint 
+                        ahogyan van egy diszjunk része is. A metszetbeli megfigyelők (mondjuk egy játék fejlesztő) jó eséllyel üdvözölnék 
+                        jelen erőfeszítéseinket. Ezzel szemben a diszjunk rész reprezentáns informatikusa jó eséllyel opponálná 
+                        a játékok és a programozás oktatásának olyan
+                        szintű szimbiózisát, amelyet mi itt tervezünk.
+                    </para> 
+                    <para>
+                        Ezt kezelendő a kialakítandó létesítmény alábbi irányokba történő pozícionálását érdemes kiemelni.
+                        <itemizedlist>
+                            <listitem>
+                                <para>
+                                    Az informatikai kutatásokban a mesterséges általános intelligencia olyan projektjeihez megpróbálni
+                                    csatlakozni, mint a <link xlink:href="https://github.com/Microsoft/malmo">Microsoft Malmo</link> 
+                                    vagy a <link xlink:href="https://github.com/deepmind/lab">Google DeepMindLab</link>. Ezek egyértelműen játék alapú platformok
+                                    (Minecraft és Quake III Arena) és egyben a mesterséges általános intelligencia kutatás fő sodorvonala is.
+                                </para>
+                            </listitem>    
+                            <listitem>
+                                <para>
+                                    A létesítmény felhalmozott erős &#x201E;géming&#x201D; infrastruktúrájának kiajánlása az oktatás és kutatás
+                                    támogatására, kimondottan szoftverfejlesztést is lényegi elemként tartalmazó kutatás+fejlesztési, 
+                                    projektszemléletű gyakorlati alkalmazások irányába. További részletek tekintetében lásd a
+                                    <link xlink:href="#napsugar-uzem.Sw-muhely">Szoftver-műhely koncepció</link> pontot!
+                                </para>
+                            </listitem> 
+                        </itemizedlist>                                       
+                    </para> 
+                </section>                            
+                <section>
                     <title>Társadalmi beágyazottság</title>
                     <para>
+                        A számítógépes játékok társadalmi megítélése sokszínű és korosztályonként is differenciálható.
+                        Ennek a sokszínűségi spektrumnak az egyik vége a teljes elutasítás. A sikeres és elfogadott esport 
+                        nyilvánvalóan a spektrum másik végére lenne pozicionált. Ezt az esetleges társadalmi elutasítást 
+                        úgy tudjuk kezelni, hogy objektíven (tudományos értelemben és igényességgel) próbálunk vizsgálódni az itt
+                        felmerülő kérdések tekintetében. 
+                        Ebben az lesz segítségünkre, hogy az esporttal 
+                        kapcsolatban hagyományos értelemben vett kutatómunkát is végzünk. 
+                        Mert az esport szempontjából a társadalmi túlszabályozás a fenyegető kockázat.
+                        Konkrétan, kutatás szinten támogatnunk kell egy erős neveléstudományi vonalat és a tervezett létesítményben
+                        otthont kell adnunk olyan szerveződéseknek, amelyek támogatják a régió gyermekeinek már elfogadott 
+                        informatikai oktatását és nevelését, a játékkultúrájuk kialakítását, 
+                        továbbá az informatikai (és/vagy játékos) tehetségek felkutatását és a tehetséggondozást. Egyszerűen vissza
+                        kell valamit adni a társadalomnak!
                     </para> 
                 </section>            
                 <section>
                     <title>Sportbeli beágyazottság</title>
                     <para>
+                        A hagyományos sport is sokszínűen fogadja az esportot. Itt árnyalja a képet, hogy társadalmi beágyazottságnál
+                        említett kockázatot anyagi érdekek perturbálják, melyek most éppen az esport elfogadása felé billentik a mérleg nyelvét. 
+                        Hiszen az esportnak a fiatal korosztályokban nővekszik a népszerűsége, amíg talán a klasszikus sportoknak csökken. 
+                        Ebben a jelenségben az oksági kapcsolatokkal kapcsolatos
+                        kérdések tudományos kérdésként tárgyalhatóak (ahol még az is kiderülhet, hogy szimpla történeti együttállásról van szó). 
+                        Az esport szempontjából itt is 
+                        a társadalmi túlszabályozás a fenyegető kockázat, melyek az esport megszervezésével csökkenthetők.
+                    </para> 
+                    <para>
+                        Egy további, lokális kockázatot hordoz a tervezett létesítményre a kvintesszenciája, maga a helye, 
+                        a Nagyerdei Stadion. Hiszen ez a Loki
+                        szentélye is. Ha adott esetben rosszul szerepelne a csapat, akkor a felületes 
+                        szemlélőben megszülethet a következő (nyilván teljesen irreális) gondolat: 
+                        &#x201E;X. Y.-t nem igazoltuk, bezzeg esport van&#x201D;. Ezt a kockázatot külön nem tudjuk kezelni, ezért 
+                        érdemes a társadalmi beágyazottság alá besorolni és annak megfelelően kezelni.
                     </para> 
                 </section>            
                 <section>
                     <title>Esportbeli beágyazottság</title>
                     <para>
+                        A számítógépes játékok világa a gyártó cégek generáló szerepével, moderálásával, de teljesen organikusan, 
+                        igény szerint kialakult módon működik (él). Fontos, hogy ezekre a struktúrákra ráépüljünk és ne szembe menjünk velük!
                     </para> 
                 </section>                            
                 <section>
                     <title>Tudományos beágyazottság</title>
                     <para>
+                        A tudományos elfogadottság szabályai kiforrottak, ha tudunk lektorált közleményeket tudományos folyóiratokban
+                        megjeleníteni, akkor itt nincs kockázat.
                     </para> 
                 </section>            
-            </section>            
-            
+            </section>                        
             <section>
-                <title>Esport játékok és szponzorációs megfelelések</title>
-            
+                <title>Esport játékok és szponzorációs megfelelések</title>          
                 <para>
                     A kialakítandó edzőteremnek több esport szakmai szempontnak is meg kell felelnie, ha szeretnénk maximalizálni annak kihasználtságát. Ezen fő szempontokat itt most csak felvillantjuk, a későbbiekben bonjuk ki részletesen. Az edzőterem fő funkciói az alábbiak:
                     <itemizedlist mark='opencircle'>
@@ -171,7 +334,6 @@
                 <para>
                     Itt szükséges kitérni arra, hogy szeretnénk a lehető legnagyobb mértékben támogatni a szponzoraink, a DEAC-Hackers vagy az edzőterem szponzorainak a megjelenését. Ehhez minden olyan felületet szeretnénk kiajánlani, melyek érdekesek lehetnek egy potenciális partner számára. Például: logó elhelyezése az edzőteremben, a DEAC-Hackers játékosainak mezén, terem névadó szponzorok (például "ASUS laboratórium" vagy "LG gaming aréna"), vagy akár az edzőterem névadó szponzora (például "DEAC-ROG edzőterem"). Cserébe elképzelhető az edzőterem gépeinek biztosítása vagy az edzőterem infrastruktúrális költségeinek átvállalása (de praktikusan egy reklámszerződés keretei között létrejövő üzleti aktus, melynek tárgya lehet bármi, amire az edzőteremnek globálisan szüksége lehet).
                 </para> 
-
             </section>
             <section>
                 <title>Licencelés, GDPR</title>
@@ -179,7 +341,6 @@
                     Jeszenszky Péter.
                 </para> 
             </section>            
-
         </section>
     </chapter>                
 </part>  
