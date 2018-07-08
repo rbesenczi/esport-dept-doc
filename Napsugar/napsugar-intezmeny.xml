@@ -63,9 +63,18 @@
                 </section>
             
                 <section>
-                    <title>CR</title>
+                    <title>Clash Royale</title>
                     <para>
-                        Besenczi Renátóval egyeztetve Molnár Zsolt.
+                        Offline Clash Royale versenyekhez mindenképp szükséges megfelelő WiFi kapcsolat biztosítása, (sávszélesség, userek száma). A tervezett infrastruktúra 2 db ipari WiFi hozzáférési pontot tartalmaz egyenként 1733 Mbit/sec elvi sávszélességgel 500 felhasználó számára. Terveink szerint a hálózat olyan szinten lesz paraméterezhető, hogy akár a sávszélesség is balanszolható, ez egyébként igényként is megjelenik. Például ha egy Clash Royale verseny van a teremben, akkor a terem számára rendelkezésre álló sávszélesség egy jelentős hányadát, mondjuk 750 Mbit/sec-et a WiFi hozzáférési pontoknak le tudunk majd foglalni, vagy a QoS-t állítani, stb. Tehát hiába streamel közben valaki, vagy megy a tanteremben egy tanóra, nem fog bezavarni.
+                    </para>
+                    <para>
+                        Mivel mobilos játékról beszélünk így célszerű, hogy a versenyzők saját eszközt használjanak. Alapvetően a saját eszközökkel nincs gond, mindenki hozza a sajátját. Viszont tervezünk beszerezni, elsősorban az utánpótláskorú játékosok számára.
+                    </para>
+                    <para>
+                        Versenyzők regisztrációja történhet kétféleképpen, vagy személyes nevezéssel az edzőterembe, vagy olyan programmal, ahol lehet nevezni úgyan úgy, mint ahol általában versenyzünk (pl. ESL). A versenyek lebonyolításához esetleges komfort kérdések felmerülhetnek, a versenyzők ülve asztaloknál, vagy akár pultoknál állva vívják meg küzdelmüket. Versenybírók felállítása, illetve szervező és segítő tagok részvétele (önkéntességi alapon versenyadminok, bírák, stb). Szükséges pár kivetítő, ahol a szurkoló nézhetik a partikat (erre a tantermek, elemzőszobák TV-i és a marketing célú TV-k alkalmasak). Ha mindez adott akkor már csak az marad hogy edzőterembe, Hall-ba, vagy akár a szabadban s hogy Kupa, vagy körmérkőzés vagy Svájci rendszerű verseny legyen
+                    </para>
+                    <para>
+                        Online  versenyek lebonyolítása egy már létező működő platformon történjen (pl. ESL), ahol szükséges egy bírói testület (ún. admin) részvétele perfekt angol nyelvtudással, akit üzenetben megtalálhatnak a versenyzők esetleges kérdéseikkel. 
                     </para>
                 </section>
 
@@ -161,8 +170,19 @@
                 <section>
                     <title>Internetes arculat koncepciója</title>
                     <para>
-                        Például legyen honlapja? Mobilon is legyen elérhető? Mi legyen mögötte, legyen netes közösségi oldala stb.?
-                        Dudás Tamás István, Veres Dávid, Bogacsovics Gergő, Paszerbovics Roland.
+                        A mai világban kifejezetten fontos, hogy egy növekvő közösség rendelkezzen egy saját Internetes arculattal, amely egyfajta interfészként szolgál az iránta érdeklődők, csatlakozni kívánók számára. Erre már több lehetőség is adott manapság. Vehetjük például a különböző közösségi oldalakat, mint például a Facebook, ahol csoportot lehet létrehozni, a közösség a híreket megoszthatja az oldal követőivel, eseményeket hozhat létre stb. Ennek egy magasabb szintje, ha a közösség rendelkezik saját honlappal is.
+                    </para> 
+                    <para>
+                        A DEAC-Hackers szempontjából egy önálló weboldal így szintén több szempontból is előnyös lehet. Egy saját honlap nagyon jól reklámozná a közösséget az Interneten, a közelgő eseményeket, összejöveteleket akár visszamenőleg is meg lehetne tekinteni vagy akár a közelgőket előre jelezni. Előbbihez természetesen egy modern, a közösség által sugárzott mentalitást tükröző honlapot kell elkészíteni. Utóbbit egy esetleges weboldal szintén nagyban segítené. Az események menedzsmentjét (létrehozását, dokumentálását, fényképek feltöltését stb.) egy admin felülettel tudnánk biztosítani, amelyet csak a közösség vezetői érnek el, a többi tag pedig csak olvasható módon azokat megtekinteni tudná. Ugyancsak lehetőség nyílna körlevelekre történő feliratkozásra, mely annyit tenne, hogy a regisztrált tagok (igény szerint) automatikusan értesítve lennének e-mail formájában, ha bármilyen esemény vagy egyéb fontos információ kerül kiírásra. Ezen kívül több extra funkciót tudnánk biztosítani, melyek lényegében automatizálnának jó néhány feladatot, mint például a pólók rendelése, versenyeredmények rögzítése. Ezek esetében akár egy webáruházon keresztül például egy adott tag jelezné igényét póló rendelésére, majd az adatok kitöltése után azok továbbítódnának a webszerverre, amely automatikusan értesítené az illetékeseket, hogy rendelés történt az alábbi adatokkal. A versenyeredmények rögzítése pedig azért érdekes, mert azok (admin felületen történő) bevitele után mindenki számára látható statisztikákat lehetne felmutatni a honlapon, amelyek például minden egyes bevitel után automatikusan frissülnének.
+                    </para> 
+                    <para>
+                        Nem elhanyagolható szempont az sem, hogy egy saját honlap különféle bevételeket is jelentene, amelyeket a főhadiszállásra vagy a tagok igényeinek kielégítésére fordíthatnánk vagy akár a különféle események megrendezésére. Például az összejövetelek során a jelenlévő tagok ellátását, versenyekre történő utaztatását a reklámokból származó bevételekből lehetőségünk nyílna (a bevételek mértékétől függően) részben vagy akár egészben támogatni. A támogatásokat ugyancsak fel tudnánk használni a berendezések, számítógépek, konzolok stb. vásárlása során, ezáltal a tagok, illetve a honlap látogatói akár maguk is elősegíthetnék a főhadiszállás bővítését. Igény (illetve bevétel) szerint továbbá a támogatásokból helyi díjazású, apróbb versenyeket is tudnánk szervezni, mely szintén jelentős szerepet játszhatna a közösség összehangolásában vagy akár bővítésében.  Ráadásul ez mindenféle kellemetlenség nélkül megvalósítható lenne: az oldalon a látogató dönthetné el, hogy szeretne-e reklámot látni. Ha nem, akkor nem jelenik meg számára, ha igen, akkor pedig ezzel hozzájárul a közösség fejlesztéséhez.
+                    </para> 
+                    <para>
+                        Egy további fontos tényező, hogy a korábban felsorolt tevékenységeket (versenyeredmények rögzítése, adminisztrálása, azok megtekintése, rendelés stb.) akár telefonról is el tudjuk végezni. Ehhez egy jól megtervezett, reszponzív weboldalra van szükség, mely helyesen jelenik meg mind desktop PC-ken mind hordozható eszközökön, mint például tableteken, telefonokon. Így bármikor, bárhonnan elvégezhető lenne tetszőleges adminisztratív feladat, illetve a tagok is naprakészek lehetnének a közösséget illető információkkal kapcsolatban.
+                    </para> 
+                    <para>
+                        Az önálló weboldal mellett nagyszerű lehetőséget biztosít a Discord egy online közösség kialakítására, ahol az érdeklődők részletesebb információkat kaphatnak akár a weboldalon közölt eseményekkel kapcsolatban, akár más jellegű dolgokról. Itt igény szerint biztosítanánk csevegő szobákat a DEAC-Hackers eseményeinek kibeszéléseire, valamint a játékosoknak, de akár különböző DEAC-Hackers versenyek részletes elemzésérei is az érdeklődők számára.                   
                     </para>
                     <section>
                         <title>Megvalósíthatóság és szoftver háttér</title>
