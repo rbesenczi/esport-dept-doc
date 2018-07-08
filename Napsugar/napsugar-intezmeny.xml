@@ -63,9 +63,18 @@
                 </section>
             
                 <section>
-                    <title>CR</title>
+                    <title>Clash Royale</title>
                     <para>
-                        Besenczi Renátóval egyeztetve Molnár Zsolt.
+                        Offline Clash Royale versenyekhez mindenképp szükséges megfelelő WiFi kapcsolat biztosítása, (sávszélesség, userek száma). A tervezett infrastruktúra 2 db ipari WiFi hozzáférési pontot tartalmaz egyenként 1733 Mbit/sec elvi sávszélességgel 500 felhasználó számára. Terveink szerint a hálózat olyan szinten lesz paraméterezhető, hogy akár a sávszélesség is balanszolható, ez egyébként igényként is megjelenik. Például ha egy Clash Royale verseny van a teremben, akkor a terem számára rendelkezésre álló sávszélesség egy jelentős hányadát, mondjuk 750 Mbit/sec-et a WiFi hozzáférési pontoknak le tudunk majd foglalni, vagy a QoS-t állítani, stb. Tehát hiába streamel közben valaki, vagy megy a tanteremben egy tanóra, nem fog bezavarni.
+                    </para>
+                    <para>
+                        Mivel mobilos játékról beszélünk így célszerű, hogy a versenyzők saját eszközt használjanak. Alapvetően a saját eszközökkel nincs gond, mindenki hozza a sajátját. Viszont tervezünk beszerezni, elsősorban az utánpótláskorú játékosok számára.
+                    </para>
+                    <para>
+                        Versenyzők regisztrációja történhet kétféleképpen, vagy személyes nevezéssel az edzőterembe, vagy olyan programmal, ahol lehet nevezni úgyan úgy, mint ahol általában versenyzünk (pl. ESL). A versenyek lebonyolításához esetleges komfort kérdések felmerülhetnek, a versenyzők ülve asztaloknál, vagy akár pultoknál állva vívják meg küzdelmüket. Versenybírók felállítása, illetve szervező és segítő tagok részvétele (önkéntességi alapon versenyadminok, bírák, stb). Szükséges pár kivetítő, ahol a szurkoló nézhetik a partikat (erre a tantermek, elemzőszobák TV-i és a marketing célú TV-k alkalmasak). Ha mindez adott akkor már csak az marad hogy edzőterembe, Hall-ba, vagy akár a szabadban s hogy Kupa, vagy körmérkőzés vagy Svájci rendszerű verseny legyen
+                    </para>
+                    <para>
+                        Online  versenyek lebonyolítása egy már létező működő platformon történjen (pl. ESL), ahol szükséges egy bírói testület (ún. admin) részvétele perfekt angol nyelvtudással, akit üzenetben megtalálhatnak a versenyzők esetleges kérdéseikkel. 
                     </para>
                 </section>
 
