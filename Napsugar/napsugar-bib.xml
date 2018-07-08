@@ -1,6 +1,27 @@
 <bibliography xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xi="http://www.w3.org/2001/XInclude" version="5.0" xml:lang="hu">
     <title>Irodalomjegyzék</title>
     <bibliodiv>
+        <title>Informatika</title>
+            <biblioentry xml:lang="hu">
+            <abbrev>MARX</abbrev>
+            <authorgroup>
+                <author>
+                    <personname>
+                        <firstname>György</firstname>
+                        <surname>Marx</surname>
+                    </personname>
+                </author>
+            </authorgroup>
+            <title>Gyorsuló idp</title>
+            <publisher>
+                <publishername>
+                    Typotex
+                </publishername>
+            </publisher>
+            <pubdate>2005</pubdate>
+        </biblioentry>  
+    </bibliodiv>    
+    <bibliodiv>
         <title>Esport</title>
         <biblioentry xml:lang="en">
             <abbrev>Wagner 2006</abbrev>

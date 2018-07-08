@@ -189,4 +189,13 @@
             Molnár Zsolt: Használati esetek és Clash Royale igények.
         </revremark>
     </revision>
+    <revision>
+        <revnumber>0.0.21</revnumber>
+        <date>2018-07-08</date>
+        <authorinitials>nbatfai</authorinitials>
+        <revremark>
+            Mottó megválasztása és iterálása a fórumokon, az első tartalmi rész (bevezetés: vezetői, utópiák, küldetés, kockázatok)
+            áttekintése, hiánypótlások kiküldése.
+        </revremark>
+    </revision>
 </revhistory>

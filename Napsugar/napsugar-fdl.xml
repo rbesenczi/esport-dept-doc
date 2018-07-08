@@ -9,11 +9,13 @@
         </xi:fallback>
     </xi:include>     
         
-    <dedication>
-        <para>
-            Mottó
-        </para>
-    </dedication>
+    <xi:include href="napsugar-motto.xml">
+        <xi:fallback>
+            <para>
+                <emphasis>XInclude: napsugar-motto.xml file not found</emphasis>
+            </para>
+        </xi:fallback>
+    </xi:include>     
     
     <xi:include href="napsugar-pre.xml">
         <xi:fallback>
