@@ -15,40 +15,103 @@
         <section>
             <title>DEIK szándéknyilatkozat</title>
             <para>
-                Mihálydeák Tamás
+                Hogyan tudná a DEIK támogatni a jelen dokumentum koncepcióját? Mihálydeák Tamás
             </para> 
         </section>
             
         <section>
             <title>A DEAC-Hackers alapító dokumentumának módosítása</title>
             <para>
-                A tagsági osztályok és a tervezett létesítményhasználat tekintetében (például több létesítményjogosultsággal rendelkezzenek 
-                a fizető tagok, az ilyen potenciális jogosultságok összegyűjtése, esetleges tagdíj megosztás a DEH és a DEIK között) Bátfai Norbert.
+                A fejlesztendő létesítmény közös kialakítása több pontban is igényli a DEAC-Hackers működését és működtetését  
+                leíró alapító dokumentuma (lásd a mellékletben) módosítását. Ilyen pontok a vezetési struktúra bővítése és a tagsági osztályozás.
+                Ennek ismertetése előtt fontos leszögezni, hogy a DEAC-Hackers a továbbiakban is a DEAC alá besorolt 
+                szervezet, azaz a DEAC sportegyesület esport szakosztálya, tehát nincs a DEIK irányítása alá rendelve.
             </para>                 
             <section>
                 <title>A DEAC-Hackers vezetési struktúra bővítése</title>
                 <para>
-                    Egy további vezetőségi tag pozíció bevezetése, akit a DEIK delegál és ennek megfelelően a kari érdekek érvényesítésén dolgozhat a DEH vezetőségben. Bátfai Norbert.
+                    A DEIK esetleges, a stadionbeli fejlesztendő létesítmény kapcsán felmerülő
+                    kari érdekei érvényesítésének támogatására a DEAC-Hackersben a meglévő 5+1 vezetőségi tag 
+                    mellé egy további, hetedik vezetőségi 
+                    tag pozíció kerül bevezetésre. A tisztújításnál ezt a pozíciót a DEIK oktatók közül kell választania a középvezetőségnek. 
+                    A DEIK a DEAC-Hackers sportszakmai (beleértve az esport szervezésétől a szponzorálásig, a szakosztályi 
+                    gazdálkodáson keresztül, a szakosztályi szintű informatikai
+                    kutató, fejlesztő, nevelő munkáig) működésére csakis a DEIK által delegált vezetőségi tagon keresztül fejt ki
+                    befolyást. 
                 </para> 
-            </section>
-                
+            </section>                
         </section>
             
         <section>
             <title>A DEIK döntési kompetenciái</title>
             <para>
-                A Nagyerdei Stadionbeli helyet érintő kérdésekben. Mihálydeák Tamás, Ispány Márton.
+                A Nagyerdei Stadionbeli helyet érintő kérdésekben a DEIK exponál. A DEIK közvetlenül nem vesz részt a DEAC-Hackers 
+                vezetésében, hanem csak kizárólag az
+                előző pont jelölte vezetőségi tagon keresztül. A DEIK előnye a közös fejlesztendő létesítményben sokkal inkább a 
+                DEIK hallgatók számára biztosított kizárólagos privilégiumokban nyilvánul meg.
+            </para> 
+            <para>
+                További opcionális kiegészítés: Mihálydeák Tamás, Ispány Márton.
             </para> 
         </section>
-
+        <section>
+            <title>A DEIK hallgatók kizárólagos privilégiumai</title>
+            <para>
+                A csakis a DEIK hallgatóknak biztosított alábbi lehetőségek alapvetően az oktatással és kutatással kapcsolatosak.
+                Projektszemléletben működnének, melyben a hallgatói projekteknek egy minimális interfészt meg kell valósítaniuk a 
+                kapcsolat szervezésének adminisztrációjához, hogy a 
+                fejlesztendő létesítmény automatikusan (szoftveresen) tudja őket kezelni. Ezt a kezelést nevezzük 
+                szemeszteri korlátnak, mely egyszerűen azt jelenti, hogy a projektnek az intézményi
+                támogatáshoz fel tudni mutatnia szemeszterenként 
+                50 új regisztrált felhasználót. Ennek megfelelően a projektek számára az első szűrő, hogy értelmezhetőnek
+                kell lennie rájuk egy közösségi felületnek.
+            </para>
+            <itemizedlist>
+                <listitem>
+                    <para>
+                        Hallgatói projektek szemeszterbeli szerveroldali hosztolása.
+                    </para>
+                </listitem>    
+                <listitem>
+                    <para>
+                        DEIK hallgatói szakdolgozatok és diplomamunkák adott projektjeinek szerveroldali hosztolása. 
+                        (Ha a projekt átlép a szemeszteri korláton, akkor 
+                        lehetőség van a végzés utáni egy szemeszteres további hosztolásra is, hogy a végzett 
+                        hallgatók referenciamunkaként az álláskeresés során fel tudják mutatni).
+                    </para>
+                </listitem>    
+                <listitem>
+                    <para>
+                        DEIK hallgatói TDK dolgozatok adott projektjeinek szerveroldali hosztolása.
+                    </para>
+                </listitem>    
+                <listitem>
+                    <para>
+                        DEIK kutatások adott projektjeinek szerveroldali hosztolása.                            
+                    </para>
+                </listitem> 
+            </itemizedlist>               
+            <para>                        
+                A további részletek tekintetében lásd a 
+                <link xlink:href="napsugar-uzem.Sw-muhely">Szoftver műhely koncepció</link> pontot.
+            </para>                
+        </section>                        
+        <section>
+            <title>A DEIK oktatók és demonstrátorok lehetőségei</title>
+            <para>
+                Nem kizárólagos módon (tehát a DEAC-Hackers-el közösen, koordinált módon) használhatják a fejlesztendő létesítmény streamer 
+                infrastruktúráját oktatási munkájuk innovatívabbá tételéhez.
+                Részletek tekintetében lásd a 
+                <link xlink:href="napsugar-intezmeny.streamer-tanar">Streamer tanár</link> pontot.   
+            </para>
+        </section>
         <section>
             <title>A DEAC-Hackers döntési kompetenciái</title>
             <para>
-                Sportszakmai kérdésekben. A DEAC-Hackers szintű kutatási és fejlesztési kérdésekben
-                (nem, vagy nem a DEIK által támogatott K+F tevékenység). Bátfai Norbert.
+                Sportszakmai kérdések, a teljesség igénye nélkül: az esport tevékenység szervezésétől a szponzorálásig, a szakosztályi 
+                gazdálkodáson keresztül, a szakosztályi szintű informatikai
+                kutató, fejlesztő, nevelő munkáig.
             </para> 
         </section>
-                        
-            
     </chapter>                
 </part>         
