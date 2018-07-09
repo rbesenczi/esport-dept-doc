@@ -253,7 +253,7 @@
                         Nem elhanyagolható szempont az sem, hogy egy saját honlap különféle bevételeket is jelentene, amelyeket a főhadiszállásra vagy a tagok igényeinek kielégítésére fordíthatnánk vagy akár a különféle események megrendezésére. Például az összejövetelek során a jelenlévő tagok ellátását, versenyekre történő utaztatását a reklámokból származó bevételekből lehetőségünk nyílna (a bevételek mértékétől függően) részben vagy akár egészben támogatni. A támogatásokat ugyancsak fel tudnánk használni a berendezések, számítógépek, konzolok stb. vásárlása során, ezáltal a tagok, illetve a honlap látogatói akár maguk is elősegíthetnék a főhadiszállás bővítését. Igény (illetve bevétel) szerint továbbá a támogatásokból helyi díjazású, apróbb versenyeket is tudnánk szervezni, mely szintén jelentős szerepet játszhatna a közösség összehangolásában vagy akár bővítésében.  Ráadásul ez mindenféle kellemetlenség nélkül megvalósítható lenne: az oldalon a látogató dönthetné el, hogy szeretne-e reklámot látni. Ha nem, akkor nem jelenik meg számára, ha igen, akkor pedig ezzel hozzájárul a közösség fejlesztéséhez.
                     </para> 
                     <para>
-                        Egy további fontos tényező, hogy a korábban felsorolt tevékenységeket (versenyeredmények rögzítése, adminisztrálása, azok megtekintése, rendelés stb.) akár telefonról is el tudjuk végezni. Ehhez egy jól megtervezett, reszponzív weboldalra van szükség, mely helyesen jelenik meg mind desktop PC-ken mind hordozható eszközökön, mint például tableteken, telefonokon. Így bármikor, bárhonnan elvégezhető lenne tetszőleges adminisztratív feladat, illetve a tagok is naprakészek lehetnének a közösséget illető információkkal kapcsolatban.
+                        Egy további fontos tényező, hogy a korábban felsorolt tevékenységeket (versenyeredmények rögzítése, adminisztrálása, azok megtekintése, rendelés stb.) akár telefonról is el tudjuk végezni. Ehhez egy jól megtervezett, reszponzív weboldalra van szükség, mely helyesen jelenik meg mind desktop PC-ken mind hordozható eszközökön, mint például tableteken, telefonokon. Így bármikor, bárhonnan elvégezhető lenne tetszőleges adminisztratív feladat, illetve a tagok is naprakészek lehetnének a közösséget illető információkkal kapcsolatban. A fentiek miatt javasoljuk a deac-hackers.hu és a deac-hackers.com domainnevek mihamarabbi lefoglalását.
                     </para> 
                     <para>
                         Az önálló weboldal mellett nagyszerű lehetőséget biztosít a Discord egy online közösség kialakítására, ahol az érdeklődők részletesebb információkat kaphatnak akár a weboldalon közölt eseményekkel kapcsolatban, akár más jellegű dolgokról. Itt igény szerint biztosítanánk csevegő szobákat a DEAC-Hackers eseményeinek kibeszéléseire, valamint a játékosoknak, de akár különböző DEAC-Hackers versenyek részletes elemzésérei is az érdeklődők számára.                   
@@ -262,6 +262,24 @@
                         <title>Megvalósíthatóság és szoftver háttér</title>
                         <para>
                             Esetleg a DEAC-Hackers szerver oldalának hosztolása is, annak szoftveres koncepciója, Jeszenszky Péter, Veres Dávid, Bogacsovics Gergő.
+                        </para> 
+                        <para>
+                            A korábbiakból látható, hogy a létesítménnyel kapcsolatos szoftverek gond nélküli, gördülékeny működtetéséhez a különféle komponensek azonosítása, azok működésének, akár egymással történő kommunikációjának megvalósításának megtervezése majd kivitelezése, tesztelése szükséges, ezek pedig nem egyszerű feladatok.
+                        </para> 
+                        <para>
+                            Mint korábban tárgyaltuk, a DEAC-Hackers számára mindenképpen előnyös lenne egy saját honlap készítése. Ez azt jelenti, hogy mindenképpen kell egy szerver, ami fogadja majd a kéréseket a kliensek felől majd ki is szolgálja azokat. Itt rögtön felmerül a kérdés: melyik éri meg jobban, ha saját szervert üzemeltetünk, vagy ha bérlünk. Mindkettő megközelítésnek vannak előnyei, valamint hátrányai. Előbbi esetében a hardvert úgy választjuk meg, ahogy azt jónak gondoljuk (hatékonysági fok, pénz, tagok igényei stb. alapján), tehát van lehetőségünk finomhangolni. Utóbbinál egy előre megadott hardvert kapunk, azonban pár funkciót cserébe rögtön igénybe is vehetünk. Fontos szempont még a kockázatkezelés is. Egy saját szerverre történő beruházás hirtelen meglehetősen költséges lehet, ezért fontos hosszú távon tervezni, azaz, hogy mekkorák a tagok által támasztott igények, milyen elérést várnak és azt milyen gyorsan. Ezzel szemben a bérlés egy fix pont, hiszen előre tudjuk tervezni a havi költségét.
+                        </para> 
+                        <para>
+                            Mivel mint említettük, a szerveren rengeteg adatot is tudnánk tárolni, ezért ugyancsak kifejezetten fontos azok megosztásának megtervezése, pl. a generált pdf-ek, jegyzőkönyvek stb. letöltésének lehetővé tétele. Ezt szeretnénk többféle módon is kivitelezni: torrent formájában (hiszen általában nagy fájlok esetében ez a preferált letöltési mód) valamint közvetlen módon, így mindenki kiválaszthatja a számára, illetve az adott fájlhoz megfelelő letöltési módot.
+                        </para> 
+                        <para>
+                            Fontos kérdés az adatbázis megválasztása is, hiszen az oldalra adatokat szeretnénk feltölteni, illetve onnan letölteni, azok alapján pedig akár statisztikákat felmutatni. Ezeket az adatokat pedig valamilyen formában tárolni kell. Emellett több olyan fejlesztést is el tudunk képzelni, melynek backendje lehetne egy egyetemi kezelésben lévő szerver.
+                        </para> 
+                        <para>
+                            Érdemes még elgondolkodni a levelezésről is, tehát, hogy rendelkezzünk-e saját mail szerverrel. Ez egyszerűbbé tehetné a levelek, észrevételek, igények stb. kezelését.
+                        </para> 
+                        <para>
+                            Összegezve: a DEAC-Hackers és az edzőterem informatikai rendszerét valamint a kapcsolódó fejlesztéseket támogatandó egy szerver beszerzését javasoljuk, mely vagy a DEIK vagy az ISZK adminisztratív kezelésében van (tehát fizikailag az ottani infrastruktúra működteti), mi pedig csak egy virtuális géphez kapunk hozzáférést.
                         </para> 
                     </section>
  

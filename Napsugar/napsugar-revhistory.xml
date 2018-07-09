@@ -246,4 +246,12 @@
             Esetleges bevételek, szponzoráció be.
         </revremark>
     </revision>
+    <revision>
+        <revnumber>0.0.33</revnumber>
+        <date>2018-07-09</date>
+        <authorinitials>rbesenczi</authorinitials>
+        <revremark>
+            Bogacsovics Gergő részei be: használati eset, Megvalósíthatóság és szoftver háttér. deac-hackers.hu és deac-hackers.com domainnevek lefoglalásának jelzése.
+        </revremark>
+    </revision>
 </revhistory>
