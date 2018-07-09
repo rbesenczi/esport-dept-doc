@@ -146,16 +146,77 @@
             </section>
                 
             <section>
-                <title>Hálózati Architektúra</title>
+                <title>Hálózati architektúra</title>
                 <para>
-                    Besenczi Renátó
+                    A terem jellegét és céljait tekintve az infókommunikációs hálózat megfelelő megtervezése és jó működtetése kiemelt fontosságú. Ebben a fejezetben azokat az igényeket ismertetjük, amely szükségesek ehhez.
+                </para> 
+                <para>
+                    A terem minimális összes sávszélességi igénye: 1000 Mbit/s le- és feltöltési sávszélesség dedikáltan az edzőterem részére folyamatosan 24/7-ben lefoglalva ("bérelt vonal").
+                </para> 
+                <para>
+                    Minden teremben (gaming aréna, iroda, tantermek, streaming terem) RJ45 (Cat6) fali aljzat kialakítása az alábbiak szerint:
+                    <itemizedlist>
+                        <listitem>
+                            <para>
+                                Gamer Arena (VLAN0):
+                                <itemizedlist>
+                                    <listitem>
+                                        <para>
+                                            PC-k földszinten: gépenként 1 db (praktikusan páronként), minden gépnek külön aljzat a padlóba építve.
+                                        </para>
+                                    </listitem>    
+                                    <listitem>
+                                        <para>
+                                            Konzol Arena: 6 db,
+                                        </para>
+                                    </listitem>    
+                                    <listitem>
+                                        <para>
+                                            2 WiFi AP a plafonon elhelyezve (VLAN0).
+                                        </para>
+                                    </listitem> 
+                                </itemizedlist>   
+                            </para>
+                        </listitem>    
+                        <listitem>
+                            <para>
+                                Streaming szoba (VLAN1): 10 db,
+                            </para>
+                        </listitem> 
+                        <listitem>
+                            <para>
+                                Iroda (VLAN2 + teljes hálózati menedzsment): 4 db,
+                            </para>
+                        </listitem>    
+                        <listitem>
+                            <para>
+                                Tantermek (VLAN3): 20 db tantermenként,
+                            </para>
+                        </listitem>    
+                    </itemizedlist>               
+                </para>
+                <para>
+                    A teremben olyan szinten kell tudni a hálózatot menedzselni, hogy az alábbi példaszcenáriók kivitelezhetőek legyenek:
+                    <itemizedlist>
+                        <listitem>
+                            <para>
+                                Verseny esetén a Gamer részlegnek (VLAN0) 500 Mbit/s sávszélesség lefoglalása, QoS hangolása a gamingre.
+                            </para>
+                        </listitem>    
+                        <listitem>
+                            <para>
+                                Streaming terem (VLAN1) használata esetén a sávszélesség 500 Mbit/s sávszélesség lefoglalása, QoS hangolása a streamingre.
+                            </para>
+                        </listitem>    
+                    </itemizedlist>   
+                    Iránymutató eszközigények a mellékletben. Az alábbi ábrán egy szemléltető skicc látható a tervezett hálózatról. A hálózat tartalmaz egy Security Gatewayt (mely egyben: tűzfal, DHCP), 2 db 48 portos gigabot switchet, 2 WiFi AP-t (ac szabvány), valamint a szükséges Cat6 patch kábeleket (min 100 db különböző méretben), csatlakozókat, regszekrényeket, kábelezést (szintén Cat6 az egész teremben) illetve egyéb szükséges kiegészítőket.
                 </para>
                 <para>
                     <figure>
                         <title>Hálózati skicc.</title>
                         <mediaobject>
                             <imageobject>
-                                <imagedata fileref="img/hálózat_skicc.PNG" scale="50"/>
+                                <imagedata fileref="img/network.PNG" scale="50"/>
                             </imageobject>
                             <textobject>
                                 <phrase>
@@ -164,9 +225,6 @@
                             </textobject>
                         </mediaobject>
                     </figure>
-                </para>
-                <para>
-                    A javaslatunk a hálózati eszközökre a mellékletben található.
                 </para>
             </section>
 
