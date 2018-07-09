@@ -238,4 +238,12 @@
             Veres Dávid részei be. DEIK és DEACH oktatási kapcsolat bővítése. A bevezető részben pár oktatási, vagy abba bevont projekt említése.
         </revremark>
     </revision>
+    <revision>
+        <revnumber>0.0.32</revnumber>
+        <date>2018-07-09</date>
+        <authorinitials>rbesenczi</authorinitials>
+        <revremark>
+            Esetleges bevételek, szponzoráció be.
+        </revremark>
+    </revision>
 </revhistory>
