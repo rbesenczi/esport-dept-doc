@@ -222,4 +222,12 @@
             Hálózati igények kifejtése.
         </revremark>
     </revision>
+    <revision>
+        <revnumber>0.0.25</revnumber>
+        <date>2018-07-09</date>
+        <authorinitials>rbesenczi</authorinitials>
+        <revremark>
+            PUBG be, Oktatás DEAC-Hackers szint be, Bootcamp be.
+        </revremark>
+    </revision>
 </revhistory>

@@ -109,9 +109,12 @@
                 </section>
                                                                                     
                 <section>
-                    <title>PUBG</title>
+                    <title>PlayerUnknown’s Battlegrounds</title>
                     <para>
-                        Besenczi Renátó.
+                        A PlayerUnknown’s Battlegrounds játékban alapvetően a legtöbb First Person Shooter játékhoz hasonlóan offline és online rendezvények rendezhetőek. Míg az online verseny megszervezéséhez csupán a játék kiadójának támogatására, valamint a játékhoz szükséges szerverre van szükség, addig egy offline rendezvény megszervezéshez jóval nagyobb technikai felkészülés szükséges. Ennek a legfőbb oka, hogy a játék Battle Royale stílusú, így más játékokkal ellentétben rendkívül sok játékos küzd meg egymással (alap esetben 100 játékos). Ha ilyen eventet szeretnénk a későbbiekben rendezni, ehhez mindenféleképpen külső segítségre lesz szükségünk.
+                    </para>
+                    <para>
+                        Online versenyen való részvételhez szükséges vezetékes internetkapcsolat, a játékosok számára megfelelően felszerelt számítógépek (egy ilyen konfiguráció a mellékletben található), valamint egy már említett szerver szükséges, amit magától a játék kiadójától lehet igényelni. A nevezések lebonyolítására többféle alternatíva is szóba jöhet. A már létező platformokon túl (ESL), lehetőség van saját oldalon történő regisztrációra is, valamint (ahogyan a TheVR is <link xlink:href="https://pubg.thevr.hu/">tette</link>) lehetséges Discordon keresztül történő regisztráció is. Az utolsó lehetőség azért is lehet kedvező számunkra, mivel a verseny folyamán biztosíthatunk a versenyző csapatok számára csapaton belüli kommunikációt is.
                     </para>
                 </section>
 
@@ -315,13 +318,31 @@
             <section>
                 <title>DEAC-Hackers szint</title>
                 <para>
-                    Edzések, Besenczi Renátó.
+                    A DEAC-Hackers az alapító dokumentumában célul tűzte ki, hogy úttörő szerepet fog vállalni az esport utánpótlásképzésben és tehetséges játékosok felkutatásában. Ennek egy fontos előfeltétele, hogy a sportban és úgy általában a tanulási folyamatokban nélkülözhetetlen kontakt órákat biztosítani tudjuk. Emellett fontos, hogy a haladó és professzionális játékosainknak külön taktikai értekezleteket tartsunk, ezzel segítve felkészülésüket. Edzések fő feladatai:
+                    <itemizedlist mark='opencircle'>
+                        <listitem>
+                            <para>
+                                utánpótláskorú játékosok edzései,
+                            </para>
+                        </listitem>
+                        <listitem>
+                            <para>
+                                amatőr sportolói tagoknak edzések tartása,
+                            </para>
+                        </listitem>
+                        <listitem>
+                            <para>
+                                professzionális szintű játékosok számára edzések, taktikai eligazítás tartása.
+                            </para>
+                        </listitem>
+                    </itemizedlist>
+                    Az esport oktatása olyan aspektusból is érdekes, amely nem közvetlenül a játékokhoz kötődő esportot, hanem az esportot kiszolgáló környezet jobb megismerését teszi lehetővé. Ilyen aspektus például esport versenyek szervezése, esport események közvetítése, esport informatikai háttere stb. Fontos szempont az esport oktatása során, hogy a fiatal játékosokat megtanítsuk a tudatos játszásra, felhívjuk a figyelmet az esetleges kockázatokra (egészséges testtartás, időszakos mozgás hangsúlyozása), valamint a szülőket tájékoztassuk a tudatos játékhasználatról. (Neveléstudományi aspektus.) Kiemelt edukációs szerepet szeretnénk vállalni általában az esport kapcsán is. Az esport mint iparág felfejlesztéséhez nélkülözhetetlenek lesznek olyan foglalkozások tartása, melyek más iparági szereplőket, konkrétan a potenciális befektetőket tájékoztatja magáról az esportról. Tapasztalatunk szerint a jelen ipari környezete még nincs teljesen tisztában azzal, hogy pontosan miről is szól az esport. Véleményünk szerint az edzőterem erre egy remek helyszínt nyújthat, hiszen az esportot a maga niche-ében lehet megfigyelni. Ezen felül fontosnak tartjuk a szülők tájékoztatását, felvilágosító órák tartását úgy általában az esportról és a gamingről.
                 </para> 
                     
                 <section>
                     <title>Nyílt edzések</title>
                     <para>
-                        Városi közösségépítés, Besenczi Renátó.
+                        Részben a fent említett okokból, részben a régió gamereinek szeretnénk nyílt edzéseket is tartani. Szeretnénk a régió gamereit, közösségeit, szerveződéseit a lehető legnagyobb mértékben bevonni a DEAC-Hackers és az edzőterem életébe. Itt több lehetőség is elképzelhető számunkra, úgy mint nagy csapatok vagy a régió és az ország híres gamereinek meghívása, gyermektáborok szervezése, influencerekkel közösen közönségtalálkozók szervezése (pl. a TheVR alkalmanként tőlünk streamel stb). Ezen felül fontosnak tartjuk egyéb nyílt napok tartását is, ezzel kapcsolódva például egyetemi/városi rendezvényekhez (pl. Egyetemi Gólyatábor, DEIK HÖK League at Night verseny, Campus Fesztivál, Virágkarnevál stb).
                     </para> 
                 </section>
                     
