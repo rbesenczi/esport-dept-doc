@@ -230,4 +230,12 @@
             PUBG be, Oktatás DEAC-Hackers szint be, Bootcamp be.
         </revremark>
     </revision>
+    <revision>
+        <revnumber>0.0.31</revnumber>
+        <date>2018-07-09</date>
+        <authorinitials>nbatfai</authorinitials>
+        <revremark>
+            Veres Dávid részei be. DEIK és DEACH oktatási kapcsolat bővítése. A bevezető részben pár oktatási, vagy abba bevont projekt említése.
+        </revremark>
+    </revision>
 </revhistory>

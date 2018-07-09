@@ -66,7 +66,7 @@
         </section>
             
         <section>
-            <title>Használati esetek</title>
+            <title>Interjúzott használati esetek</title>
             <para>
                 Elképzelni/kitalálni a jelölt szerzőnként egy konkrét (szerzőnként különböző) használati esetet, hogy mit 
                 csinálna személy szerint a létesítményben és röviden, fél, egy oldalban részletezni, 
@@ -81,7 +81,7 @@
                 Paszerbovics Roland.
             </para>
             <section>
-                <title>Molnár Zsolt elképzelései</title>
+                <title>Molnár Zsolt, CR középvezető elképzelései</title>
                 <para>
                     Az én víziómban az edzőterem a Debrecen és környéke esportolóinak magasszintű felkészülését, illetve versenyzését biztosítaná. A tervezet streamer szobában, mint egy esport csatorna, élő játék közvetítést tudok elképzelni, ami által bevételre is szert tehetünk (a csatorna monetizációjával közvetlenül vagy szponzorok által közvetve), illetve felfedezhetik a gamerek az edzőtermet s akár kedvet érezve csatlakozhatnak is sportolóinkhoz.
                 </para>
@@ -95,6 +95,39 @@
                     Javasolnék egy kártyás beléptető rendszert a tagoknak (pl. Unipass kártya). Belépve lenne egy kis pult, ahol valaki eligazít a teremben vagy egy Hackers Shop, ahol lehetne venni mezeket szurkolói tárgyakat. Körbevezetve szembetünne a Hackers-ben játszható játékok logói s pár kép versenyzőinkről, versenyekről. Az órarend figyelembe vételével megnyitnám az edzőterem kapuit a látogatók előtt s akár a szabad gépeken, díj ellenében játszhatnának, ezzel is talán kedvet kapva az esporthoz belépnének versenyzőknek. Viszont ha bármelyik játék versenyzőinek edzést tartanak, arra az időre zárva lenne a terem a nagyközönség előtt. A termekben lehetne meccseket elemezni vagy nagyobb versenyek közvetítését közösen megtekinteni. Közösségi eseményeket, csapatösszetartó rendezvényeket szervezni, pl. egy foci vb, vagy más sport/esport esemény erősítené a csapatszellemet. S persze lennének alkalmi programok, mint az offline versenyek lebonyolítása, iskolás csoportoknak a terem bemutatása, más klub csapatait vendégül látni, esport táborok lebonyolítása.
                 </para>
             </section>
+            <section>
+                <title>Veres Dávid elképzelései</title>
+                <para>
+                    Véleményem szerint a létesítmény a csapatok számára lenne a leghasznosabb, hiszen egy biztos helyet adna a közös gyakorlásokhoz, megbeszélésekhez. Ennek megfelelően tudom elképzelni azt, hogy egy csapat heti 2-3-szor minimum jelenjen meg a megfelelő edzővel együtt. Ehhez persze fontos az is, hogy ilyen esetekre legyen számukra egy szabad szoba, ahol a megfelelő körülmények adottak az edzéshez. Az egyes mérkőzések között 10-15 perc szünet lenne, ahol átbeszélik a legutóbbi játékot, és levonják belőlük a tapasztalatokat, na meg persze egy kis pihenés sem árt. Nem csupán az online formában való gyakorlásra gondoltam, hanem akár házon belüli scrimeket is lehetne tartani, persze csak ha van rá elegendő játékos. Annak érdekében, hogy ezek a dolgok minél zökkenőmentesebben menjenek végbe, szükséges egy időbeosztás kialakítása, legalább 1-2 héttel előreláthatóan.
+                </para>
+                <para>
+                    A csapat szintű gyakorlás mellett természetesen elengedhetetlen az egyéni fejlődés is, az épület pedig erre is remekül megfelelne. Itt olyanokra gondolok, akik szabadidejükben le tudnak jönni gyakorolni, és ezt nem kell előre jelezniük. Akár kisebb csapatrészek is jól tudnák itt fejleszteni az összhangjukat, például a League of Legends-t példának hozva egy botlane páros, vagy egy top és jungle duó. Ez jó alkalom lenne arra is, hogy ilyenkor az edzők személyes segítségét is kérjék, aki mondjuk a teremben járkálva mindig belepillant valaki meccsébe, vagy akár végig mellette ülve elemzi és látja el tanácsokkal az adott játékost/játékospárt.
+                </para>
+                <para>
+                    A gyakorlás mellett fontos a pihenés is, ennek szellemében lehetne használni egy termet vagy egy TV szobát egy kis relaxálásra. Akár film vagy videónézésre, de aktuális bajnokságok megtekintésére is remek helyet adna. Eközben pedig a játékosok át tudnák beszélni a profik mozdulatait, választásait, elmélkedhetnek a jelenlegi metáról, stb. Kellemest a hasznossal.
+                </para>
+                <para>
+                    A streamelésnek is fontos szerepet tulajdonítok, akár egyéni játékos szinten, akár egy csapat gyakorlásának közvetítését mondjuk (persze ekkor kell egy kijelölt játékos, akinek a szemszögéből követhetjük az eseményeket), hiszen ezek hozzájárulnak ahhoz, hogy az egyesület rajongókat, vagy akár jövőbeli játékosokat tudjon szerezni.
+                </para>
+                <para>
+                    Mindezek mellett házon belüli, vagy városi, esetleg környékbeli bajnokság lebonyolítását is el tudom képzelni, biztos vagyok benne, hogy erre is lenne igény.                    
+                </para>
+
+                <section>
+                    <title>Online jelenléti ív</title>
+                    <para>
+                        A Molnár Zsolt által javasolt beléptetőrendszert tovább gondolva egy online jelenléti ív ötlete jutott az eszembe. Be- illetve kilépéskor egy tetszőleges módon rögzítjük, hogy éppen melyik játékos lépett be vagy hagyta el az épületet. Ez persze egy adatbázisban kerülne tárolásra, amit aztán később fel lehet használni különböző statisztikákhoz (melyik játékos mennyi időt töltött a létesítménybe, ezek alapján esetleg a legszorgalmasabb játékos jutalmazása, stb.). Belépéskor meg lehetne adni, hogy milyen célból érkezett (egyéni gyakorlás, scrim a csapattal, streamelés, stb.), kilépéskor pedig kérni tőle egy kis naplószerűséget, mit sikerült elérnie, volt-e valami probléma az eszközökkel, stb.
+                    </para>
+                    <para>
+                        Ezen adatok tárolása mind statisztikai célt szolgálna, de létre lehetne hozni egy olyan alkalmazást is, mely segítségével a hackerek valós időben tudnak információt kapni a létesítmény jelenlegi állapotáról. Beszélhetünk itt webes felületről, de egy mobilalkalmazás lenne talán a legjobb felhasználási módja. Ez arról szólna, hogy ha egy hacker becsekkol az épületbe, akkor a mobileszközök értesítést kapnak, hogy valaki épp gyakorol. Ezek az értesítések specifikusan mennének, például be lehetne állítani, hogy csak a CS:GO játékosok kapjanak értesítést, ha egy CS:GO-s társuk gyakorol éppen, vagy még szűkebb körre, ha mondjuk egy csapattárs van bent épp. Egyrészt így tudnánk hogy a barátaink/csapattársaink mikor tartózkodnak bent, de azokra az esetekre is kiváló megoldás lenne, ha mondjuk hely szűkében van az épület. Erre el tudok képzelni egy kis térképet az épület emeleteiről felülnézetben, ami mutatja, hogy épp melyik székek szabadok (mint a mozis helyfoglaló oldalak). Na meg persze további státusz infókkal is el lehetne látni: melyik edző van bent éppen, hány LoL-os edz éppen, szabad-e a TV szoba, esetleg karbantartás vagy szervízelés folyik a gépeken, közérdekű közlemények, stb.
+                    </para>
+                    <para>
+                        Az online jelenléti ív nem is biztos hogy a megfelelő kifejezés, hiszen tetszőleges további funkcionalitással el lehet látni a fent említett appot.
+                    </para>
+
+                </section>
+            </section>
+            
         </section>            
             
         <section>

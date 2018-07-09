@@ -102,5 +102,22 @@
             </address>
         </affiliation>
     </author>
+
+    <author>
+        <personname>
+            <honorific>Mr.</honorific>
+            <surname>Veres</surname>
+            <firstname>Dávid</firstname>        
+        </personname>    
+        <affiliation>
+            <shortaffil>hallgató, DE.</shortaffil>
+            <jobtitle>hallgató</jobtitle>
+            <orgname>Debreceni Egyetem</orgname>
+            <address>
+                <email></email>
+            </address>
+        </affiliation>
+    </author>
         
+                        
 </authorgroup>

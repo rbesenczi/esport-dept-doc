@@ -135,14 +135,14 @@
                         <para>
                             Támogassa gyors prototípusozás szinten az egyéni vagy kis csoportos, projektszemléletű infokommunikációs 
                             szoftverfejlesztéseket, ennek tekintetében lásd
-                            <link xlink:href="napsugar-uzem.Sw-muhely">Szoftver műhely koncepció</link> pontot.
+                            <link xlink:href="#napsugar-uzem.Sw-muhely">Szoftver műhely koncepció</link> pontot.
                         </para>
                     </listitem> 
                     <listitem>
                         <para>
                             Ezt a gyors, eldobható prototípusozást ajánlja fel hasznosításra a DEIK 
                             reguláris és irreguláris informatikai oktatásának számára, ennek tekintetében lásd a
-                            <link xlink:href="napsugar-uzem.Sw-muhely.oktatas">Reguláris és irreguláris gyakorlatok</link> pontot. 
+                            <link xlink:href="#napsugar-uzem.Sw-muhely.oktatas">Reguláris és irreguláris gyakorlatok</link> pontot. 
                         </para>
                     </listitem> 
                 </itemizedlist>               
@@ -150,10 +150,39 @@
             <para>
                 További opcionális kiegészítés: reguláris oktatás: Mihálydeák Tamás, kutatás: Ispány Márton.
             </para>
-        <warning>
-            <title>a</title>
-            <para>a</para>
-        </warning>             
+            <warning>
+                <title>&#x201E;Morpheus: I won't lie to you, Neo&#x201D; (Mátrix idézet)</title>
+                <para>Mi se tegyük: eddig minden az utóbbi időbeli oktatási vagy az oktatásba valamilyen formában bevont 
+                    projektünk meghalt az alábbiak szerint, csak az egy szemesztert túléltekre kitérve:</para>
+                <itemizedlist>
+                    <listitem>
+                        <para>
+                            2013-ból a 
+                            <link xlink:href="https://sourceforge.net/projects/yanonymous/">YANonymous</link> projektet az oktatásban
+                            sikerrel használtuk a programozás képzésben, de a projekt nem kapott erőre, elhalt.
+                        </para>
+                    </listitem>    
+                    <listitem>
+                        <para>
+                            2014-ből az 
+                            <link xlink:href="https://github.com/nbatfai/robocar-emulator">OOCWC</link> (Robotautó Világbajnokság) 
+                            projektet az oktatásban még sikeresebben
+                            használtuk a programozás képzésben, de a projekt csak korlátozott, néhány kutatástámogató esetben
+                            volt életképes <citation>OOCWC</citation>, <citation>OOCWC2</citation>, <citation>OOCWC3</citation>.
+                        </para>
+                    </listitem> 
+                    <listitem>
+                        <para>
+                            2017-ből a 
+                            <link xlink:href="https://github.com/nbatfai/future">FUTURE</link> projekt mint játék koncepció már ott van a
+                            szeren, de a jövője egyre bizonytalanabb játékként... támogató szerepben bevállhat: 
+                            <link xlink:href="http://smartcity.inf.unideb.hu/~norbi/City/">http://smartcity.inf.unideb.hu/~norbi/City/</link>.
+                        </para>
+                    </listitem> 
+                </itemizedlist>       
+                <para>De azt se feledjük, hogyan folytatja Morpheus: 
+                &#x201E;But where they have failed you will succeed.&#x201D; (Mátrix idézet)</para>                    
+            </warning>             
         </section>
         <section xml:id="napsugar-intro.Kockazatok">
             <title>Kockázatelemzés és kezelés</title>
