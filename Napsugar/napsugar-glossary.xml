@@ -12,6 +12,17 @@
                 </para>
             </glossdef>
         </glossentry>
+        <glossentry xml:id="bootcamp">
+            <glossterm>Bootcamp</glossterm>
+            <glossdef>
+                <para>
+                    <indexterm>
+                        <primary>Bootcamp</primary>
+                    </indexterm>
+                    A hagyományos esport és multigaming csapatoknál bevett szokás, hogy nagyobb versenyek előtt, illetve alkalmanként szerveznek a csapat számára ún. bootcampeket. Ennek célja, hogy a játékosok jobban megismerjék egymást, versenykörnyezetben tudjanak gyakorolni. Hagyományos sportok esetén például a labdarúgásban ilyen az összetartás.
+                </para>
+            </glossdef>
+        </glossentry>
         <glossentry xml:id="brainb">
             <glossterm>BrainB Benchmark</glossterm>
             <glossdef>
