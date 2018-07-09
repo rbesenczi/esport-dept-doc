@@ -260,7 +260,34 @@
             <section>
                 <title>Társadalmi beágyazottság támogathatósága</title>
                 <para>
-                    Bátfai Norbert.
+                    Tekintettel a bevezető kockázatokat tárgyaló 
+                    <link xlink:href="#napsugar-intro.TarsBeagy">Társadalmi beágyazottság</link> című részére
+                    a fejlesztendő létesítménynek, mint épületnek az alábbi használati esetekben is tudnia
+                    kell üzemelni. 
+                </para> 
+                <itemizedlist>
+                    <listitem>
+                        <para>
+                            Adott, jól definiált esetben fizikailag elérhetőnek 
+                            (fel lehet keresni, be lehet menni) kell lennie az érdeklődők számára.
+                            Ilyenre tiviális példa az ott rendezett offline verseny vagy a toborzás és tehetségkutatás
+                            alkalmával kapcsolatos felkeresés, illetve a rendezvényekhez (például az egyetem bemutatása vagy a Lányok napja) 
+                            kötött események támogatása. Kevésbé magától értetődő a 
+                            redszeresen tartott
+                            nyílt edzés vagy nyílt nap.
+                        </para>
+                    </listitem>    
+                    <listitem>
+                        <para>
+                            Folyamatosan rendelkezésre kell állni az utánpótlás korú gyerekek és főképpen szüleik számára tanácsadással
+                            a játékok, játszási szokások témában. Ennek célszerű online felületen eleget tenni, akár részben automatizált
+                            7/24 rendszerekkel kiegészítve.
+                        </para>
+                    </listitem> 
+                </itemizedlist>               
+                
+                <para>
+                    Mindezek részletesebb kibontása az üzemelésről szóló részben található.
                 </para> 
             </section>
             

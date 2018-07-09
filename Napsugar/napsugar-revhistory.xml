@@ -206,4 +206,12 @@
             Gaming eszközök be, IT eszközök be, versenykörnyezet CoC-ra be, hálózati eszközök be, tanterem pc-k javaslat be, streamer műhely koncepció elkezd.
         </revremark>
     </revision>    
+    <revision>
+        <revnumber>0.0.23</revnumber>
+        <date>2018-07-09</date>
+        <authorinitials>nbatfai</authorinitials>
+        <revremark>
+            DEIK és DEACH kapcsolatának kibontása. A társadalmi felelősség iterálása a későbbi részekben: infrastruktúra, üzemelés.
+        </revremark>
+    </revision>
 </revhistory>
