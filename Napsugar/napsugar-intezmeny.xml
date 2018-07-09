@@ -294,13 +294,13 @@
                     </para> 
                 </section>
                 
-                <section>
+                <section xml:id="napsugar-intezmeny-esport-kurzus">
                     <title>Esport kurzus</title>
                     <para>
                         Bátfai Norbert
                     </para> 
                 </section>
-                <section>
+                <section xml:id="napsugar-intezmeny-gepit-kurzus">
                     <title>Gépi tanulás a gyakorlatban kurzus</title>
                     <para>
                         Ispány Márton
