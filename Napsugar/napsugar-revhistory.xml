@@ -214,4 +214,12 @@
             DEIK és DEACH kapcsolatának kibontása. A társadalmi felelősség iterálása a későbbi részekben: infrastruktúra, üzemelés.
         </revremark>
     </revision>
+    <revision>
+        <revnumber>0.0.24</revnumber>
+        <date>2018-07-09</date>
+        <authorinitials>rbesenczi</authorinitials>
+        <revremark>
+            Hálózati igények kifejtése.
+        </revremark>
+    </revision>
 </revhistory>
