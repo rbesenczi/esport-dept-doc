@@ -51,11 +51,53 @@
         <section>
             <title>Streamer műhely koncepció</title>
             <para>
-                Besenczi Renátó, Veres Dávid.
-            </para> 
-            <para>
                 Fontosnak tartjuk, hogy mindent, ami az edzőteremben történik (és nem számít sportszakmai szempontból titkosnak) közvetítsük a nagyközönségnek, minél jobban nyissunk a gamer közösségek felé. A versenyek és edzések közvetítése csupán egy szelete ennek, szeretnénk a lehető legnagyobb mértékben bevonzani, együttműködni a régió gaminggel és esporttal foglalkozó formációival, közösségeivel. Ez közvetlenül is hasznos a számunkra, hiszen a régió influencerein át a gamerek megismerkedhetnek a DEAC-Hackersszel, közvetve pedig a szponzorok, az edzőteremben hirdetők juthatnak nagyobb médiafelülethez. Valamint természetesen célunk, hogy mi magunk is neveljünk ki influencereket. Ehhez szeretnénk a legmodernebb környezetet kialakítani, a lehető legmagasabb minőséget biztosítani. Ehhez eszközlista javaslatunk a mellékletben található.
             </para> 
+            <section>
+                <title>Szükséges hardver</title>
+                <para>
+                    A streamer gép konfigurációja a céloknak teljesen megfelelőnek tűnik. A fő elemek, a processzor, a videókártya és a capture card kellően erősek. A memória bőségesen elég, a háttértárolók méretei szintén indokoltak: az SSD-re a játékok is fel fognak férni, a HDD-re pedig rengeteg órányi közvetítést lehet majd tárolni, ez persze a kódolási beállításoktól is függ. A PC további alkatrészei, illetve a streameléshez szükséges perifériák mind profi minőégű felszerelések, mind remek választás.
+                </para>
+                <para>
+                    Szóba jöhet még egy zöldháttér beszerzése is, de ennek szerepe teljesen opcionális. Alapból a szakosztály trófeagyűjteménye lenne látható a háttérben, de igény szerint egy elhúzható zöldháttérrel és az adott világítás együttesével könnyedén transzparenssé lehetne tenni a hátteret, és így csak maga a gép előtt ülő személy lenne látható. Hátránya lehet, hogy egyes hajtípusok esetén az eredmény nem lesz túl szép (gondolok itt arra, hogy a hajvégeknél látható lesz kis mértékben a háttér), illetve ilyen esetben a zöldes színű pólók vagy egyéb ruhadarabok viselete sem szerencsés.
+                </para>
+            </section>
+            <section>
+                <title>Szükséges szoftver</title>
+                <para>
+                    Szoftverek tekintetében érdemes az ingyenes és mások által is széles körben használt megoldásokat választani.
+                </para>
+                <para>
+                    A videó streameléséhez használt szoftvernek mindenképp az <link xlink:href="https://obsproject.com/">Open Broadcaster Software</link>-t javaslom, az egyes jeleneteket könnyű benne összerakni, a beállítások egyszerűek és egyértelműek.
+                </para>
+                <para>
+                    A stream interaktívabbá tételéhez a <link xlink:href="https://streamlabs.com/">Streamlabs</link> nevű app egy remek választás. Ennek segítségével megjeleníthetjük a streamen az új követőket, feliratkozókat, létrehozhatunk egyéni célokat (például 1000 követő elérése, amit egy töltősáv jelez, hogy épp mennyinél tartunk), elhelyezhetjük a közvetítés chatjét is a videón, stb. Ezek mellett statisztikai adatokat is nyújt, például hány új követőt szereztünk egy közvetítés során, 10-15 percekre lebontva visszanézhetjük a nézőszámot, stb.
+                </para>
+                <para>
+                    Fontos megemlíteni, hogy az előbb említett két szoftver elérhető egy asztali alkalmazáson belülről is, Streamlabs OBS néven (ez a Streamlabs oldaláról tölthető le), ami még könnyebbé teheti a munkánkat.
+                </para>
+                <para>
+                    Érdemes lehet továbbá egy chatbot alkalmazása is, én személy szerint a Nightbot-ot tudnám javasolni. Ennek használatával egy botot csatlakoztatunk fel moderátori szereppel ellátva a közvetítésünk chatjére, ami különböző tevékenységeket láthat el. Pár lehetőséget említve: bizonyos időközönként magától ír üzeneteket a chatre, ami jól jöhet például a közösségi médiás oldalaink (Facebook, Twitter, Youtube, stb.) reklámozására, spam elleni védelmet nyújthat (adhatunk hozzá saját tiltott szavakat, linkeket), eltárolja az összes chat üzenetet, amit később vissza is olvashatunk, de akár nyereményjátékok lebonyolítására is lehet használni.
+                </para>
+            </section>
+            <section>
+                <title>Egyéb</title>
+                <para>
+                    A streameléshez használható legjobb platform egyértelműen a Twitch, ez gondolom eddig sem volt kérdéses. Fontos a csatorna oldal dizájnjának megtervezése, ez magába foglalja egy profilkép elkészítését, egy borítókép elkészítését, arra az esetre amikor a csatorna offline, illetve a leírás (description) szekció informatívvá tétele és naprakészen tartása. Az egyes képek méreteihez ezen a <link xlink:href="https://www.canva.com/sizes/twitch/">linken</link> található egy remek ajánlás, illetve a leírásban található panelek kialakításához <link xlink:href="https://nerdordie.com/resources/free-resources/twitch-panels-free-setup-guide/">itt</link> olvasható egy útmutató. A megjelenés mellett szükséges lehet bizonyos nézőszám elérése után moderátorok felvétele, akik a közvetítés során rendben tartják a chatet (a szitkozódó, vagy jogtalanul reklámozó üzenetek törlése, többszöri szabálysértés után egyes felhasználók kitiltása).
+                </para>
+                <para>
+                    Elegendő videóanyag esetén érdemes úgynevezett highlight videók készítése, amit a YouTube platformon lehetne publikálni. Ez készülhet egy verseny vagy egy stream legjobb jeleneteiből, és rendszeres közvetítések eseten heti 1-2 videót simán ki lehetne rakni. Emellett VOD-ok is felkerülhetnek, így később a teljes élő adást is vissza lehet nézni.
+                </para>
+                <para>
+                    Bevett szokás, hogy a streamerek a csatornájuk linkjét megosztják a megfelelő játékhoz tartozó magyar Facebook csoportokban, ezzel könnyen lehet nézőket szerezni. Ennek feltétele általában az szokott lenni, hogy a csatornánk leírásában el kell helyeznünk az adott csoport logóját, ami egyben egy link is a csoport Facebook oldalához, esetleg egyeztetés is szükséges lehet az adminisztrátorokkal. Fontos átgondolni azonban a következőt: esetünkben több játékról is beszélünk, illetve egy játékhoz is tartozhat akár több Facebook csoport, emiatt az egyes csoportok logói eláraszthatják a csatornánk leírását. Ezért kiválaszthatjuk mondjuk a legnagyobb tagszámmal bíró csoportokat az egyes játékok szerint, és csak azokba osztunk meg, vagy ha úgy érezzük, hogy ezek nélkül is nagy lenne a nézőszámunk, akkor ilyen lehetőségekkel nem is kell élnünk.
+                </para>
+                <para>
+                    Bizonyos számok elérése után lehetőség lesz arra, hogy a csatorna előlépjen Twitch érdekeltté vagy Twitch partnerré, melyek segítségével pénzt is lehet szerezni, illetve ezektől függetlenül is lehet donációkat elfogadni (erre például a Streamlabs nyújt lehetőséget). Ennek megvitatása azonban a felsőbb vezetőség dolga, hogy a szakosztály ilyen formában szeretne-e pénzt keresni.
+                </para>
+                <para>
+                    A stabil és erős internetkapcsolat megléte lehetővé teszi, hogy minőségi adást tudjunk közvetíteni, erről a Hálózati architektúra című fejezetben olvashatunk bővebben. Az egyes felbontásokhoz szükséges bitrátákról <link xlink:href="https://stream.twitch.tv/encoding/">itt</link> olvashatunk egy ajánlást a Twitch részéről, ezek közül a legerősebbet is gond nélkül megengedhetjük magunknak.
+                </para>
+            </section>
         </section>
             
         <section>

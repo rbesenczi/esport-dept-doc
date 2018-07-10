@@ -262,5 +262,12 @@
             Kiegészítések, struktúra részleges refaktor, keresztkapcsolatok beszúrása, részfeladatok finomítása.
         </revremark>
     </revision>
-    
+    <revision>
+        <revnumber>0.0.41</revnumber>
+        <date>2018-07-10</date>
+        <authorinitials>rbesenczi</authorinitials>
+        <revremark>
+            Veres Dávid egyeztetve Besenczi Renátóval: stream műhely koncepció be.
+        </revremark>
+    </revision>
 </revhistory>
