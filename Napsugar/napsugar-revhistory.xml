@@ -238,4 +238,20 @@
             Veres Dávid részei be. DEIK és DEACH oktatási kapcsolat bővítése. A bevezető részben pár oktatási, vagy abba bevont projekt említése.
         </revremark>
     </revision>
+    <revision>
+        <revnumber>0.0.32</revnumber>
+        <date>2018-07-09</date>
+        <authorinitials>rbesenczi</authorinitials>
+        <revremark>
+            Esetleges bevételek, szponzoráció be.
+        </revremark>
+    </revision>
+    <revision>
+        <revnumber>0.0.33</revnumber>
+        <date>2018-07-09</date>
+        <authorinitials>rbesenczi</authorinitials>
+        <revremark>
+            Bogacsovics Gergő részei be: használati eset, Megvalósíthatóság és szoftver háttér. deac-hackers.hu és deac-hackers.com domainnevek lefoglalásának jelzése.
+        </revremark>
+    </revision>
 </revhistory>
