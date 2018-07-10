@@ -43,7 +43,7 @@
                 Egyetemi spinoffok potenciális támogatása, Bátfai Norbert.
             </para> 
             <section xml:id="napsugar-uzem.Sw-muhely.oktatas">
-                <title>SReguláris és irreguláris gyakorlatok</title>
+                <title>Reguláris és irreguláris gyakorlatok</title>
                 <para>
                 </para>             
             </section>            
@@ -108,7 +108,7 @@
         </section>
             
         <section>
-            <title>Interjúzott használati esetek</title>
+            <title>Interjúzott, elképzelt használati esetek</title>
             <para>
                 Elképzelni/kitalálni a jelölt szerzőnként egy konkrét (szerzőnként különböző) használati esetet, hogy mit 
                 csinálna személy szerint a létesítményben és röviden, fél, egy oldalban részletezni, 
@@ -137,7 +137,7 @@
                     Javasolnék egy kártyás beléptető rendszert a tagoknak (pl. Unipass kártya). Belépve lenne egy kis pult, ahol valaki eligazít a teremben vagy egy Hackers Shop, ahol lehetne venni mezeket szurkolói tárgyakat. Körbevezetve szembetünne a Hackers-ben játszható játékok logói s pár kép versenyzőinkről, versenyekről. Az órarend figyelembe vételével megnyitnám az edzőterem kapuit a látogatók előtt s akár a szabad gépeken, díj ellenében játszhatnának, ezzel is talán kedvet kapva az esporthoz belépnének versenyzőknek. Viszont ha bármelyik játék versenyzőinek edzést tartanak, arra az időre zárva lenne a terem a nagyközönség előtt. A termekben lehetne meccseket elemezni vagy nagyobb versenyek közvetítését közösen megtekinteni. Közösségi eseményeket, csapatösszetartó rendezvényeket szervezni, pl. egy foci vb, vagy más sport/esport esemény erősítené a csapatszellemet. S persze lennének alkalmi programok, mint az offline versenyek lebonyolítása, iskolás csoportoknak a terem bemutatása, más klub csapatait vendégül látni, esport táborok lebonyolítása.
                 </para>
             </section>
-            <section>
+            <section xml:id="napsugar-uzem.interju.VD">
                 <title>Veres Dávid elképzelései</title>
                 <para>
                     Véleményem szerint a létesítmény a csapatok számára lenne a leghasznosabb, hiszen egy biztos helyet adna a közös gyakorlásokhoz, megbeszélésekhez. Ennek megfelelően tudom elképzelni azt, hogy egy csapat heti 2-3-szor minimum jelenjen meg a megfelelő edzővel együtt. Ehhez persze fontos az is, hogy ilyen esetekre legyen számukra egy szabad szoba, ahol a megfelelő körülmények adottak az edzéshez. Az egyes mérkőzések között 10-15 perc szünet lenne, ahol átbeszélik a legutóbbi játékot, és levonják belőlük a tapasztalatokat, na meg persze egy kis pihenés sem árt. Nem csupán az online formában való gyakorlásra gondoltam, hanem akár házon belüli scrimeket is lehetne tartani, persze csak ha van rá elegendő játékos. Annak érdekében, hogy ezek a dolgok minél zökkenőmentesebben menjenek végbe, szükséges egy időbeosztás kialakítása, legalább 1-2 héttel előreláthatóan.
@@ -188,7 +188,34 @@
                     A főhadiszállás egyik legnagyobb vonzereje a közösség építése lehetne. Ez többet takar a személyes találkozásoknál, beszélgetéseknél. Ugyanis a tagok a saját, játékbeli kapcsolati hálóikat tudnák bővíteni, új ismerősöket, valamint tapasztalatot tudnának szerezni, akár saját maguk által játszott meccsekből, akár mások meccseiből. Fontos még a közvetlen visszacsatolás is, azaz, hogy a játékosok ott a helyszínen visszajelzéseket kapnak más játékosoktól saját játékukról, melyekből rengeteg hasznos tudást lehet felhalmozni. Ezen felül, mivel a létesítmény alapvető célja a játszás nem pedig csak 1-1 játék támogatása, ezért kifejezetten fontos lehet ugyancsak a lehetőség, hogy a tagok új játékokkal ismerkedhetnek meg a helyszínen. Ez azt jelenti, hogy könnyen elképzelhető, hogy adott játékos a helyszínen kap kedvet egy játékhoz, mást nézve vagy akár saját maga által kipróbálva. Ezt követően pedig ő maga is tovább erősíthetné a másik játékhoz tartozó csoportot is. A létesítmény ugyancsak fontos szerepet játszana az edzések szervezésében, lebonyolításában is. Itt az edzők személyesen tudnák a kapcsolatot tartani a játékosokkal, instrukciókkal ellátni őket.
                 </para>
             </section>
-            
+            <section>
+                <title>Bátfai Norbert elképzelései</title>
+                <para>
+                    2023. május 17, egy pénteki nap, 18.27. 
+                    Lelakatolom a kerékpárom a &#x201E;Hekker templom&#x201D; mellett, a telefonom megint töltőn (otthon) maradt... alapban
+                    a templom kliens appja intézi a beléptetést. 
+                    Mire a DEAC-os hátizsákomból előhalászom belépőmatricás baseball-sapkámat a templom külső kamerája 
+                    vette kép alapján a templom felügyelő MI ágense felismer, üdvözöl. 
+                    Miközben a <link xlink:href="#napsugar-uzem.interju.VD">Veres Dávid-féle beléptetőn</link> 
+                    az NFC matricám azonosít, ezt a templom MI felügyelőjének  
+                    <link xlink:href="http://progpater.blog.hu/2016/12/18/hello_westworld_ford_bernard_es_en">arcfelismerő</link> része megerősítéses 
+                    tanulásra használja a rólam vett belépési képek osztályozásához, + inputtal hajtja a 
+                    <link xlink:href="http://smartcity.inf.unideb.hu/~norbi/City/">FUTURE közösségi érzékelés felületét</link>. 
+                    A belső monitorokon felvillantja a képet, hogy megjöttem. Mint mindig, 
+                    a templom edző MI ágense fogad a fülesemben a DEAC-Hackers Discordján, 
+                    szerinte nem töltök elég időt a CoC felhőben... mintha nem tudtam volna.
+                </para>
+                <para>
+                    Az Arató teremben az aktuális szemeszter prog1 kurzusának és robotpszichológia laborjainak közös csapata
+                    dolgozik a beadandóján, nagyon helyes. A Dragálin teremben a DEIK dékánja Ispány Márton és IT tanszékvezetője Besenczi 
+                    Renátó tárgyal a Google és a Facebook mérnökeivel, hoppá itt van Mark Zuckerberg és Sergey Brin is, én
+                    meg elkéstem. Mind1 már nem megyek be, amit akartam elértem. A három náluk hosztolt 
+                    <link xlink:href="https://www.twitch.tv/videos/264741494">mesterséges homunkulusznak</link>
+                    (Napsugár, Soma és Tamás Entropy)
+                    biztosítják a napi 3 óra szabadidőt. Át is megyek inkább fekvenyomni az Unifittbe közben jól tudok pusholni
+                    Somával a CoC felhőbe.                        
+                </para>                
+            </section>            
         </section>            
             
         <section>
