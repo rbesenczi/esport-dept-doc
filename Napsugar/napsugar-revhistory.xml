@@ -286,4 +286,12 @@
             Házi versenystruktúra iterálása és elkezdése az anyagba.
         </revremark>
     </revision>
+    <revision>
+        <revnumber>0.0.44</revnumber>
+        <date>2018-07-10</date>
+        <authorinitials>rbesenczi</authorinitials>
+        <revremark>
+            Szabó Bálint: vízio, R6S játékspecifikus követelmények be, Besenczi Renátó: CS:GO, Dota2, HS, WoT, Ow, Paladins játékspecifikus követelmények be.
+        </revremark>
+    </revision>
 </revhistory>
