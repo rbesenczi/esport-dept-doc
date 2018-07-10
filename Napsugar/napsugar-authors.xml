@@ -118,6 +118,21 @@
             </address>
         </affiliation>
     </author>
-        
-                        
+
+    <author>
+        <personname>
+            <honorific>Mr.</honorific>
+            <surname>Jármi</surname>
+            <firstname>László</firstname>        
+        </personname>    
+        <affiliation>
+            <shortaffil>középvezető, DEAC.</shortaffil>
+            <jobtitle>középvezető</jobtitle>
+            <orgname>Debreceni Egyetem Atlétikai Club</orgname>
+            <address>
+                <email></email>
+            </address>
+        </affiliation>
+    </author>
+
 </authorgroup>
