@@ -42,10 +42,6 @@
             </para> 
             <section>
                 <title>Játékspecifikus szakterületi követelmények</title>
-                <para>
-                    Azt leírni, hogy mire kell figyelni, ha offline vagy online versenyt akarunk adott játékban rendezni, Renátó megmutatja
-                    a példát a CoC kapcsán. Pár kisebb-nagyobb, hazai-nemzetközi versenyt hozni példának, Besenczi Renátó.
-                </para> 
                 
                 <section>
                     <title>League of Legends</title>
@@ -61,9 +57,28 @@
                 </section>
 
                 <section>
-                    <title>Rainbow Six Siege</title>
+                    <title>Counter Stike: Global Offensive</title>
                     <para>
-                        Besenczi Renátóval egyeztetve Szabó Bálint.
+                        A mai napig a legnépszerűbb FPS játék, illetve az esport játékok között is hosszú távon a TOP3-ba tartozik. Mind online, mind offline versenyeket lehet rendezni. Általában elmondható, hogy a játékhoz szükséges PC-t úgy kell összeállítani, hogy az FPS minimum 120-130 legyen folyamatosan, illetve a monitor 144 Hz képfrissítéssel rendelkezzen. Utóbbi egyébként minden FPS-ről (és már a MOBA játékok esetén is) elmondható, hatalmas hátrányt jelentene ennek hiánya. Egy ilyen konfiguráció iránymutatásként található a mellékletben a Gamer PC alatt.
+                    </para>
+                    <para>
+                        Online versenyek a legnagyobb platformokon nagy számban elérhetőek, illetve rendezhetünk sajátot is. Ebben az esetben és úgy általában offline versenyek esetén is, javasolt egy ilyen platformon keresztül lebonyolítani a versenyt. Ennek egyik oka praktikusan, hogy nem nekünk kell adminisztrálni, illetve a nagyobb platformok beépített anti-cheat rendszerrel rendelkeznek.
+                    </para>
+                    <para>
+                        Offline versenyek a fent hivatkozott Gamer PC-kkel lebonyolíthatóak, 5 gép kell csapatonként, összesen 10. Emellett fontos összetevő még az önkéntes versenybírák, adminok jelenléte.
+                    </para>
+                </section>
+
+                <section>
+                    <title>Tom Clancy's Rainbow Six: Siege</title>
+                    <para>
+                        Jelenleg a legtaktikusabb FPS játék, illetve mára több mint 35 millió játékost számlál. Mind online, mind offline versenyeket lehet rendezni. A játékhoz szükséges PC-t hasonlóan a Counter Strike-hoz, úgy kell összeállítani, hogy az FPS minimum 120-130 legyen folyamatosan, illetve a monitor 144 Hz képfrissítéssel rendelkezzen. Egy ilyen konfiguráció iránymutatásként található a mellékletben a Gamer PC alatt.
+                    </para>
+                    <para>
+                        Online versenyek itt is a legnagyobb platformokon nagy számban elérhetőek, illetve természetsen rendezhetünk sajátot is. Ebben az esetben és úgy általában offline versenyek esetén is, javasolt egy ilyen platformon keresztül lebonyolítani a versenyt. Ennek egyik oka az adminisztráció, illetve a nagyobb platformok beépített anti-cheat rendszerrel rendelkeznek.
+                    </para>
+                    <para>
+                        Offline versenyek a fent hivatkozott Gamer PC-kkel lebonyolíthatóak, 5 gép kell csapatonként, összesen 10. Emellett fontos összetevő még az önkéntes versenybírák, adminok jelenléte.
                     </para>
                 </section>
 
@@ -125,44 +140,37 @@
                 </section>
 
                 <section>
-                    <title>Counter Stike: Global Offensive</title>
-                    <para>
-                        Besenczi Renátó.
-                    </para>
-                </section>
-                                                                                    
-                <section>
                     <title>DOTA 2</title>
                     <para>
-                        Besenczi Renátó.
+                        Az egyik legnépszerűbb MOBA játék. Offline és online versenyeket is rendezhetünk, gépigénye hasonló a League of Legendshez. 5 fős csapatok játszák, így egy meccshez 10 PC szükséges.
                     </para>
                 </section>
                                                                                                                                                                                                                                                             
                 <section>
                     <title>Hearthstone</title>
                     <para>
-                        Besenczi Renátó.
+                        A legnépszerűbb gyűjtögetős kártyajáték. Mivel nem FPS intenzív játék, ezért komolyabb gépigénye sincs. Online és offline versenyek is elérhetőek, szervezhetőek. 1v1 játékmód jellemzi a játékot, egy meccshez 2 PC szükséges. Opcionális esetben mobiltelefonos és tabletes kliens is használható.
                     </para>
                 </section>
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
                 <section>
                     <title>World of Tanks</title>
                     <para>
-                        Besenczi Renátó.
+                        Sokszereplő online játék, közepes gépigénnyel. Offline versenyek lebonyolítása nem javasolt, online versenyeken részt venni az edzőterem gépeivel lehetséges. Online versenyek lebonyolítását több platform is támogatja.
                     </para>
                 </section>
 
                 <section>
                     <title>Overwatch</title>
                     <para>
-                        Besenczi Renátó.
+                        Újabb FPS/MOBA hibrid játék, magas gépigénnyel és magas FPS igénnyel. Ebből a szempontból a játék hasonlít a Counter Stike: Global Offensive-hoz. Mind online, mind offline versenyek szervezhetőek, számos platform támogatja is. Fontos, hogy egy csapatban 6-an vannak, így egy meccshez 12 PC szükséges. A mellékletben található gamer PC konfiguráció versenyek szervezésére is alkalmas.
                     </para>
                 </section>
 
                 <section>
                     <title>Paladins</title>
                     <para>
-                        Besenczi Renátó.
+                        Az Overwatch-hoz hasonló játék, hasonló igényekkel.
                     </para>
                 </section>
 
