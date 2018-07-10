@@ -110,8 +110,30 @@
         <section>
             <title>Saját verseny portfólió</title>
             <para>
-                Bár a DEAC-Hackersnek nem vág profiljába a versenyek szervezése
+                Bár a DEAC-Hackersnek nem vág profiljába a versenyek szervezése, hanem a versenyeken való részvételben érdekelt,
+                a fejlesztendő létesítménynek értékes tartalmi pillére lehet. Ebben a pontban 
+                a <link xlink:href="#napsugar-intezmeny.versenykornyezet">Versenykörnyezet</link> című részre építve
+                azt gondoljuk át, hogy milyen
+                versenystruktúrát tudnánk kialakítani. A konkrét tárgyalást segítendő a létesítmény nyitása kapcsán
+                tervezett versenyekre fókuszálunk, melyeket majd hagyományként, a létesítmény születésnapját ünnepelve
+                évente rendezünk meg.
             </para> 
+            <important>
+                <title>Házi verseny</title>
+                <para>Fontos, hogy ezek a versenyek 0 forintos költségvetéssel <indexterm>
+                        <primary>0 forintos költségvetés</primary>
+                    </indexterm> vannak tervezve, alapvetően házi versenyek. Ám nyitottak a vendég résztvevők
+                    számára, így megvan a lehetőség, hogy a rendezvények organikusan kiforrják magukat.
+                    
+                </para>
+            </important>
+            
+            <section>
+                <title>Clash of Clans</title>
+                <para>
+                    Besenczi Renátó
+                </para>
+            </section>
         </section>            
                                     
         <section>
