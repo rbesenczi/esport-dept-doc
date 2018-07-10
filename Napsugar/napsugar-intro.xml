@@ -159,6 +159,9 @@
                         <para>
                             2013-ból a 
                             <link xlink:href="https://sourceforge.net/projects/yanonymous/">YANonymous</link> projektet az oktatásban
+                            <indexterm>
+                    <primary>YANonymous</primary>
+                </indexterm>
                             sikerrel használtuk a programozás képzésben, de a projekt nem kapott erőre, elhalt.
                         </para>
                     </listitem>    
@@ -166,6 +169,12 @@
                         <para>
                             2014-ből az 
                             <link xlink:href="https://github.com/nbatfai/robocar-emulator">OOCWC</link> (Robotautó Világbajnokság) 
+                            <indexterm>
+                    <primary>OOCWC</primary>
+                </indexterm>
+                <indexterm>
+                    <primary>Robotautó Világbajnokság</primary>
+                </indexterm>
                             projektet az oktatásban még sikeresebben
                             használtuk a programozás képzésben, de a projekt csak korlátozott, néhány kutatástámogató esetben
                             volt életképes <citation>OOCWC</citation>, <citation>OOCWC2</citation>, <citation>OOCWC3</citation>.
@@ -173,7 +182,21 @@
                     </listitem> 
                     <listitem>
                         <para>
+                            2015 és 2016-ból a 
+                            <link xlink:href="https://github.com/nbatfai/SamuEntropy">Entrópia Samu</link> család elemeit
+                            <indexterm>
+                    <primary>Entrópia Samu</primary>
+                </indexterm>
+                            <citation>SAMUB</citation>,<citation>PSAMU</citation>, <citation>ESAMU</citation>, <citation>ROBOSPY</citation>
+                            használtuk a programozás képzésben, az Arccsata játék <citation>FABA</citation> ígéretesnek tűnt, de befagyott.
+                        </para>
+                    </listitem> 
+                    <listitem>
+                        <para>
                             2017-ből a 
+                            <indexterm>
+                    <primary>FUTURE</primary>
+                </indexterm>
                             <link xlink:href="https://github.com/nbatfai/future">FUTURE</link> projekt mint játék koncepció már ott van a
                             szeren, de a jövője egyre bizonytalanabb játékként... támogató szerepben bevállhat: 
                             <link xlink:href="http://smartcity.inf.unideb.hu/~norbi/City/">http://smartcity.inf.unideb.hu/~norbi/City/</link>.

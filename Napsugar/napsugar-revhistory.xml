@@ -254,4 +254,13 @@
             Bogacsovics Gergő részei be: használati eset, Megvalósíthatóság és szoftver háttér. deac-hackers.hu és deac-hackers.com domainnevek lefoglalásának jelzése.
         </revremark>
     </revision>
+    <revision>
+        <revnumber>0.0.40</revnumber>
+        <date>2018-07-10</date>
+        <authorinitials>nbatfai</authorinitials>
+        <revremark>
+            Kiegészítések, struktúra részleges refaktor, keresztkapcsolatok beszúrása, részfeladatok finomítása.
+        </revremark>
+    </revision>
+    
 </revhistory>

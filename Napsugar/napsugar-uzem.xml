@@ -124,7 +124,18 @@
                     <para>
                         Az online jelenléti ív nem is biztos hogy a megfelelő kifejezés, hiszen tetszőleges további funkcionalitással el lehet látni a fent említett appot.
                     </para>
-                </section>
+                    <tip>
+                        <title>
+                            Az épület MI felé...
+                        </title>
+                        <para>
+                            Ezzel a használati esettel a fejlesztendő intézményt vezérlő mesterséges intelligencia
+                            felé is léphetünk? Emlékezzünk: Papp László (Gartner ügyvezető) MI mit tud? Digitális Esélyegyenlőség konferencia
+                            előadásából megtudtuk, hogy az MI a középvezetőket válthatja le először. Dávid használati esetében az
+                            online monitorozás egyértelmű középvezetői funkció.
+                        </para>
+                    </tip>
+                </section>                
             </section>
             <section>
                 <title>Bogacsovics Gergő elképzelései</title>

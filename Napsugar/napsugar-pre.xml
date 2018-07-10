@@ -22,6 +22,9 @@
         Előnyünk más esport szakosztályokkal szemben az <emphasis>egyetem jelenléte</emphasis>, 
         amely biztosítja egyrészt az interdiszciplináris, akár tudományos mélységű hátteret, másrészt a természeténél 
         fogva évente megújuló, elhivatott, potenciális érdeklődő utánpótlásbázis gerincét. Ezt az bizonyítja, hogy 
+        <indexterm>
+            <primary>0 forintos költségvetés</primary>
+        </indexterm>
         <emphasis>NULLA forintos költségvetésből</emphasis>, az elmúlt egy esztendő alatt majd kétszáz fős, 
         országos lefedettségű, sőt esetenként az ország határain is túlnyúló 
         <emphasis>amatőr sportolói sportszerződéssel</emphasis> rendelkező igazolt játékost tudhat magáénak a DEAC-Hackers. Felelősségünk ennek a dokumentumnak a fejlesztéseit úgy átgondolni, hogy hozzá tudjunk adni ehhez az eddig lelkesedésből felépített organikus, élő szerveződéshez!
@@ -95,6 +98,7 @@
                 League of Legends idézői profilja <link xlink:href="https://www.leagueofgraphs.com/summoner/na/EntropyNorbi">EntropyNorbi</link> 
                 (Bronz I) az NA és <link xlink:href="https://www.leagueofgraphs.com/hu/summoner/eune/NorbiEntropy">NorbiEntropy</link> 
                 (Bronz V) az EUNE régióban.                            
+                Programozói GitHub profilja: <link xlink:href="https://github.com/nbatfai">https://github.com/nbatfai</link>
             </para>
             <para>            
                 Besenczi Renátó 1986-ban született Kecskeméten. Egyetemi tanulmányait 2004-ben kezdte meg a 
