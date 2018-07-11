@@ -35,7 +35,37 @@
             <title>Rendszeradminisztráció és felügyelet</title>
             <para>
                 Bátfai Norbert
-            </para> 
+            </para>
+            <section>
+                <title>Biztonsági rendszerek</title>
+                <para>
+                    A biztonsági rendszert tekintve a készülő edzőterembe többfunkciós beléptető rendszert valamint kamerarendszert szükséges telepíteni. Minden, az alábbiakban jellemzett eszköz TCP/IP-n kell kapcsolódjon az edzőterem hálózatához, természetesen külön VLAN-on.
+                </para>
+                <section>
+                    <title>Beléptető rendszer</title>
+                    <para>
+                        Az edzőterem külső ajtaját többszíntű azonosítással (NFC: kártya vagy mobiltelefon és ujjlenyomat vagy PIN) szükséges kialakítani. Erre alkalmas eszközök már elérhetőek a piacon, egy javasolt eszközlista a mellékletben iránymutatásként található. Ez lehetővé teszi, hogy az egyetemi Unipass kártya mellett mobiltelefonnal (illetve saját mobilalkalmazás használata esetén a mobiltelefonnal ujjlenyomatolvasással egybekötve), PIN-kóddal, ujjlenyomattal vagy akár RFID-s technológia segítségével is be tudjunk menni.
+                    </para>
+                    <para>
+                        A belső ajtókat egyszerű NFC kártyaolvasókkal javasoljuk felszerelni.
+                    </para>
+                    <para>
+                        Természetesen a terem minden termére tudunk többszintű azonosítást is. Minden szükséges adminisztráció elvégezhető az edzőterem irodájából, ezért olyan eszközöket szükséges beszerezni, mely egyszerre, egy infrastruktúraként menedzselhető (a mellékletben javasolt ilyen). 
+                    </para>
+                </section>
+                <section>
+                    <title>Kamerarendszer</title>
+                    <para>
+                        Az edzőteremben szükséges kamerarendszert kialakítani, javasoljuk IP kamerák használatát, a mellékletben található egy iránymutatás az eszközök tekintetében.
+                    </para>
+                    <para>
+                        A alábbiak szerint javasoljuk a kamerák elhelyezését: tantermek 2-2 db, iroda 1 db, streamer terem 2 db, konzol setup 2 db, gamer setup 3 db, egyéb lefedetlen terület 3 db.
+                    </para>
+                    <para>
+                        Ezen felül szükséges egy NVR rendszer, amellyel minimum 48 órát tudunk rögzíteni.
+                    </para>
+                </section>               
+            </section>
         </section>
         <section xml:id="napsugar-uzem.Sw-muhely">
             <title>Szoftver műhely koncepció</title>
