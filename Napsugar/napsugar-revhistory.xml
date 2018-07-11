@@ -319,4 +319,15 @@
             Refaktor mellett egy szekvenciális feldolgozás melleti pótlás (ahol lehet) folyamatos. 
         </revremark>
     </revision>
+    <revision>
+        <revnumber>0.2.0</revnumber>
+        <date>2018-07-11</date>
+        <authorinitials>nbatfai</authorinitials>
+        <revremark>
+            A dokumentum egy hetes fejlesztési fázisának logikai lezárása, ettől jöhetnek új részek, javítások, de az átnézők
+            erről a változatról tudnak először átfogóbb képet alkotni. Sőt aki adja is nevével a véleményét a
+            <link xlink:href="#napsugar-pre.Vezetoi">A véleményezők meglátásai</link> pontba, ott is feltüntetem, hogy a 0.2.0 sorozat
+            valamelyik tagja volt az aktuális az átnézéskor. 
+        </revremark>
+    </revision>
 </revhistory>

@@ -80,7 +80,7 @@
             másrészt azt is biztosítani kell, hogy a jelen dokumentum egy esetleges bizalmas kiegészítése
             zárt licenccel is legyen ellátható: Jeszenszky Péter.
         </para> 
-        <section>
+        <section xml:id="napsugar-pre.velemenyek">
             <title>A véleményezők meglátásai</title>
             <para>
                 Esport és géming evangélistákat, illetve a nem társszerző DEAC-Hackers vezetőket, 
