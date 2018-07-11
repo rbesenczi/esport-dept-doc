@@ -234,6 +234,27 @@
                 <glossseealso otherterm="robotpszicho">Robotpszichológia</glossseealso> 
             </glossdef>
         </glossentry>
+        <glossentry xml:id="future">
+            <glossterm>FUTURE - smart city future computing</glossterm>
+            <acronym>JÖVŐ DEBRECEN!</acronym>
+            <abbrev>F2-F9</abbrev>
+            <glossdef>
+                <para>
+                    <indexterm>
+                        <primary>smart city future computing</primary>
+                    </indexterm>
+                    <indexterm>
+                        <primary>FUTURE</primary>
+                    </indexterm>
+                    A FUTURE alapvetően egy játék 5let: 
+                    <link xlink:href="https://github.com/nbatfai/future">https://github.com/nbatfai/future</link>, melynek 
+                    célja a játékosok és rajtuk keresztül az adott város jövőjének legenerálása, az ilyen virtuális jövő-alternatívák
+                    kölcsönhatásainak biztosítása. Fejleszthetőségének vizsgálására a DEAC-Hackers és az UDPROG közösségekre 
+                    szorítottuk meg az értelmezési tartományát, ahol a közösségi érzékelés alapú bemenetet a 
+                    <link xlink:href="http://smartcity.inf.unideb.hu/~norbi/City/">tevékenység böngésző</link> biztosítja.
+                </para>
+            </glossdef>
+        </glossentry>        
     </glossdiv>
     <glossdiv>
         <title>I</title>
