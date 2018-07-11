@@ -270,7 +270,7 @@
                         <indexterm>
                             <primary>GPU</primary>
                         </indexterm>GPU orientált debreceni egységen.
-                        Ehhez a szaktudásunk és a hozzérérésünk is 
+                        Ehhez a szaktudásunk és a hozzáférésünk is 
                         <link xlink:href="https://www.twitch.tv/videos/257230166">adott</link>, de a gépidő ellenjegyzéséhez ez szükséges.
                     </para> 
                 </section>
@@ -352,7 +352,7 @@
                     <para>
                         A továbbiakban alfejezetekre bontva fejtjük ki az egyes alternatívákat. Fontos megjegyeznünk, hogy ezek a tervek nem mérnöki tervezés eredményei, csupán a szemléltetés eszközei. A végleges tervek a mérnöki tervezés és a hatósági folyamatok során fognak kialakulni.
                     </para> 
-                    <section>
+                    <section xml:id="napsugar-infrastrukt.a2">
                         <title>Edzőterem "A2" szakmai skicc</title>
                         <para>
                             Ebben a tervben kapja az oktatás a legnagyobb hangsúlyt, két 18+1 fős gépes tanteremmel. A tanterem kialakításához az intuíciót a DEIK 204-es tanterme adta. Méretben (6x6m) és befogadóképességben (18+1 fő) várhatóan a kettő egyforma lesz, amely egybeesik a DEIK-es terem adottságaival is ("DEIK-kompatibilis"). Minden tanteremben 18+1 egyforma tantermi számítógép (javasolt konfiguráció a későbbiekben), whiteboard, illetve kivetítésre alkalmas TV található. Projektort semmiképpen sem javaslunk a gyenge minőség és a fényviszonyok miatt, valamint ezek a TV-k mozgatható állványra szereltek, hogy verseny, vagy egyéb esemény során is használhatóak legyenek.
@@ -384,7 +384,7 @@
                             </mediaobject>
                         </figure>
                     </section>
-                    <section>
+                    <section xml:id="napsugar-infrastrukt.a">
                         <title>Edzőterem "A" szakmai skicc</title>
                         <para>
                             Ez a terv annyiban különbözik az előzőtől, hogy a két tanterem közül az egyik egy kisebb méretű, 16+1 fő befogadóképességű. Viszont az öltöző és az iroda így nagyobb méretű. Az emeleti rész változatlan.

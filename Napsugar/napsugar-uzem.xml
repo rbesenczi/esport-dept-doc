@@ -128,55 +128,55 @@
                 </para>
             </important>
                 
-                <section>
-                    <title>Clash of Clans</title>
-                    <para>
-                        Besenczi Renátó
-                    </para>
-                </section>
-                <section>
-                    <title>World of Tanks</title>
-                    <para>
-                        Tóth László
-                    </para>
-                </section>
-                <section>
-                    <title>Overwatch</title>
-                    <para>
-                        Magyar Tamás
-                    </para>
-                </section>
-                <section>
-                    <title>Tom Clancy's Rainbow Six: Siege</title>
-                    <para>
-                        Szabó Bálint
-                    </para>
-                </section>
-                <section>
-                    <title>Dota 2</title>
-                    <para>
-                        Kosda Bence
-                    </para>
-                </section>
-                <section>
-                    <title>Paladins</title>
-                    <para>
-                        Kovács Imre
-                    </para>
-                </section>
-                <section>
-                    <title>Clash Royale</title>
-                    <para>
-                        Molnár Zsolt
-                    </para>
-                </section>                                    
-                <section>
-                    <title>FIFA</title>
-                    <para>
-                        Vinnai Tamás
-                    </para>
-                </section>                                    
-            </section>        
+            <section>
+                <title>Clash of Clans</title>
+                <para>
+                    Besenczi Renátó
+                </para>
+            </section>
+            <section>
+                <title>World of Tanks</title>
+                <para>
+                    Tóth László
+                </para>
+            </section>
+            <section>
+                <title>Overwatch</title>
+                <para>
+                    Magyar Tamás
+                </para>
+            </section>
+            <section>
+                <title>Tom Clancy's Rainbow Six: Siege</title>
+                <para>
+                    Szabó Bálint
+                </para>
+            </section>
+            <section>
+                <title>Dota 2</title>
+                <para>
+                    Kosda Bence
+                </para>
+            </section>
+            <section>
+                <title>Paladins</title>
+                <para>
+                    Kovács Imre
+                </para>
+            </section>
+            <section>
+                <title>Clash Royale</title>
+                <para>
+                    Molnár Zsolt
+                </para>
+            </section>                                    
+            <section>
+                <title>FIFA</title>
+                <para>
+                    Vinnai Tamás
+                </para>
+            </section>                                    
+        </section>        
         <section xml:id="napsugar-uzem.vusecase">
             <title>Interjúzott, elképzelt használati esetek</title>
             <para>
@@ -406,5 +406,10 @@
             </section>
 
         </section>
+        <section>
+            <title>Látható kiadások</title>
+            <para>
+            </para> 
+        </section>        
     </chapter>                
 </part>         

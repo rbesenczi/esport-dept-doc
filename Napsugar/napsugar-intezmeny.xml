@@ -15,10 +15,11 @@
         <section>
             <title>Funkcionális követelmények</title>
             <para>
-                Bátfai Norbert
+                Mivel az általános oktatási célok a játékra optimalizált infrastruktúrán triviálisan megvalósíthatóak, az
+                esport specifikus oktatási célok (például az esport kurzus) pedig definíció szerint megvalósíthatóak, így a 
+                funkcionális követelmények előzetes rögzítésénél fókuszálhatunk a fejlesztendő létesítmény játék és esport vetületére.
             </para> 
-        </section>
-            
+        </section>            
         <section>
             <title>Gaming eszközök</title>
             <para>
@@ -269,6 +270,8 @@
             <section>
                 <title>Szoftver háttér</title>
                 <para>
+                    Szerver oldalon gondolom Linux default, desktop OS? Dual boot? Pár gépet fenn kellene tartani kísérletezésre és 
+                    eleve azokról klónozni a többit, ha bejön valamelyik.
                     Kitérve oktatási oldalra is, például UP és Minecraft, Jeszenszky Péter.
                 </para> 
                                                            
@@ -328,46 +331,56 @@
         <section>
             <title>Oktatás</title>
             <para>
-                Bátfai Norbert
+                A fejlesztendő létesítményben alapvetően az oktatás két szinten történik a DEIK szintjén, ahol ez
+                reguláris és irreguláris oktatási formák megtestesítését jelenti a nappali és a levelező tagozaton.
+                A másik szint a DEAC-Hackers szintje, mely tipikusan edzésmunkát vagy utánpótlásképzést takar.
             </para> 
                 
             <section>
                 <title>DEIK szint</title>
                 <para>
-                    Mihálydeák Tamás
+                    A reguláris tantermi foglalkozások maguktól értetődőek. Az irreguláris oktatási formákat a 
+                    <link xlink:href="#napsugar-szervezet.privi">A DEIK hallgatók kizárólagos privilégiumai</link> című pontban vezettük be.    
                 </para> 
                 
                 <section>
                     <title>Tantermek kialakítása</title>
                     <para>
-                        16-18 fős, a hagyományos tantermi keretek megőrzése, Mihálydeák Tamás.
+                        16-18 fős, a hagyományos tantermi kereteket megőrző kialakítás, lásd a
+                        <link xlink:href="#napsugar-infrastrukt.a2">2x18+1 fős</link> és a 
+                        <link xlink:href="#napsugar-infrastrukt.a">1x19, 1x17 fős</link> terem skicceket.
                     </para> 
                     <para>
-                        Javaslat a tantermi számítógépek konfigurációjára a mellékletben található (Besenczi Renátó).
+                        A tantermi számítógépek konfigurációjára szóló javaslat a mellékletben található.
                     </para> 
                 </section>
                 
                 <section xml:id="napsugar-intezmeny-esport-kurzus">
                     <title>Esport kurzus</title>
                     <para>
-                        Bátfai Norbert
+                        Ez a kurzus az akkreditált képzés BSc tárgya, melyet 
+                        már konferencián <citation></citation> és folyóirat tanulmányban <citation></citation> is bemutattuk.
+                        Tárgyfelelős Bátfai Norbert.
+                        A félév feladatait (leet speak szlengben) a FUTURE rendszer tevékenységfája rögzíti és jellemzi.
                     </para> 
                 </section>
                 <section xml:id="napsugar-intezmeny-gepit-kurzus">
                     <title>Gépi tanulás a gyakorlatban kurzus</title>
                     <para>
-                        Ispány Márton
+                        Ez a kurzus az akkreditált képzés MSc tárgya, tárgyfelelőse Ispány Márton.
                     </para> 
                 </section>
                 <section>
                     <title>További kurzusok</title>
                     <para>
-                        Mihálydeák Tamás
+                        A további kurzusok tervezése mellett mérlegelhető szempont 
+                        lehet, hogy a fejlesztendő létesítményben oktatók további órái is itt kapjanak helyet, minimalizálandó 
+                        az oktatói ingázást. Illetve ugyancsak mérlegelhető szempont lehet az irreguláris oktatási formákhoz történő
+                        kurzusok (ahol várhatóan többen <link xlink:href="#napsugar-szervezet.privi">A DEIK hallgatók kizárólagos privilégiumai</link> című pontban
+                        bevezetett szűrőknek) ide koncentrálása.                      
                     </para> 
-                </section>
-                
-            </section>
-                
+                </section>                
+            </section>                
             <section>
                 <title>DEAC-Hackers szint</title>
                 <para>
@@ -406,46 +419,37 @@
         <section>
             <title>Innováció</title>
             <para>
-                Bátfai Norbert
+                Innovációs tevékenységünk összemosódik az olyan kutatás-fejlesztési irányainkkal, melyeket a NEMESPOR
+                dokumentumban indexelünk, itt direktben az oktatással kapcsolatos lehetséges irányokat lesz érdemes külön kiemelni,
+                mint páldául a Streamer tanár koncepciója.
             </para> 
             <section xml:id="napsugar-intezmeny.streamer-tanar">
                 <title>Streamer tanár</title>
                 <para>
-                    Bátfai Norbert
+                    A streamer tanár nem csupány annyit tesz, mint a legnagyobb amerikai egyetemekről (Stanford, MIT) 
+                    jól ismert metódus, hogy előadásaikat
+                    média termékként is elérhetjük, hanem itt az oktató, mint influencer próbál fellépni (de nem addig elért apriori 
+                    teljesítményével, pl. valamilyen áttörő eredmény vagy szélsőséges esetben Nobel díj, hanem streamer mivoltával).  
+                    A streamer-tanár fogalom tartalmi megtöltésére a fejlesztendő létesítmény remek feltételeket tudna biztosítani.
                 </para> 
             </section>
                 
             <section>
                 <title>Fakultáció középiskolásoknak</title>
                 <para>
-                    Szabó József
+                    Részben a társadalmi szerepvállalás részeként a fejlesztendő létesítmény helyet tudna adni rendhagyó
+                    általános és középiskolai rendhagyó óráknak.
                 </para> 
-            </section>
-                
+            </section>                
         </section>            
-        
-            
         <section>
             <title>Kutatás</title>
             <para>
-                Bátfai Norbert
-            </para> 
-                
-            <section>
-                <title>DEIK szint</title>
-                <para>
-                    Ispány Márton
-                </para> 
-            </section>
-                
-            <section>
-                <title>DEAC-Hackers szint</title>
-                <para>
-                    Bátfai Norbert
-                </para>                     
-            </section>
-                
-        </section>                    
-            
+                A már korábban ismertetett kutatási vonatkozásokon túl a fejlesztendő létesítményben keletkező adatok,
+                a használat és a felhasználók monitorozása vagy önkéntes (például
+                a FUTURE tevékenységböngészőn keresztül megadott) közösségi érzékelés alapú adatszolgáltatása további kutatási
+                programokat hajthat meg. Lásd még az adatkezelésről szóló bejegyzést is. 
+            </para>                 
+        </section>                                
     </chapter>                
 </part>   
