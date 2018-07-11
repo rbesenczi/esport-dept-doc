@@ -37,8 +37,8 @@
             Jármi László, League of Legends szakértő, GTK hallgató,
             Szabó Bálint, Rainbow Six Siege szakértő, IK hallgató, 
             Molnár Zsolt, Clash Royale szakértő, 
-            Vinnai Tamás, FIFA szakértő hallgató, GTK hallgató,
-            Rozsos Péter, StarCraft szakértő IK hallgató,
+            Vinnai Tamás, FIFA szakértő, GTK hallgató,
+            Rozsos Péter, StarCraft szakértő, IK hallgató,
             Dudás Tamás István, IK hallgató,
             Veres Dávid, IK hallgató,
             Bogacsovics Gergő, IK hallgató,
@@ -103,7 +103,7 @@
         <date>2018-07-04</date>
         <authorinitials>nbatfai</authorinitials>
         <revremark>
-            A tagnap induló fejlesztés kódneve, hagyományaink szerint a tegnapi névnap: Napsugár. Duál licencelésnek megfelelő modularizálás, ehhez
+            A tegnap induló fejlesztés kódneve, hagyományaink szerint a tegnapi névnap: Napsugár. Duál licencelésnek megfelelő modularizálás, ehhez
             a DocBook alapnál áttértem az esport-dept-doc gyakorlatára. Feladatok további finomítása. Források fejlesztése innentől a GitHub repóban:
             https://github.com/nbatfai/esport-dept-doc (lásd ott a napsugar alatt). 
         </revremark>
@@ -291,7 +291,7 @@
         <date>2018-07-10</date>
         <authorinitials>rbesenczi</authorinitials>
         <revremark>
-            Szabó Bálint: vízio, R6S játékspecifikus követelmények be, Besenczi Renátó: CS:GO, Dota2, HS, WoT, Ow, Paladins játékspecifikus követelmények be.
+            Szabó Bálint: vízió, R6S játékspecifikus követelmények be, Besenczi Renátó: CS:GO, Dota2, HS, WoT, Ow, Paladins játékspecifikus követelmények be.
         </revremark>
     </revision>
     <revision>
