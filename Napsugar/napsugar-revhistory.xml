@@ -330,4 +330,12 @@
             valamelyik tagja volt az aktuális az átnézéskor. 
         </revremark>
     </revision>
+    <revision>
+        <revnumber>0.2.1</revnumber>
+        <date>2018-07-12</date>
+        <authorinitials>rbesenczi</authorinitials>
+        <revremark>
+            Rozsos Péter: StarCraft 2 és Fortnite játékspecifikus igények be.
+        </revremark>
+    </revision>
 </revhistory>

@@ -167,4 +167,20 @@
         </affiliation>
     </author>
 
+    <author>
+        <personname>
+            <honorific>Mr.</honorific>
+            <surname>Rozsos</surname>
+            <firstname>Péter</firstname>        
+        </personname>    
+        <affiliation>
+            <shortaffil>középvezető, DEAC.</shortaffil>
+            <jobtitle>középvezető</jobtitle>
+            <orgname>Debreceni Egyetem Atlétikai Club</orgname>
+            <address>
+                <email></email>
+            </address>
+        </affiliation>
+    </author>
+
 </authorgroup>
