@@ -15,7 +15,8 @@
         <section>
             <title>DEIK szándéknyilatkozat</title>
             <para>
-                Hogyan tudná a DEIK támogatni a jelen dokumentum koncepcióját? Mihálydeák Tamás
+                Hasznosnak látjuk, hogy a DEIK széndéknyilatkzatban deklarálja hogyan tudná támogatni 
+                a jelen dokumentum koncepcióját.
             </para> 
         </section>
             
@@ -123,9 +124,17 @@
         <section>
             <title>A DEAC-Hackers döntési kompetenciái</title>
             <para>
-                Sportszakmai kérdések, a teljesség igénye nélkül: az esport tevékenység szervezésétől a szponzorálásig, a szakosztályi 
+                Sportszakmai kérdések, a teljesség igénye nélkül: az esport tevékenység szervezésétől a szponzorálásig (lásd még a következő
+                pont finomítását is), a szakosztályi 
                 gazdálkodáson keresztül, a szakosztályi szintű informatikai
                 kutató, fejlesztő, nevelő munkáig.
+            </para> 
+        </section>
+        <section>
+            <title>Szponzoráció</title>
+            <para>
+                Ha a szponzor a fejlesztendő létesítményt akarja támogatni, akkor ott hármas egyeztetés: a szponzor, a DEIK és a DEAC-Hackers (DEAC) szükséges, ha csak a DEAC-Hackerst, akkor a szponzor és a DEAC-Hackers (DEAC).
+                Az egyetértés esetleges hiányában a DEAC-e a döntő szó.
             </para> 
         </section>
     </chapter>                
