@@ -30,7 +30,7 @@
             <section  xml:id="napsugar-uzem.humangazd.onkentes">
                 <title>Önkéntes részvétel</title>
                 <para>
-                   A helyi rendszeradminisztráció is kezelhető a DEAC-Hackers vezetőségi és középvezetőségi tagjaira építve.
+                    A helyi rendszeradminisztráció is kezelhető a DEAC-Hackers vezetőségi és középvezetőségi tagjaira építve.
                     Itt az önkéntes társadalmi munka az alapértelmezett, ahol adott személyenként az is érdekes lehet, hogy ezt a
                     munkát referenciaként fel tudja mutatni. Adott esetekben (például a gépek beszerzése után nagyobb telepítési
                     kampány, jó gyakorlat kialakítása a gépek installálására, frissítésére, felügyeletére) indokolt lehet az
@@ -384,25 +384,36 @@
             <section>
                 <title>Saját oktatási csatorna</title>
                 <para>
-                    OpenCourseWare?, Bátfai Norbert.
+                    A <link xlink:href="#napsugar-intezmeny.streamer-tanar">streamer tanár</link> koncepciót is magába foglaló 
+                    csatorna nemcsak oktatási célokat szolgálna, hanem a 
+                    <link xlink:href="#napsugar-intro.TarsBeagy">társadalmi felelőséggel</link> kapcsolatos 
+                    <link xlink:href="#napsugar-infrastrukt.tarsbeagytam">törekvéseinket</link> is
+                    szolgálná.
                 </para> 
             </section>
             <section>
                 <title>Táboroztatás</title>
                 <para>
-                    Esport és programozás, a téli és nyári szünetekre ütemezve, Bátfai Norbert.
+                    Részben utánpótlás nevelési részben <link xlink:href="#napsugar-infrastrukt.tarsbeagytam">társadalmi 
+                        felelősségvállalásból</link> szervezett kampányszerű foglalkozás a fiatalokkal: korosztályi bontásban 
+                    esport és programozás, a téli és nyári szünetekre ütemezve, további részletek tekintetében lásd 
+                    az erről szóló mellékletet.
                 </para> 
             </section>
             <section>
                 <title>Tehetséggondozás</title>
                 <para>
-                    Programozás, Bátfai Norbert.
+                    Lásd a NEMESPOR dokumentum Oktatási és védelmi szoftverek és A kognitív képességek mérése című részeit.
+                    Ennek szerveroldai támogatását adhatná
+                    a fejlesztendő létesítmény.
                 </para> 
             </section>
             <section>
                 <title>Szervezett foglalkozás</title>
                 <para>
-                    Például fizetős tagdíj megosztása a DEH és a DEIK között, Bátfai Norbert.
+                    Az előző pont olyan kiegészítése, ahol offline eseményként megjelennének a fiatalok a fejlesztendő létesítményben.                    
+                    Erre épülő lépcsőként felmerülhet 
+                    fizetős tagdíj megosztása a DEH és a DEIK között.
                 </para> 
                                         
                 <section xml:id="napsugar-uzem.Bootcamp">
@@ -432,16 +443,31 @@
                 <para>
                     Az így legyártott terméket, azonnal össze tudnák kötni a szakosztállyal, az egyetemmel vagy akár egy általunk szervezett esport eseménnyel. Pl. a játékosokról posztereket/képeket készíthetünk, a játékosmezeket meg lehet vásárolni. Néhány felhasznált arculati elem ötletként a ruházati termékek (mezek, pólók, pulóverek) vagy egy ajándékok, dísztárgyak (bögre, tornazsák, babzsákfotel).
                 </para> 
+                <para>
+                    A merchandise termékek értékesítése bevételmegosztással történhetne az egyetemi shopban.
+                </para> 
             </section>
 
         </section>
         <section>
             <title>Látható kiadások</title>
-            <para>
+            <para>                
                 Kiadások tekintetében vannak az egyszeri és eseti költségek (például a beléptető rendszer beszerzése és telepítése), s az ilyenek 
-                karbantartása, illetve eleve folyamatos költségek, mint triviálisan az áramszámla, a fizikai szerveroldal hosztolása, vagy az
+                karbantartása, illetve vannak eleve folyamatos költségek, mint triviálisan az áramszámla, a fizikai szerveroldal hosztolása, vagy az
                 esetleges megbízások.
-            </para> 
+            </para>
+            <para>                
+                Fontos leszögeznünk, hogy a DEAC-Hackers kvintesszenciáját adó 0 forintos költségvetésünket a továbbiakban 
+                <indexterm>
+                    <primary>0 forintos költségvetés</primary>
+                </indexterm>              
+                is alapvető szemléletformáló erőnek tartjuk a sportszakmai munka szervezésében! Természetesen nem vagyunk az anyagiak ellen,
+                ha a szponzorok megjelenésével lesznek elosztható anyagi forrásaink, azokat nyilvánvaló és transzparens módon szét fogjuk osztani.
+                De elvünk, hogy a 0 forintos költségvetés alakítsa ki a azokat a sportszakmai működési formákat, amelyek ilyen értelemben 
+                kvázi maguktól is működnek, s ha ezek mögé valamikor pénz tudunk majd tenni, az nyilván gyorsítja majd a további organikus, azaz 
+                valódi fejlődést.
+            </para>
+               
         </section>        
     </chapter>                
 </part>         
