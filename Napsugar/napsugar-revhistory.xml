@@ -311,4 +311,12 @@
             Vinnai Tamás: FIFA specifikus igények be. Besenczi Renátó: Biztonsági eszközök be.
         </revremark>
     </revision>
+    <revision>
+        <revnumber>0.1.6</revnumber>
+        <date>2018-07-11</date>
+        <authorinitials>nbatfai</authorinitials>
+        <revremark>
+            Refaktor mellett egy szekvenciális feldolgozás melleti pótlás (ahol lehet) folyamatos. 
+        </revremark>
+    </revision>
 </revhistory>
