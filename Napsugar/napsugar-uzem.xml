@@ -4,7 +4,7 @@
         <para> 
         </para>
     </partintro>
-    <chapter>
+    <chapter xml:id="napsugar-uzem">
         <info>
             <title>A napi üzem megtervezése</title>
             <keywordset>
@@ -177,7 +177,7 @@
                     </para>
                 </section>                                    
             </section>        
-        <section>
+        <section xml:id="napsugar-uzem.vusecase">
             <title>Interjúzott, elképzelt használati esetek</title>
             <para>
                 Elképzelni/kitalálni a jelölt szerzőnként egy konkrét (szerzőnként különböző) használati esetet, hogy mit 

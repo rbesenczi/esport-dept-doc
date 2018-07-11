@@ -15,7 +15,8 @@
         <section>
             <title>A létesítmény neve</title>
             <para>
-                A DEAC-Hackers Facebook-os csoportban egy <link xlink:href="https://www.facebook.com/groups/DEACHackers/permalink/905045273015788/">poszt</link> formájában gyűjtjük a javaslatokat. Megjegyzendő, hogy azt a lehetőséget is fenn kell tartanunk, hogy egy szponzor neve megjelenhessen. Eddig az alábbiak érkeztek (zárójelben a rá érkezett szavazatok/like-ok.):
+                A DEAC-Hackers Facebook-os csoportban egy 
+                <link xlink:href="https://www.facebook.com/groups/DEACHackers/permalink/905045273015788/">poszt</link> formájában gyűjtjük a javaslatokat. Megjegyzendő, hogy azt a lehetőséget is fenn kell tartanunk, hogy egy szponzor neve megjelenhessen. Eddig az alábbiak érkeztek (zárójelben a rá érkezett szavazatok/like-ok.):
 
                 <itemizedlist mark='opencircle'>
                     <listitem>
@@ -188,25 +189,16 @@
                 <section>
                     <title>Esport kutatások</title>
                     <para>
-                        Részletesen a későbbiekben
+                        A DEAC-Hackersel kapcsolatba hozható kutatások folyamatosan indexelve vannak a 
+                        <indexterm>
+                            <primary>NEMESPOR</primary>
+                        </indexterm>
+                        <indexterm>
+                            <primary>Magyar Nemzeti Esport Portfólió és Stratégia</primary>
+                        </indexterm>NEMESPOR (Magyar Nemzeti Esport Portfólió és Stratégia) 
+                        <link xlink:href="http://shrek.unideb.hu/~nbatfai/samuentropy-portfolio-hu.pdf">kutatásszervező anyagában</link>, lásd a mellékletben. 
+                        A fejlesztendő létesítmény kapcsán is követhető lehet az a gyakorlat.
                     </para>
-                    <para>
-                        A Magyar Nemzeti Esport Portfólió és Stratégia dokumentumban foglaltak kapcsán a DEAC-Hackers szeretne otthont adni a Debreceni Egyetemen futó esporttal kapcsolatos kutatásoknak.
-                    </para>
-                    <para>
-                        <itemizedlist mark='opencircle'>
-                            <listitem>
-                                <para>
-                                    NEMESPOR
-                                </para>
-                            </listitem>
-                            <listitem>
-                                <para>
-                                    FUTURE
-                                </para>
-                            </listitem>
-                        </itemizedlist>
-                    </para>                    
                 </section>
                 <section>
                     <title>Nemzetközi színvonalú versenyek szervezhetősége</title>
@@ -246,17 +238,43 @@
             <section>
                 <title>Oktatás támogatása</title>
                 <para>
-                    Mihálydeák Tamás. 
+                    A létesítmény tantermei hétközben a nappali tagozatos, hétvégén a levelező tagozatos 
+                    oktatást támogatját tantermeikkel.
                 </para> 
-            </section>
-                
+            </section>                
             <section>
                 <title>Kutatások támogatása</title>
                 <para>
-                    Ispány Márton. 
+                    Az interdiszciplináris esport kutatásokra a korábbi pontban már kitértün, ahol 
+                    több olyan kutatás is van, amelynek eredményei a fejlesztendő létesítményben is felhasználhatóak, 
+                    ilyen lehet például a <indexterm>
+                        <primary>BrainB</primary>
+                    </indexterm>BrainB mérőprogram vagy a <indexterm>
+                        <primary>FUTURE</primary>
+                    </indexterm>FUTURE készítette rangsor a 
+                    tagok sorbarendezésére (mely rendezés felhasználható az esetleges kedvezmények elosztásának alapjául).
                 </para> 
-            </section>
-            
+                <section>
+                    <title>Szuperszámítógép</title>
+                    <para>
+                        Általában az esport és 
+                        <indexterm>
+                            <primary>smart city</primary>
+                        </indexterm>smart city irányú kutatásaink további számításintenzív bővítéséhez  
+                        indokolt, hogy a kutatások támogatására Ispány Márton mint leendő HPC projektvezető is megjelenjen, 
+                        hogy gépidőt igényelhessünk a 
+                        <indexterm>
+                            <primary>HPC</primary>
+                        </indexterm>
+                        HPC infrastruktúrán, különös tekintettel a 
+                        <indexterm>
+                            <primary>GPU</primary>
+                        </indexterm>GPU orientált debreceni egységen.
+                        Ehhez a szaktudásunk és a hozzérérésünk is 
+                        <link xlink:href="https://www.twitch.tv/videos/257230166">adott</link>, de a gépidő ellenjegyzéséhez ez szükséges.
+                    </para> 
+                </section>
+            </section>            
             <section>
                 <title>Társadalmi beágyazottság támogathatósága</title>
                 <para>
@@ -284,18 +302,13 @@
                             7/24 rendszerekkel kiegészítve.
                         </para>
                     </listitem> 
-                </itemizedlist>               
-                
+                </itemizedlist>                               
                 <para>
                     Mindezek részletesebb kibontása az üzemelésről szóló részben található.
                 </para> 
-            </section>
-            
+            </section>            
             <section>
                 <title>Külcsín</title>
-                <para>
-                    Besenczi Renátó. 
-                </para> 
                 <section>
                     <title>Előzetes szakmai skiccek</title>
                     <para>
@@ -472,7 +485,11 @@
                 <section>
                     <title>Belsőépítészeti, bútor és világítás elképzelések</title>
                     <para>
-                        
+                        Számos futurisztikus megjelenésű esport termék mint szék, asztal és ezekkel megjelenésükben összhangba hozott
+                        további bútorelemek, világítástechnika vannak a piacon, lásd például
+                        <link xlink:href="http://m.e-bluegaming.com/earena">http://m.e-bluegaming.com/earena</link>. 
+                        Ha az így elérhető külcsín esetleg nem lenne elegendő, akkor indokolt lehet 
+                        belsőépítész vagy egyedi bútortervező bevonása.
                     </para> 
                 </section>                
             </section>
@@ -480,7 +497,38 @@
             <section>
                 <title>Belbecs</title>
                 <para>
-                    Bátfai Norbert. 
+                    A jó eséllyel sikeres külcsín mellett a belbecs is igen fontos, hiszen a téma jellegéből adódóan 
+                    az értő célközönség lesz a jellemző, különös tekintettel a technikai beállítódottság vonatkozásába. 
+                    Ahogyan majd a későbbiek <link xlink:href="#napsugar-uzem.vusecase">vizionált használati esetek</link> 
+                    mutatják, az egyetértés ugyan nem teljesen egyhangú a 
+                    DEAC-Hackerses társszerző tagok között, de uralkodik az a meggyőződés, hogy a belbecsre az alábbi az optimális javaslat
+                    a következő pontokra alapozandó.
+                    <itemizedlist>
+                        <listitem>
+                            <para>
+                                A létesítménynek ne legyen klasszikus nyitvatartása (hiszen adott online verseny tipikusan hajnalra húzódhat), 
+                                hanem a beléptetést és a létesítményen belüli mozgást adott 
+                                szinteken szofisztikáltan kell kezelni, 
+                                például egy regulásis órát megtartó DEIK oktató az órája idejére legyen képes telefonjával 
+                                vagy kártyájával nyitni a főbejáratot és a szóban forgó tantermet                        
+                            </para>
+                        </listitem>    
+                        <listitem>
+                            <para>
+                                A létesítménynek legyenek szerver oldali gépei, de ne legyen helyileg rendszergazdája, 
+                                a szerver oldali gépeket vagy a DEIK vagy egy szinttel 
+                                feljebb az UD INFOPARK Nonprofit Kft. vagy az Informatikai Szolgáltató Központ hosztolja, 
+                                a létesítmény szervereiként virtuális gépeket bocsásson a létesítmény rendelkezésre, 
+                                melyek (a virtualizált rendszerek) rendnszeradminisztrációját a DEAC-Hackers vezetősége vállalja                        
+                            </para>
+                        </listitem>    
+                        <listitem>
+                            <para>
+                                A létesítmény desktop gépei rendszeradminisztrációját is a DEAC-Hackers vezetősége és középvezetősége vállalja.                                
+                            </para>
+                        </listitem>    
+                    </itemizedlist>
+                    Melyek részletesebb kibontását lásd az üzemelés specifikálásáról szóló <link xlink:href="#napsugar-uzem">részben</link>.
                 </para> 
             </section>
                                                 
