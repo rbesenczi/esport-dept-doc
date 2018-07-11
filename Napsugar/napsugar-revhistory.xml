@@ -286,4 +286,13 @@
             Házi versenystruktúra iterálása és elkezdése az anyagba.
         </revremark>
     </revision>
+    <revision>
+        <revnumber>0.1.0</revnumber>
+        <date>2018-07-11</date>
+        <authorinitials>nbatfai</authorinitials>
+        <revremark>
+            Refaktor mellett egy szekvenciális feldolgozással pótolom a hiányzó részeket és dokumentum 
+            logikailag a következő átnéző-iteráló fázisába lép (mert fizikailag folyamatosan iterálás alatt áll).
+        </revremark>
+    </revision>
 </revhistory>
