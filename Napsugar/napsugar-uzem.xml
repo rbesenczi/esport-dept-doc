@@ -12,29 +12,39 @@
             </keywordset>
         </info>
 
-        <section>
+        <section xml:id="napsugar-uzem.humangazd">
             <title>Humánerőforrás gazdálkodás</title>
             <para>
-                Mihálydeák Tamás, Ispány Márton
+                Az infrastruktúrális keretek 
+                <link xlink:href="#napsugar-infrastrukt.belbecs">belbecs részében</link> már rámutattunk arra a kikristályosodó
+                álláspontra, amely a teremfelügyelet és a helyi rendszerfelügyelet kapcsán nem gondolkodik külön humán 
+                erőforrások allokálásában.
             </para> 
-            <section>
+            <section  xml:id="napsugar-uzem.humangazd.szerv">
                 <title>Szervezett, szervezeti részvétel</title>
                 <para>
-                    
-                    Bátfai Norbert, Ispány Márton
+                    Ha ez valamilyen formában (például távfelügyelet) mégis szükséges, akkor megoldható a DEAC-Hackers DEIK-es 
+                    vezetőségi tagjai külön megbízásával és díjazásával.
                 </para> 
             </section>
-            <section>
+            <section  xml:id="napsugar-uzem.humangazd.onkentes">
                 <title>Önkéntes részvétel</title>
                 <para>
-                    Bátfai Norbert
+                   A helyi rendszeradminisztráció is kezelhető a DEAC-Hackers vezetőségi és középvezetőségi tagjaira építve.
+                    Itt az önkéntes társadalmi munka az alapértelmezett, ahol adott személyenként az is érdekes lehet, hogy ezt a
+                    munkát referenciaként fel tudja mutatni. Adott esetekben (például a gépek beszerzése után nagyobb telepítési
+                    kampány, jó gyakorlat kialakítása a gépek installálására, frissítésére, felügyeletére) indokolt lehet az
+                    érintett vezetőségi és középvezetőségi tagok külön megbízása és díjazása.
                 </para> 
             </section>                
         </section>
-        <section>
+        <section  xml:id="napsugar-uzem.humangazd.sysadmin">
             <title>Rendszeradminisztráció és felügyelet</title>
             <para>
-                Bátfai Norbert
+                A fejlesztendő létesítmény tekintetében a a helyi desktop gépek adminisztrációját az előző pont tárgyalja. A 
+                <link xlink:href="#napsugar-infrastrukt.belbecs">belbecs részében</link> felvetett, a DEIK vagy a UD INFOPARK Nonprofit Kft., 
+                Informatikai Szolgáltató Központ szolgáltatta virtuális gépek adminisztrációját ugyancsak meg tudjuk oldani
+                a a DEAC-Hackers DEIK-es vezetőségi tagjai külön megbízásával és díjazásával.
             </para>
             <section>
                 <title>Biztonsági rendszerek</title>
@@ -131,13 +141,6 @@
         </section>
             
         <section>
-            <title>Beágyazottság és közönségkapcsolatok</title>
-            <para>
-                Bátfai Norbert
-            </para> 
-        </section>
-
-        <section>
             <title>Saját verseny portfólió</title>
             <para>
                 Bár a DEAC-Hackersnek nem vág profiljába a versenyek szervezése, hanem a versenyeken való részvételben érdekelt,
@@ -210,17 +213,8 @@
         <section xml:id="napsugar-uzem.vusecase">
             <title>Interjúzott, elképzelt használati esetek</title>
             <para>
-                Elképzelni/kitalálni a jelölt szerzőnként egy konkrét (szerzőnként különböző) használati esetet, hogy mit 
-                csinálna személy szerint a létesítményben és röviden, fél, egy oldalban részletezni, 
-                Jármi László, 
-                Szabó Bálint, 
-                Molnár Zsolt, 
-                Vinnai Tamás, 
-                Rozsos Péter, 
-                Dudás Tamás István, 
-                Veres Dávid, 
-                Bogacsovics Gergő, 
-                Paszerbovics Roland.
+                A jelen pontban szerzőnként elképzelünk, kitalálunk egy használati esetet, beleképzeljük magunkat egy konkrét közeli vagy
+                távoli, reális vagy akár irreális, a létesítményhez köthető eseménybe. Lássuk!
             </para>
             <section>
                 <title>Molnár Zsolt, CR középvezető elképzelései</title>
@@ -439,6 +433,9 @@
         <section>
             <title>Látható kiadások</title>
             <para>
+                Kiadások tekintetében vannak az egyszeri és eseti költségek (például a beléptető rendszer beszerzése és telepítése), s az ilyenek 
+                karbantartása, illetve eleve folyamatos költségek, mint triviálisan az áramszámla, a fizikai szerveroldal hosztolása, vagy az
+                esetleges megbízások.
             </para> 
         </section>        
     </chapter>                
