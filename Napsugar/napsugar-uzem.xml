@@ -11,7 +11,6 @@
                 <keyword/>
             </keywordset>
         </info>
-
         <section xml:id="napsugar-uzem.humangazd">
             <title>Humánerőforrás gazdálkodás</title>
             <para>
@@ -77,14 +76,40 @@
                 </section>               
             </section>
         </section>
+        <section>
+            <title>A fejlesztendő létesítmény erőforrásainak elosztása</title>
+            <para>
+                Objektív jellegű és teljesen transzparens módon kell gazdálkodnunk a létesítmény esport, oktatási, fejlesztési és kutatási
+                jellegű erőforráslefogaló tevékenységeinek ütemezésénél. Adott oktatási tevékenység fix időpontokhoz (értsd órarend)
+                kötött, ezeket nyilván ki kell szolgálnia a létesítménynek, itt magával az órák megválasztásával lehet hangolást végezni
+                a termek órarendjének esport, oktatási, fejlesztési és kutatási irányok között egyensúlyozó felosztásánál. A
+                további, a reguláris oktatási feladatokon túli elosztásra (melybe akár a biztonsági rendszer által adott belépési kvóták
+                finomhangolása is beleeshet) a FUTURE rendszer közösségi érzékelési adatokra és szakterületi formalizálásra épülő 
+                szakterületi rangsorai adnak lehetőséget.
+            </para>
+        </section>
         <section xml:id="napsugar-uzem.Sw-muhely">
             <title>Szoftver műhely koncepció</title>
             <para>
-                Egyetemi spinoffok potenciális támogatása, Bátfai Norbert.
+                A <link xlink:href="#napsugar-szervezet.privi">A DEIK hallgatók és oktatók kizárólagos privilégiumai</link> című pontban
+                kezdtük el bevezetni a reguláris és irreguláris kari oktatás fejlesztendő intézménybeli támogatását.
+                Ennek a támogatásnak vannak napi praktikus vonatkozásai, mint például megadott nappali és levelező órák megtartása a 
+                létesítmény tantermeiben vagy az intézményben támogatott projektek szerveroldali hosztolása. Távolabbi, 
+                de a projektszemlélet miatt
+                praktikus cél lehet az egyetemi spinoff tevékenység megalapozásának potenciális támogatása. Sőt a praktikus 
+                megközelítés irányvonalat ad arra vonatkozóan, hogy mely egyetemi projekt lehet sikeres startup alapja. 
+                Mert ugyanaz a szűrés választja
+                majd ki a létesítményben támogatandó projekteket, mint amelyek a majdani sikeresség indikátorai is lehetnek.
             </para> 
             <section xml:id="napsugar-uzem.Sw-muhely.oktatas">
                 <title>Reguláris és irreguláris gyakorlatok</title>
                 <para>
+                    A két megközelítés közötti különbség, hogy az egyik egy reguláris oktatási eseményből indul ki, mint páldául
+                    egy beadandó iskolai projekt elkészítése. A másik önálló hallgatói vagy oktatói projekt kezdeményezés. Minden kezdeményezés 
+                    szemeszterekre értelmezett, ha a projekt fel tud mutatni bizonyos potenciális indikátorokat (például Facebook alapú login)
+                    akkor megkapja a szerveroldali (egyetemi tűzfalon kívül is látszódó) hosztolás lehetőségét. Ha pedig szemeszterenként 
+                    be tudja mutatni a 100 új regisztrált felhasználót, akkor abban a szemeszterben megtarthatja a szerveroldali
+                    támogatást, ellenkező esetben törlődik.
                 </para>             
             </section>            
         </section>
@@ -138,8 +163,7 @@
                     A stabil és erős internetkapcsolat megléte lehetővé teszi, hogy minőségi adást tudjunk közvetíteni, erről a Hálózati architektúra című fejezetben olvashatunk bővebben. Az egyes felbontásokhoz szükséges bitrátákról <link xlink:href="https://stream.twitch.tv/encoding/">itt</link> olvashatunk egy ajánlást a Twitch részéről, ezek közül a legerősebbet is gond nélkül megengedhetjük magunknak.
                 </para>
             </section>
-        </section>
-            
+        </section>            
         <section>
             <title>Saját verseny portfólió</title>
             <para>
@@ -156,8 +180,7 @@
                 <para>Fontos, hogy ezek a versenyek 0 forintos költségvetéssel <indexterm>
                         <primary>0 forintos költségvetés</primary>
                     </indexterm> vannak tervezve, alapvetően házi versenyek. Ám nyitottak a vendég résztvevők
-                    számára, így megvan a lehetőség, hogy a rendezvények organikusan kiforrják magukat.
-                    
+                    számára, így megvan a lehetőség, hogy a rendezvények organikusan kiforrják magukat.                    
                 </para>
             </important>
             <section>
@@ -350,8 +373,7 @@
                     2021. augusztus 13., egy motorozáshoz éppen megfelelő pénteki nap. Épp érkezem az ajtóhoz és nyitnám azt a kabátban meglapuló telefonommal, amikor az A csapat tagjai a villamosról éppen leszállva igyekeznek gép elé kerülni. Tudják, hogy késnek... Az öltözőből kilépve már mindenki a helyén van kezdődhet az edzés. A ranked kicsit nehezen megy ma a srácoknak ez nem az ő napjuk. Az edzés után az egyik teremben a felvett gameplay-t elemezzük, amit néhány sikoltás szakit meg a playstationok felől. Elvégre mikor máskor lehetne horror játékokkal játszani mintsem péntek 13-án. A termet elhagyva még egy utolsó pillantást vetek a dicsőségfalon sorakozó kupák díjak tömkelegére.
                 </para>
             </section>
-        </section>            
-            
+        </section>                        
         <section>
             <title>Esetleges bevételek</title>
             <para>
@@ -419,8 +441,7 @@
                     Az előző pont olyan kiegészítése, ahol offline eseményként megjelennének a fiatalok a fejlesztendő létesítményben.                    
                     Erre épülő lépcsőként felmerülhet 
                     fizetős tagdíj megosztása a DEH és a DEIK között.
-                </para> 
-                                        
+                </para>                                         
                 <section xml:id="napsugar-uzem.Bootcamp">
                     <title>Bootcamp</title>
                     <para>
@@ -452,7 +473,6 @@
                     A merchandise termékek értékesítése bevételmegosztással történhetne az egyetemi shopban.
                 </para> 
             </section>
-
         </section>
         <section>
             <title>Látható kiadások</title>
@@ -471,8 +491,7 @@
                 De elvünk, hogy a 0 forintos költségvetés alakítsa ki a azokat a sportszakmai működési formákat, amelyek ilyen értelemben 
                 kvázi maguktól is működnek, s ha ezek mögé valamikor pénz tudunk majd tenni, az nyilván gyorsítja majd a további organikus, azaz 
                 valódi fejlődést.
-            </para>
-               
+            </para>               
         </section>        
     </chapter>                
 </part>         

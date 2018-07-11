@@ -64,7 +64,7 @@
             </para> 
         </section>
         <section xml:id="napsugar-szervezet.privi">
-            <title>A DEIK hallgatók kizárólagos privilégiumai</title>
+            <title>A DEIK hallgatók és oktatók kizárólagos privilégiumai</title>
             <para>
                 A csakis a DEIK hallgatóknak biztosított alábbi lehetőségek alapvetően az oktatással és kutatással kapcsolatosak.
                 Projektszemléletben működnének, melyben a hallgatói projekteknek egy minimális interfészt meg kell valósítaniuk a 
@@ -121,6 +121,16 @@
                 <link xlink:href="napsugar-intezmeny.streamer-tanar">Streamer tanár</link> pontot.   
             </para>
         </section>
+        
+        <section>
+            <title>Az IK HÖK és a fejlesztendő létesítmény kapcsolata</title>
+            <para>
+                A fejlesztendő létesítmény az IK HÖK-nek infrastruktúrális, a DEAC-Hackers sportszakmai 
+                támogatást nyújt versenyszervező tevékenységéhez, amivel párhuzamosan a HÖK természetes szimbiotikus kapcsolatban tud 
+                közreműködni a fejlesztendő létesítmény promótálásában.
+            </para> 
+        </section>
+        
         <section>
             <title>A DEAC-Hackers döntési kompetenciái</title>
             <para>
@@ -130,6 +140,7 @@
                 kutató, fejlesztő, nevelő munkáig.
             </para> 
         </section>
+        
         <section>
             <title>Szponzoráció</title>
             <para>

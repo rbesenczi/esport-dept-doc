@@ -275,7 +275,6 @@
                     </figure>
                 </para>
             </section>
-
             <section>
                 <title>Szoftver háttér</title>
                 <para>
@@ -283,9 +282,7 @@
                     eleve azokról klónozni a többit, ha bejön valamelyik.
                     Kitérve oktatási oldalra is, például UP és Minecraft, Jeszenszky Péter.
                 </para> 
-                                                           
             </section>
-
             <section>
                 <title>Saját internetes megjelenés</title>
                 <section>
@@ -329,13 +326,8 @@
                             Összegezve: a DEAC-Hackers és az edzőterem informatikai rendszerét valamint a kapcsolódó fejlesztéseket támogatandó egy szerver beszerzését javasoljuk, mely vagy a DEIK vagy az ISZK adminisztratív kezelésében van (tehát fizikailag az ottani infrastruktúra működteti), mi pedig csak egy virtuális géphez kapunk hozzáférést.
                         </para> 
                     </section>
- 
                 </section>                    
-                    
             </section>
-                
-                                                
-                                                
         </section>
         <section>
             <title>Oktatás</title>
@@ -344,26 +336,23 @@
                 reguláris és irreguláris oktatási formák megtestesítését jelenti a nappali és a levelező tagozaton.
                 A másik szint a DEAC-Hackers szintje, mely tipikusan edzésmunkát vagy utánpótlásképzést takar.
             </para> 
-                
             <section>
                 <title>DEIK szint</title>
                 <para>
                     A reguláris tantermi foglalkozások maguktól értetődőek. Az irreguláris oktatási formákat a 
                     <link xlink:href="#napsugar-szervezet.privi">A DEIK hallgatók kizárólagos privilégiumai</link> című pontban vezettük be.    
                 </para> 
-                
                 <section>
                     <title>Tantermek kialakítása</title>
                     <para>
                         16-18 fős, a hagyományos tantermi kereteket megőrző kialakítás, lásd a
-                        <link xlink:href="#napsugar-infrastrukt.a2">2x18+1 fős</link> és a 
-                        <link xlink:href="#napsugar-infrastrukt.a">1x19, 1x17 fős</link> terem skicceket.
+                        <link xlink:href="#napsugar-infrastrukt.a2">2x(18+1) fős</link> és a 
+                        <link xlink:href="#napsugar-infrastrukt.a">1x18+1 és 1x16+1 fős</link> terem skicceket.
                     </para> 
                     <para>
                         A tantermi számítógépek konfigurációjára szóló javaslat a mellékletben található.
                     </para> 
                 </section>
-                
                 <section xml:id="napsugar-intezmeny-esport-kurzus">
                     <title>Esport kurzus</title>
                     <para>
@@ -412,19 +401,15 @@
                         </listitem>
                     </itemizedlist>
                     Az esport oktatása olyan aspektusból is érdekes, amely nem közvetlenül a játékokhoz kötődő esportot, hanem az esportot kiszolgáló környezet jobb megismerését teszi lehetővé. Ilyen aspektus például esport versenyek szervezése, esport események közvetítése, esport informatikai háttere stb. Fontos szempont az esport oktatása során, hogy a fiatal játékosokat megtanítsuk a tudatos játszásra, felhívjuk a figyelmet az esetleges kockázatokra (egészséges testtartás, időszakos mozgás hangsúlyozása), valamint a szülőket tájékoztassuk a tudatos játékhasználatról. (Neveléstudományi aspektus.) Kiemelt edukációs szerepet szeretnénk vállalni általában az esport kapcsán is. Az esport mint iparág felfejlesztéséhez nélkülözhetetlenek lesznek olyan foglalkozások tartása, melyek más iparági szereplőket, konkrétan a potenciális befektetőket tájékoztatja magáról az esportról. Tapasztalatunk szerint a jelen ipari környezete még nincs teljesen tisztában azzal, hogy pontosan miről is szól az esport. Véleményünk szerint az edzőterem erre egy remek helyszínt nyújthat, hiszen az esportot a maga niche-ében lehet megfigyelni. Ezen felül fontosnak tartjuk a szülők tájékoztatását, felvilágosító órák tartását úgy általában az esportról és a gamingről.
-                </para> 
-                    
+                </para>                     
                 <section>
                     <title>Nyílt edzések</title>
                     <para>
                         Részben a fent említett okokból, részben a régió gamereinek szeretnénk nyílt edzéseket is tartani. Szeretnénk a régió gamereit, közösségeit, szerveződéseit a lehető legnagyobb mértékben bevonni a DEAC-Hackers és az edzőterem életébe. Itt több lehetőség is elképzelhető számunkra, úgy mint nagy csapatok vagy a régió és az ország híres gamereinek meghívása, gyermektáborok szervezése, influencerekkel közösen közönségtalálkozók szervezése (pl. a TheVR alkalmanként tőlünk streamel stb). Ezen felül fontosnak tartjuk egyéb nyílt napok tartását is, ezzel kapcsolódva például egyetemi/városi rendezvényekhez (pl. Egyetemi Gólyatábor, DEIK HÖK League at Night verseny, Campus Fesztivál, Virágkarnevál stb).
                     </para> 
-                </section>
-                    
-            </section>
-                
-        </section>
-            
+                </section>                    
+            </section>                
+        </section>            
         <section>
             <title>Innováció</title>
             <para>
@@ -435,7 +420,7 @@
             <section xml:id="napsugar-intezmeny.streamer-tanar">
                 <title>Streamer tanár</title>
                 <para>
-                    A streamer tanár nem csupány annyit tesz, mint a legnagyobb amerikai egyetemekről (Stanford, MIT) 
+                    A streamer tanár nem csupán annyit tesz, mint a legnagyobb amerikai egyetemekről (Stanford, MIT) 
                     jól ismert metódus, hogy előadásaikat
                     média termékként is elérhetjük, hanem itt az oktató, mint influencer próbál fellépni (de nem addig elért apriori 
                     teljesítményével, pl. valamilyen áttörő eredmény vagy szélsőséges esetben Nobel díj, hanem streamer mivoltával).  
