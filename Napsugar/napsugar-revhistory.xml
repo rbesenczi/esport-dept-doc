@@ -303,4 +303,12 @@
             logikailag a következő átnéző-iteráló fázisába lép (mert fizikailag folyamatosan iterálás alatt áll).
         </revremark>
     </revision>
+    <revision>
+        <revnumber>0.1.5</revnumber>
+        <date>2018-07-11</date>
+        <authorinitials>rbesenczi</authorinitials>
+        <revremark>
+            Vinnai Tamás: FIFA specifikus igények be. Besenczi Renátó: Biztonsági eszközök be.
+        </revremark>
+    </revision>
 </revhistory>
