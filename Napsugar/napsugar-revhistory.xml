@@ -338,4 +338,28 @@
             Rozsos Péter: StarCraft 2 és Fortnite játékspecifikus igények be.
         </revremark>
     </revision>
+    <revision>
+        <revnumber>0.2.2</revnumber>
+        <date>2018-07-12</date>
+        <authorinitials>nbatfai</authorinitials>
+        <revremark>
+            A jelen dokumentum és a hivatkozta mellékletei összegyűjtése itt: http://smartcity.inf.unideb.hu/~norbi/HaxorTemplom/
+        </revremark>
+    </revision>
+    <revision>
+        <revnumber>0.2.3</revnumber>
+        <date>2018-07-12</date>
+        <authorinitials>nbatfai</authorinitials>
+        <revremark>
+            Jármi László: LoL háziverseny be.
+        </revremark>
+    </revision>
+    <revision>
+        <revnumber>0.2.4</revnumber>
+        <date>2018-07-12</date>
+        <authorinitials>nbatfai</authorinitials>
+        <revremark>
+            Javítások elkezd.
+        </revremark>
+    </revision>
 </revhistory>
