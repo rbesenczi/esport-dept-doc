@@ -40,15 +40,15 @@
         <section  xml:id="napsugar-uzem.humangazd.sysadmin">
             <title>Rendszeradminisztráció és felügyelet</title>
             <para>
-                A fejlesztendő létesítmény tekintetében a a helyi desktop gépek adminisztrációját az előző pont tárgyalja. A 
+                A fejlesztendő létesítmény tekintetében a helyi desktop gépek adminisztrációját az előző pont tárgyalja. A 
                 <link xlink:href="#napsugar-infrastrukt.belbecs">belbecs részében</link> felvetett, a DEIK vagy a UD INFOPARK Nonprofit Kft., 
                 Informatikai Szolgáltató Központ szolgáltatta virtuális gépek adminisztrációját ugyancsak meg tudjuk oldani
-                a a DEAC-Hackers DEIK-es vezetőségi tagjai külön megbízásával és díjazásával.
+                a DEAC-Hackers DEIK-es vezetőségi tagjai külön megbízásával és díjazásával.
             </para>
             <section>
                 <title>Biztonsági rendszerek</title>
                 <para>
-                    A biztonsági rendszert tekintve a készülő edzőterembe többfunkciós beléptető rendszert valamint kamerarendszert szükséges telepíteni. Minden, az alábbiakban jellemzett eszköz TCP/IP-n kell kapcsolódjon az edzőterem hálózatához, természetesen külön VLAN-on.
+                    A biztonsági rendszert tekintve a készülő edzőterembe többfunkciós beléptető rendszert, valamint kamerarendszert szükséges telepíteni. Minden, az alábbiakban jellemzett eszköz TCP/IP-n kell kapcsolódjon az edzőterem hálózatához, természetesen külön VLAN-on.
                 </para>
                 <section>
                     <title>Beléptető rendszer</title>
@@ -91,7 +91,7 @@
         <section xml:id="napsugar-uzem.Sw-muhely">
             <title>Szoftver műhely koncepció</title>
             <para>
-                A <link xlink:href="#napsugar-szervezet.privi">A DEIK hallgatók és oktatók kizárólagos privilégiumai</link> című pontban
+                <link xlink:href="#napsugar-szervezet.privi">A DEIK hallgatók és oktatók kizárólagos privilégiumai</link> című pontban
                 kezdtük el bevezetni a reguláris és irreguláris kari oktatás fejlesztendő intézménybeli támogatását.
                 Ennek a támogatásnak vannak napi praktikus vonatkozásai, mint például megadott nappali és levelező órák megtartása a 
                 létesítmény tantermeiben vagy az intézményben támogatott projektek szerveroldali hosztolása. Távolabbi, 
@@ -113,7 +113,7 @@
                 </para>             
             </section>            
         </section>
-        <section>
+        <section xml:id="napsugar-uzem.Streamer-muhely">
             <title>Streamer műhely koncepció</title>
             <para>
                 Fontosnak tartjuk, hogy mindent, ami az edzőteremben történik (és nem számít sportszakmai szempontból titkosnak) közvetítsük a nagyközönségnek, minél jobban nyissunk a gamer közösségek felé. A versenyek és edzések közvetítése csupán egy szelete ennek, szeretnénk a lehető legnagyobb mértékben bevonzani, együttműködni a régió gaminggel és esporttal foglalkozó formációival, közösségeivel. Ez közvetlenül is hasznos a számunkra, hiszen a régió influencerein át a gamerek megismerkedhetnek a DEAC-Hackersszel, közvetve pedig a szponzorok, az edzőteremben hirdetők juthatnak nagyobb médiafelülethez. Valamint természetesen célunk, hogy mi magunk is neveljünk ki influencereket. Ehhez szeretnénk a legmodernebb környezetet kialakítani, a lehető legmagasabb minőséget biztosítani. Ehhez eszközlista javaslatunk a mellékletben található.
@@ -121,7 +121,7 @@
             <section>
                 <title>Szükséges hardver</title>
                 <para>
-                    A streamer gép konfigurációja a céloknak teljesen megfelelőnek tűnik. A fő elemek, a processzor, a videókártya és a capture card kellően erősek. A memória bőségesen elég, a háttértárolók méretei szintén indokoltak: az SSD-re a játékok is fel fognak férni, a HDD-re pedig rengeteg órányi közvetítést lehet majd tárolni, ez persze a kódolási beállításoktól is függ. A PC további alkatrészei, illetve a streameléshez szükséges perifériák mind profi minőégű felszerelések, mind remek választás.
+                    A streamer gép konfigurációja a céloknak teljesen megfelelőnek tűnik. A fő elemek, a processzor, a videókártya és a capture card kellően erősek. A memória bőségesen elég, a háttértárolók méretei szintén indokoltak: az SSD-re a játékok is fel fognak férni, a HDD-re pedig rengeteg órányi közvetítést lehet majd tárolni, ez persze a kódolási beállításoktól is függ. A PC további alkatrészei, illetve a streameléshez szükséges perifériák mind profi minőségű felszerelések, mind remek választás.
                 </para>
                 <para>
                     Szóba jöhet még egy zöldháttér beszerzése is, de ennek szerepe teljesen opcionális. Alapból a szakosztály trófeagyűjteménye lenne látható a háttérben, de igény szerint egy elhúzható zöldháttérrel és az adott világítás együttesével könnyedén transzparenssé lehetne tenni a hátteret, és így csak maga a gép előtt ülő személy lenne látható. Hátránya lehet, hogy egyes hajtípusok esetén az eredmény nem lesz túl szép (gondolok itt arra, hogy a hajvégeknél látható lesz kis mértékben a háttér), illetve ilyen esetben a zöldes színű pólók vagy egyéb ruhadarabok viselete sem szerencsés.
@@ -196,27 +196,15 @@
                 </para>
             </section>
             <section>
-                <title>World of Tanks</title>
-                <para>
-                    Tóth László
-                </para>
-            </section>
-            <section>
                 <title>Overwatch</title>
                 <para>
-                    A versenyre az alsó korhatár 12 év, 16 év alatt szülői beleegyező nyilatkozat, 14 év alatt pedig szülői felügyelet szükséges. A verseny 6v6 Bo5 lenne ahol mindig a vesztes/vendég (nem DEAC-Hackers OW csapat vagy sorsolás alapján) választana mapot. A jelentkezők számát nem limitáljuk, mindig a legjobbak versenyeznek egymással. Minden meccs előtt minimum 5 perc bemelegítés/felkészülés/megbeszélés.
+                    A versenyre az alsó korhatár 12 év, 16 év alatt szülői beleegyező nyilatkozat, 14 év alatt pedig szülői felügyelet szükséges. A verseny 6v6 Bo5 lenne, ahol mindig a vesztes/vendég (nem DEAC-Hackers OW csapat vagy sorsolás alapján) választana mapot. A jelentkezők számát nem limitáljuk, mindig a legjobbak versenyeznek egymással. Minden meccs előtt minimum 5 perc bemelegítés/felkészülés/megbeszélés.
                 </para>
             </section>
             <section>
                 <title>Tom Clancy's Rainbow Six: Siege</title>
                 <para>
-                    A megnyitó hetén egy 5v5 (a jelentkezők számától függően Bo1-Bo3) single-elemination verseny a DEAC-osok és az esetlegesen megjelenő külsösök között. A versenyre érvényes (nem bannolt) accounttal, kizárólag 16 éven felülieknek lehet csak jelentkezni előzetesen a verseny előtti napig. (18 éven aluliaknak szülői beleegyező nyilatkozat szükséges.) A versenyen nem lesz beugró, sem nyeremény, csak az élvezet, hogy egymással játszhatunk. Minden versenyzőt és nézelődőt szívesen várunk.
-                </para>
-            </section>
-            <section>
-                <title>Dota 2</title>
-                <para>
-                    Kosda Bence
+                    A megnyitó hetén egy 5v5 (a jelentkezők számától függően Bo1-Bo3) single-elemination verseny a DEAC-osok és az esetlegesen megjelenő külsősök között. A versenyre érvényes (nem bannolt) accounttal, kizárólag 16 éven felülieknek lehet csak jelentkezni előzetesen a verseny előtti napig. (18 éven aluliaknak szülői beleegyező nyilatkozat szükséges.) A versenyen nem lesz beugró, sem nyeremény, csak az élvezet, hogy egymással játszhatunk. Minden versenyzőt és nézelődőt szívesen várunk.
                 </para>
             </section>
             <section>
@@ -261,7 +249,7 @@
                     Az edzőterem életét az alábbiak szerint gondolom:
                 </para>
                 <para>
-                    Javasolnék egy kártyás beléptető rendszert a tagoknak (pl. Unipass kártya). Belépve lenne egy kis pult, ahol valaki eligazít a teremben vagy egy Hackers Shop, ahol lehetne venni mezeket szurkolói tárgyakat. Körbevezetve szembetünne a Hackers-ben játszható játékok logói s pár kép versenyzőinkről, versenyekről. Az órarend figyelembe vételével megnyitnám az edzőterem kapuit a látogatók előtt s akár a szabad gépeken, díj ellenében játszhatnának, ezzel is talán kedvet kapva az esporthoz belépnének versenyzőknek. Viszont ha bármelyik játék versenyzőinek edzést tartanak, arra az időre zárva lenne a terem a nagyközönség előtt. A termekben lehetne meccseket elemezni vagy nagyobb versenyek közvetítését közösen megtekinteni. Közösségi eseményeket, csapatösszetartó rendezvényeket szervezni, pl. egy foci vb, vagy más sport/esport esemény erősítené a csapatszellemet. S persze lennének alkalmi programok, mint az offline versenyek lebonyolítása, iskolás csoportoknak a terem bemutatása, más klub csapatait vendégül látni, esport táborok lebonyolítása.
+                    Javasolnék egy kártyás beléptető rendszert a tagoknak (pl. Unipass kártya). Belépve lenne egy kis pult, ahol valaki eligazít a teremben vagy egy Hackers Shop, ahol lehetne venni mezeket szurkolói tárgyakat. Körbevezetve szembetűnne a Hackers-ben játszható játékok logói s pár kép versenyzőinkről, versenyekről. Az órarend figyelembe vételével megnyitnám az edzőterem kapuit a látogatók előtt, s akár a szabad gépeken, díj ellenében játszhatnának, ezzel is talán kedvet kapva az esporthoz belépnének versenyzőknek. Viszont ha bármelyik játék versenyzőinek edzést tartanak, arra az időre zárva lenne a terem a nagyközönség előtt. A termekben lehetne meccseket elemezni vagy nagyobb versenyek közvetítését közösen megtekinteni. Közösségi eseményeket, csapatösszetartó rendezvényeket szervezni, pl. egy foci vb, vagy más sport/esport esemény erősítené a csapatszellemet. S persze lennének alkalmi programok, mint az offline versenyek lebonyolítása, iskolás csoportoknak a terem bemutatása, más klub csapatait vendégül látni, esport táborok lebonyolítása.
                 </para>
             </section>
             <section xml:id="napsugar-uzem.interju.VD">
@@ -396,7 +384,7 @@
                     Hosszú távú befektetések: 2. szint. Utánpótlásnevelés kutatása az esportban. A DEAC-Hackers esport szakosztály egyik kiemelt feladatának tekinti a régió tehetségeinek felkutatását. Emellett a szakosztály az esport tehetségkutatás, nevelés és oktatás kapcsán is kiemelt szerepet kíván vállalni. Ezen célok eléréséhez a fentieket szükséges tudományos alapokra helyezni. A kutatási célok eléréséhez több alszinten képzeljük a szponzorációt (PC-k, fix támogatás tanulmányért, kutatói bérek hosszú távú kutatásokért).
                 </para> 
                 <para>
-                    Hosszú távú befektetések: 3. szint. Ez a szint a DEAC-Hackers koordináló hatóköréből esetenként már kilógnak. Ilyen területek lehetnek például az esporttal kapcsolatos egyetemi oktatás, egyetemi pályázatokban való tartalmi bekapcsolódás és az interdiszciplináris egyetemi kutatás.
+                    Hosszú távú befektetések: 3. szint. Ez a szint a DEAC-Hackers koordináló hatóköréből esetenként már kilóg. Ilyen területek lehetnek például az esporttal kapcsolatos egyetemi oktatás, egyetemi pályázatokban való tartalmi bekapcsolódás és az interdiszciplináris egyetemi kutatás.
                 </para> 
                 <para>
                     Hosszú távú befektetések: 4. szint. Az edzőterem oktatási funkcióinak ellátásához egy vagy két "DEIK-kompatibilis" gépes tantermet tervezünk létrehozni. Ezeket a tantermeket javaslatunk szerint érdemes lenne szponzorok által felszerelni számítógépekkel (és gamer székekkel is, hiszen a modern megjelenés kiemelt fontosságú). Ez a szint ezt bontja ki.
