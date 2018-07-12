@@ -21,7 +21,7 @@
                 <itemizedlist mark='opencircle'>
                     <listitem>
                         <para>
-                            /home/DEAC-Hackers (51)
+                            /home/DEAC-Hackers (52)
                         </para>
                     </listitem>
                     <listitem>
@@ -86,7 +86,7 @@
         <section>
             <title>A létesítmény fizikai megjelenésének tervei és jellemzésük</title>
             <para>
-                A DEAC-Hackers esport szakosztályban jelenleg online edzések vannak főként, de az utánpótláskorú játékosok kineveléséhez, valamint a professzionális szint eléréséhez nélkülözhetetlen egy dedikált edzőterem létesítése és fenntartása. Az edzőterem elsődleges esportszakmai célja a DEAC-Hackers esport szakosztályban amatőr vagy professzionális szinten játszó játékosok támogatása, utánpótláskorú játékosok kinevelésének támogatása. Viszont az edzőtermet igyekszünk úgy kialakítani, hogy azok több szempontnak is megfeleljenek, ezzel igyekezve biztosítani a hosszútávú fentarthatóságot. A továbbiakban ezeket a szempontokat tárgyaljuk, majd az ehhez szükséges eszközöket részletezzük.
+                A DEAC-Hackers esport szakosztályban jelenleg online edzések vannak főként, de az utánpótláskorú játékosok kineveléséhez, valamint a professzionális szint eléréséhez nélkülözhetetlen egy dedikált edzőterem létesítése és fenntartása. Az edzőterem elsődleges esportszakmai célja a DEAC-Hackers esport szakosztályban amatőr vagy professzionális szinten játszó játékosok támogatása, utánpótláskorú játékosok kinevelésének támogatása. Viszont az edzőtermet igyekszünk úgy kialakítani, hogy azok több szempontnak is megfeleljenek, ezzel igyekezve biztosítani a hosszútávú fenntarthatóságot. A továbbiakban ezeket a szempontokat tárgyaljuk, majd az ehhez szükséges eszközöket részletezzük.
             </para> 
                 
             <section>
@@ -131,7 +131,7 @@
                         </listitem>
                         <listitem>
                             <para>
-                                Edzőterem bérbeadása más csapatok, szervezetek számára (un. <glossterm linkend="bootcamp">bootcampek</glossterm>-ek szervezhetősége).
+                                Edzőterem bérbeadása más csapatok, szervezetek számára (un. <glossterm linkend="bootcamp">bootcamp</glossterm>ek szervezhetősége).
                             </para>
                         </listitem>
                     </itemizedlist>
@@ -171,13 +171,13 @@
                 <section>
                     <title>Esport elméleti és gyakorlati oktatása</title>
                     <para>
-                        Az 1. pontot támogatandó, az edzéseket elméleti és gyakorlati oktatási részre osztjuk.
+                        Az előző pontot támogatandó, az edzéseket elméleti és gyakorlati oktatási részre osztjuk.
                     </para>
                     <para>
                         Az esport oktatása olyan aspektusból is érdekes, amely nem közvetlenül a játékokhoz kötődő esportot, hanem az esportot kiszolgáló környezet jobb megismerését teszi lehetővé. Ilyen aspektus például esport versenyek szervezése, esport események közvetítése, esport informatikai háttere stb.
                     </para>
                     <para>
-                        Fontos szempont az esport oktatása során, hogy a fiatal játékosokat megtanítsuk a tudatos játszásra, valamint a szülőket tájékoztassuk a tudatos játékhasználatról. (Neveléstudományi aspektus.)
+                        Fontos szempont az esport oktatása során, hogy a fiatal játékosokat megtanítsuk a tudatos játszásra, valamint a szülőket tájékoztassuk a tudatos játékhasználatról. (Neveléstudományi aspektus.) Emellett fel kell készítenünk azokat a játékosokat, akik magasabb szinten szeretnének esportolni a professzionális esport életre, valamint a sportból átvett edzői metodikákat alkalmazni kell már fiatal kortól. Igyekezni kell őket az intelligens játszásra nevelni, tanítani, mely a játékban mutatott magatartásra, valamint az edzések során tanúsított viselkedésre is kiterjed.
                     </para>
                     <para>
                         A fentiek támogatására az edzőteremben olyan helyiségre is szükség van, amelyben az egyes esport játékok elméleti (illetve a mobilos játékok gyakorlati is) oktatása megvalósulhatnak.
@@ -203,11 +203,14 @@
                 <section>
                     <title>Nemzetközi színvonalú versenyek szervezhetősége</title>
                     <para>
-                        Az edzőterem felszereléseit oly módon kell összeállítani, hogy azokra lehessen versenyeket szervezni (akár saját versenyeket, akár partnereink által szervezett versenyekre bérbe adni). Minden játékgyártó előír bizonyos kritériumokat a hivatalos versenyek kapcsán, de általánoságban elmondható, hogy a legszigorúbb kritériumok egyrészt, hogy minden gép pontosan egyforma legyen, valamint legyen 2 tartalék gép meghibásodás esetére. Jelenleg a DEAC-Hackers legnagyobb létszámú csapatjátéka az Overwatch (FIFA18 Pro Clubs csapatunk nincs még jelenleg) 6+6 játékossal. Így a terem gamer setupját 6+6+2 (=14) gamer géppel kell minimum felszerelni, viszont érdemes megfontolni gazdaságossági szempontból a (6+6)*2+2 (=26) számú gép beszerzését. A FIFA18 egyéni (FUT) versenyeire a jelenleg elérhető legmodernebb konzolgépeket kell beszerezni, típusonként (PlayStation 4 Pro, XBOX One X) kettőt (plusz a tartalék kontrollerek). Pontos eszközlistát a későbbiekben villantunk fel.
+                        Az edzőterem felszereléseit oly módon kell összeállítani, hogy azokra lehessen versenyeket szervezni (akár saját versenyeket, akár partnereink által szervezett versenyekre bérbe adni). Minden játékgyártó előír bizonyos kritériumokat a hivatalos versenyek kapcsán, de általánoságban elmondható, hogy a legszigorúbb kritériumok egyrészt, hogy minden gép pontosan egyforma legyen, valamint legyen 2 tartalék gép meghibásodás esetére. Jelenleg a DEAC-Hackers legnagyobb létszámú csapatjátéka az Overwatch (FIFA18 Pro Clubs csapatunk nincs még jelenleg) 6+6 játékossal. Így a terem gamer setupját 6+6+2 (=14) gamer géppel kell minimum felszerelni, viszont érdemes megfontolni gazdaságossági szempontból a (6+6)*2+2 (=26) számú gép beszerzését. A FIFA18 egyéni (FUT) versenyeire a jelenleg elérhető legmodernebb konzolgépeket kell beszerezni, típusonként (PlayStation 4 Pro, XBOX One X) kettőt (plusz a tartalék kontrollerek). Pontos eszközlistát a későbbiekben villantunk fel. A pontos játékonkénti követelmények a <link xlink:href="#napsugar-intezmeny.versenykornyezet">Játékspecifikus szakterületi követelmények</link> fejezetben olvashatóak.
                     </para>                                      
                 </section>
                 <section>
                     <title>Nyári gyermektáborok szervezhetősége</title>
+                    <para>
+                        Hasonló tematikájú, de más játékokat érintő gyermektáborok szervezésével a régióban találkozhatunk, jellemzően nagy sikernek örvendenek. Természetesen az játékon felül számos programot tervezünk fő célunk, hogy a táborok során megpróbáljuk a tehetséges játékosokat felfedezni, illetve az ott megjelenteket a fenti pontokkal összefüggésben oktatni a tudatos játékhasználatra. Emellett a teremnek egy bevételi forrása is lehet.
+                    </para>                                      
                     <para>
                         A nyári táborok szervezhetőségéről, valamint egy nyári tábor esportszakmai leírása megtalálható a Nyári tábor a DEAC-Hackers szervezésében c. dokumentumban.
                     </para>                                      
@@ -224,7 +227,7 @@
                         Az esport hazai fejlődése szempontjából fontosnak tartjuk, hogy a régió és általában Magyarország kisebb, de több éves hagyománnyal rendelkező versenyei nagyobb figyelmet kapjanak. Ennek elősegítésére ezeken a versenyeken egyrészt igyekszünk elindulni, de emellett saját csatornáinkon közvetíteni is. Például az évente kétszer a DEIK HÖK által megrendezésre kerülő League at Night verseny élő közvetítése.
                     </para>                                      
                     <para>
-                        Ennek érdekében (valamint a korábbi pont miatt is részben) olyan streamer setup kialakítása szükséges, mellyel magas minőségben tudunk közvetíteni. (Pontos specifikáció a mellékletben.)
+                        Ennek érdekében (valamint a korábbi pont miatt is részben) olyan streamer setup kialakítása szükséges, mellyel magas minőségben tudunk közvetíteni. (Pontos specifikáció a mellékletben.) További részletek a <link xlink:href="#napsugar-uzem.Streamer-muhely">Streamer műhely koncepció</link> fejezetben olvashatóak.
                     </para>
                 </section>
                 <section>
@@ -239,13 +242,13 @@
                 <title>Oktatás támogatása</title>
                 <para>
                     A létesítmény tantermei hétközben a nappali tagozatos, hétvégén a levelező tagozatos 
-                    oktatást támogatját tantermeikkel.
+                    oktatást támogatják tantermeikkel.
                 </para> 
             </section>                
             <section>
                 <title>Kutatások támogatása</title>
                 <para>
-                    Az interdiszciplináris esport kutatásokra a korábbi pontban már kitértün, ahol 
+                    Az interdiszciplináris esport kutatásokra a korábbi pontban már kitértünk, ahol 
                     több olyan kutatás is van, amelynek eredményei a fejlesztendő létesítményben is felhasználhatóak, 
                     ilyen lehet például a <indexterm>
                         <primary>BrainB</primary>
@@ -309,40 +312,40 @@
             </section>            
             <section>
                 <title>Külcsín</title>
+                <para>
+                    A készülő létesítményt úgy kell kialakítanunk, hogy megfeleljen a korábban is ismertetett esportszakmai, oktatási, kutatási céloknak, valamint a kor szellemében a lehető legmodernebb megjelenése legyen. Ebben a fejezetben több alternatívát is felvillantunk, mely különbőző arányban tartalmaz okatatási és esport elemeket. Ami mindegyik tervben közös és a lehető legnagyobb hangsúlyt kell hogy kapja az a gamer részleg, hiszen maga a létesítmény a DEAC-Hackers főhadiszállása, illetve a legnagyobb marketingértékkel ez rendelkezik. Ezért ez a rész középen helyezkedik el (a PC-s részleg a földszinten, a konzol részleg az emeleten). Fontosnak tartjuk ezt támogatandó egy olyan öltöző kialakítását, melyben az esportolók fel tudnak készülni a sokszor akár 7-8 órás edzésekre, fel tudják magukat frissíteni, ezért egy öltözőt is tervezünk kialakítani. Az esport támogatása mellett kiemelt szerepet számunk a streamer teremnek. Hiszen ez lesz az a részleg, amely széleskörű megjelenést fog biztosítani a teremnek és úgy általában az egyetemi esportnak, a DEAC-Hackersnek. Ezeken felül mindegyik tervben szerepel egy iroda, mely adminisztratív feladatok ellátásához (IT és valós idejű hálózatmenedzsment, tagok adminisztratív kezelése stb) szükséges. Ezek minden tervben jelen vannak.
+                </para> 
+                <para>
+                    Az edzőterem jelenlegi állapotáról az alábbi két kép árulkodik. 
+                </para> 
+                <figure>
+                    <title>edzőterem 1. fénykép.</title>
+                    <mediaobject>
+                        <imageobject>
+                            <imagedata fileref="img/terem1.jpg" scale="100"/>
+                        </imageobject>
+                        <textobject>
+                            <phrase>
+                                Az edzőterem jelenlegi állapota                                      
+                            </phrase>
+                        </textobject>
+                    </mediaobject>
+                </figure>
+                <figure>
+                    <title>edzőterem 2. fénykép.</title>
+                    <mediaobject>
+                        <imageobject>
+                            <imagedata fileref="img/terem2.jpg" scale="100"/>
+                        </imageobject>
+                        <textobject>
+                            <phrase>
+                                leiras                                        
+                            </phrase>
+                        </textobject>
+                    </mediaobject>
+                </figure>
                 <section>
                     <title>Előzetes szakmai skiccek</title>
-                    <para>
-                        A készülő létesítményt úgy kell kialakítanunk, hogy megfeleljen a korábban is ismertetett esportszakmai, oktatási, kutatási céloknak, valamint a kor szellemében a lehető legmodernebb megjelenése legyen. Ebben a fejezetben több alternatívát is felvillantunk, mely különbőző arányban tartalmaz okatatási és esport elemeket. Ami mindegyik tervben közös és a lehető legnagyobb hangsúlyt kell hogy kapja az a gamer részleg, hiszen maga a létesítmény a DEAC-Hackers főhadiszállása, illetve a legnagyobb marketingértékkel ez rendelkezik. Ezért ez a rész középen helyezkedik el (a PC-s részleg a földszinten, a konzol részleg az emeleten). Fontosnak tartjuk ezt támogatandó egy olyan öltöző kialakítását, melyben az esportolók fel tudnak készülni a sokszor akár 7-8 órás edzésekre, fel tudják magukat frissíteni, ezért egy öltözőt is tervezünk kialakítani. Az esport támogatása mellett kiemelt szerepet számunk a streamer teremnek. Hiszen ez lesz az a részleg, amely széleskörű megjelenést fog biztosítani a teremnek és úgy általában az egyetemi esportnak, a DEAC-Hackersnek. Ezeken felül mindegyik tervben szerepel egy iroda, mely adminisztratív feladatok ellátásához (IT és valós idejű hálózatmenedzsment, tagok adminisztratív kezelése stb) és az esetlegesen szükséges folyamatos jelenléthez szükséges. Ezek minden tervben jelen vannak.
-                    </para> 
-                    <para>
-                        Az edzőterem jelenlegi állapotáról az alábbi két kép árulkodik. 
-                    </para> 
-                    <figure>
-                        <title>Edzőterem 1. fénykép</title>
-                        <mediaobject>
-                            <imageobject>
-                                <imagedata fileref="img/terem1.jpg" scale="100"/>
-                            </imageobject>
-                            <textobject>
-                                <phrase>
-                                    Az edzőterem jelenlegi állapota                                      
-                                </phrase>
-                            </textobject>
-                        </mediaobject>
-                    </figure>
-                    <figure>
-                        <title>Edzőterem 2. fénykép</title>
-                        <mediaobject>
-                            <imageobject>
-                                <imagedata fileref="img/terem2.jpg" scale="100"/>
-                            </imageobject>
-                            <textobject>
-                                <phrase>
-                                    leiras                                        
-                                </phrase>
-                            </textobject>
-                        </mediaobject>
-                    </figure>
                     <para>
                         A gamer részleg a különböző, korábban is tárgyalt szempontok miatt 24 PC-ből és 4 konzolból áll. A PC-s részleget a földszinten, 4 6-os csoportban (az egyes csoportokat paravánnal elhatárolhatóan) kell kialakítani. A 4 db konzol 2 PS4 Proból és 2 Xbox-ból áll, a szükséges TV-kel az emeleten.
                     </para> 
@@ -355,10 +358,10 @@
                     <section xml:id="napsugar-infrastrukt.a2">
                         <title>Edzőterem "A2" szakmai skicc</title>
                         <para>
-                            Ebben a tervben kapja az oktatás a legnagyobb hangsúlyt, két 18+1 fős gépes tanteremmel. A tanterem kialakításához az intuíciót a DEIK 204-es tanterme adta. Méretben (6x6m) és befogadóképességben (18+1 fő) várhatóan a kettő egyforma lesz, amely egybeesik a DEIK-es terem adottságaival is ("DEIK-kompatibilis"). Minden tanteremben 18+1 egyforma tantermi számítógép (javasolt konfiguráció a későbbiekben), whiteboard, illetve kivetítésre alkalmas TV található. Projektort semmiképpen sem javaslunk a gyenge minőség és a fényviszonyok miatt, valamint ezek a TV-k mozgatható állványra szereltek, hogy verseny, vagy egyéb esemény során is használhatóak legyenek.
+                            Ebben a tervben kapja az oktatás a legnagyobb hangsúlyt, két 18+1 fős gépes tanteremmel. A tanterem kialakításához az intuíciót a DEIK 204-es tanterme adta. Méretben (6x6m) és befogadóképességben (18+1 fő) várhatóan a kettő egyforma lesz, amely egybeesik a DEIK-es terem adottságaival is ("DEIK-kompatibilis"). Minden tanteremben 18+1 egyforma tantermi számítógép (javasolt konfiguráció a mellékletben), whiteboard, illetve kivetítésre alkalmas TV található. Projektort semmiképpen sem javaslunk a gyenge minőség és a fényviszonyok miatt, valamint ezek a TV-k mozgatható állványra szereltek, hogy verseny, vagy egyéb esemény során is használhatóak legyenek.
                         </para> 
                         <figure>
-                            <title>Edzőterem "A2" szakmai skicc földszint</title>
+                            <title>Edzőterem "A2" szakmai skicc földszint.</title>
                             <mediaobject>
                                 <imageobject>
                                     <imagedata fileref="img/edzoterem_terv_A2_Fsz.pdf" scale="65"/>
@@ -371,7 +374,7 @@
                             </mediaobject>
                         </figure>
                         <figure>
-                            <title>Edzőterem "A2" szakmai skicc emelet</title>
+                            <title>Edzőterem "A2" szakmai skicc emelet.</title>
                             <mediaobject>
                                 <imageobject>
                                     <imagedata fileref="img/edzoterem_terv_A2_Em.pdf" scale="65"/>
@@ -390,7 +393,7 @@
                             Ez a terv annyiban különbözik az előzőtől, hogy a két tanterem közül az egyik egy kisebb méretű, 16+1 fő befogadóképességű. Viszont az öltöző és az iroda így nagyobb méretű. Az emeleti rész változatlan.
                         </para>
                         <figure>
-                            <title>Edzőterem "A" szakmai skicc földszint</title>                        
+                            <title>Edzőterem "A" szakmai skicc földszint.</title>                        
                             <mediaobject>
                                 <imageobject>
                                     <imagedata fileref="img/edzoterem_terv_A_Fsz.pdf" scale="65"/>
@@ -403,7 +406,7 @@
                             </mediaobject>
                         </figure>
                         <figure>
-                            <title>Edzőterem "A" szakmai skicc emelet</title>
+                            <title>Edzőterem "A" szakmai skicc emelet.</title>
                             <mediaobject>
                                 <imageobject>
                                     <imagedata fileref="img/edzoterem_terv_A_Em.pdf" scale="65"/>
@@ -422,7 +425,7 @@
                             Ebben a szcenárióban az esport nagyobb hangsúllyal van jelen, egyrészt a streamer részleg sokkal nagyobb, valamint a földszinten egy taktikai értekezletekre alkalmas szoba található. A emeleten megtalálható a 18+1 fős DEIK-kompatibilis tanterem.
                         </para>
                         <figure>
-                            <title>Edzőterem "B" szakmai skicc földszint</title>
+                            <title>Edzőterem "B" szakmai skicc földszint.</title>
                             <mediaobject>
                                 <imageobject>
                                     <imagedata fileref="img/edzoterem_terv_B_Fsz.pdf" scale="65"/>
@@ -435,7 +438,7 @@
                             </mediaobject>
                         </figure>
                         <figure>
-                            <title>Edzőterem "B" szakmai skicc emelet</title>
+                            <title>Edzőterem "B" szakmai skicc emelet.</title>
                             <mediaobject>
                                 <imageobject>
                                     <imagedata fileref="img/edzoterem_terv_B_Em.pdf" scale="65"/>
@@ -454,7 +457,7 @@
                             Ebben a javaslatban kapja az esport a legnagyobb hangsúlyt. Az előzőhöz képes a különbség, hogy az emeleten egy multifunkciós, átrendezhető terem kapott helyet.
                         </para>
                         <figure>
-                            <title>Edzőterem "C" szakmai skicc földszint</title>
+                            <title>Edzőterem "C" szakmai skicc földszint.</title>
                             <mediaobject>
                                 <imageobject>
                                     <imagedata fileref="img/edzoterem_terv_C_Fsz.pdf" scale="65"/>
@@ -467,7 +470,7 @@
                             </mediaobject>
                         </figure>
                         <figure>
-                            <title>Edzőterem "C" szakmai skicc emelet</title>
+                            <title>Edzőterem "C" szakmai skicc emelet.</title>
                             <mediaobject>
                                 <imageobject>
                                     <imagedata fileref="img/edzoterem_terv_C_Em.pdf" scale="65"/>
@@ -519,7 +522,7 @@
                                 a szerver oldali gépeket vagy a DEIK vagy egy szinttel 
                                 feljebb az UD INFOPARK Nonprofit Kft. vagy az Informatikai Szolgáltató Központ hosztolja, 
                                 a létesítmény szervereiként virtuális gépeket bocsásson a létesítmény rendelkezésre, 
-                                melyek (a virtualizált rendszerek) rendnszeradminisztrációját a DEAC-Hackers vezetősége vállalja                        
+                                melyek (a virtualizált rendszerek) rendszeradminisztrációját a DEAC-Hackers vezetősége vállalja                        
                             </para>
                         </listitem>    
                         <listitem>
