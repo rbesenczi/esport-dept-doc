@@ -11,50 +11,48 @@
                 <keyword/>
             </keywordset>
         </info>
-
         <section>
             <title>A DEAC-Hackers alapító és működési dokumentuma</title>
             <para>
                 Immár része a DEAC-Hackers Esport Almanach-nak.
             </para> 
-
         </section>
         <section>
             <title>A DEAC-Hackers Esport Almanach</title>
             <para>
                 A 2017 évről szóló.
             </para> 
-
         </section>
         <section>
             <title>DEAC-Hackers nyári tábor</title>
             <para>
             </para> 
-
         </section>            
         <section>
             <title>DEAC-Hackers szponzorációs tervezet</title>
             <para>
             </para> 
-
         </section>
         <section>
             <title>DEAC-Hackers versenykatalógus</title>
             <para>
             </para> 
-
         </section>
         <section>
             <title>DEAC-Hackers szakmai skiccek</title>
             <para>
             </para> 
-
         </section>            
         <section>
             <title>DEAC-Hackers eszközök</title>
             <para>
             </para> 
-
+        </section>        
+        <section>
+            <title>Magyar Nemzeti Esport Portfólió és Stratégia (NEMESPOR)</title>
+            <para>
+                <filename>samuentropy-portfolio-hu-NEMESPOR.pdf</filename>
+            </para> 
         </section>
     </chapter>                
 </part>         
