@@ -378,4 +378,12 @@
             Kovács Imre véleménye beillesztése.
         </revremark>
     </revision>
+    <revision>
+        <revnumber>0.2.9</revnumber>
+        <date>2018-07-13</date>
+        <authorinitials>rbesenczi</authorinitials>
+        <revremark>
+            Javítások.
+        </revremark>
+    </revision>
 </revhistory>
