@@ -14,7 +14,7 @@
         <section xml:id="napsugar-uzem.humangazd">
             <title>Humánerőforrás gazdálkodás</title>
             <para>
-                Az infrastruktúrális keretek 
+                Az infrastrukturális keretek 
                 <link xlink:href="#napsugar-infrastrukt.belbecs">belbecs részében</link> már rámutattunk arra a kikristályosodó
                 álláspontra, amely a teremfelügyelet és a helyi rendszerfelügyelet kapcsán nem gondolkodik külön humán 
                 erőforrások allokálásában.
@@ -53,7 +53,7 @@
                 <section>
                     <title>Beléptető rendszer</title>
                     <para>
-                        Az edzőterem külső ajtaját többszíntű azonosítással (NFC: kártya vagy mobiltelefon és ujjlenyomat vagy PIN) szükséges kialakítani. Erre alkalmas eszközök már elérhetőek a piacon, egy javasolt eszközlista a mellékletben iránymutatásként található. Ez lehetővé teszi, hogy az egyetemi Unipass kártya mellett mobiltelefonnal (illetve saját mobilalkalmazás használata esetén a mobiltelefonnal ujjlenyomatolvasással egybekötve), PIN-kóddal, ujjlenyomattal vagy akár RFID-s technológia segítségével is be tudjunk menni.
+                        Az edzőterem külső ajtaját többszintű azonosítással (NFC: kártya vagy mobiltelefon és ujjlenyomat vagy PIN) szükséges kialakítani. Erre alkalmas eszközök már elérhetőek a piacon, egy javasolt eszközlista a mellékletben iránymutatásként található. Ez lehetővé teszi, hogy az egyetemi Unipass kártya mellett mobiltelefonnal (illetve saját mobilalkalmazás használata esetén a mobiltelefonnal ujjlenyomat olvasással egybekötve), PIN-kóddal, ujjlenyomattal vagy akár RFID-s technológia segítségével is be tudjunk menni.
                     </para>
                     <para>
                         A belső ajtókat egyszerű NFC kártyaolvasókkal javasoljuk felszerelni.
@@ -104,7 +104,7 @@
             <section xml:id="napsugar-uzem.Sw-muhely.oktatas">
                 <title>Reguláris és irreguláris gyakorlatok</title>
                 <para>
-                    A két megközelítés közötti különbség, hogy az egyik egy reguláris oktatási eseményből indul ki, mint páldául
+                    A két megközelítés közötti különbség, hogy az egyik egy reguláris oktatási eseményből indul ki, mint például
                     egy beadandó iskolai projekt elkészítése. A másik önálló hallgatói vagy oktatói projekt kezdeményezés. Minden kezdeményezés 
                     szemeszterekre értelmezett, ha a projekt fel tud mutatni bizonyos potenciális indikátorokat (például Facebook alapú login)
                     akkor megkapja a szerveroldali (egyetemi tűzfalon kívül is látszódó) hosztolás lehetőségét. Ha pedig szemeszterenként 
@@ -148,7 +148,8 @@
             <section>
                 <title>Egyéb</title>
                 <para>
-                    A streameléshez használható legjobb platform egyértelműen a Twitch, ez gondolom eddig sem volt kérdéses. Fontos a csatorna oldal dizájnjának megtervezése, ez magába foglalja egy profilkép elkészítését, egy borítókép elkészítését, arra az esetre amikor a csatorna offline, illetve a leírás (description) szekció informatívvá tétele és naprakészen tartása. Az egyes képek méreteihez ezen a <link xlink:href="https://www.canva.com/sizes/twitch/">linken</link> található egy remek ajánlás, illetve a leírásban található panelek kialakításához <link xlink:href="https://nerdordie.com/resources/free-resources/twitch-panels-free-setup-guide/">itt</link> olvasható egy útmutató. A megjelenés mellett szükséges lehet bizonyos nézőszám elérése után moderátorok felvétele, akik a közvetítés során rendben tartják a chatet (a szitkozódó, vagy jogtalanul reklámozó üzenetek törlése, többszöri szabálysértés után egyes felhasználók kitiltása).
+                    A streameléshez használható legjobb platform egyértelműen a Twitch, ez gondolom eddig sem volt kérdéses. Fontos a csatorna oldal dizájnjának megtervezése, ez magába foglalja egy profilkép elkészítését, egy borítókép elkészítését, arra az esetre amikor a csatorna offline, illetve a leírás (description) szekció informatívvá tétele és naprakészen tartása. Az egyes képek méreteihez ezen a <link xlink:href="https://www.canva.com/sizes/twitch/">linken</link> található egy remek ajánlás, illetve a leírásban található panelek kialakításához <link xlink:href="https://nerdordie.com/resources/free-resources/twitch-panels-free-setup-guide/">itt</link> olvasható egy útmutató. A megjelenés mellett szükséges lehet bizonyos nézőszám elérése után moderátorok felvétele, akik a közvetítés során rendben tartják a chatet (a szitkozódó, vagy jogtalanul reklámozó üzenetek törlése, 
+                    többszöri szabálysértés után egyes felhasználók kitiltása).
                 </para>
                 <para>
                     Elegendő videóanyag esetén érdemes úgynevezett highlight videók készítése, amit a YouTube platformon lehetne publikálni. Ez készülhet egy verseny vagy egy stream legjobb jeleneteiből, és rendszeres közvetítések eseten heti 1-2 videót simán ki lehetne rakni. Emellett VOD-ok is felkerülhetnek, így később a teljes élő adást is vissza lehet nézni.

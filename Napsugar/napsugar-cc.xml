@@ -65,8 +65,7 @@
             </para>
         </xi:fallback>
     </xi:include> 
-                                                                                                                                                                  
-                                                                                                                                                                  
+
     <xi:include href="napsugar-uzem.xml">
         <xi:fallback>
             <para>
@@ -74,65 +73,14 @@
             </para>
         </xi:fallback>
     </xi:include>                                                                                                                                                                                                                                                                               
- 
-    <part>
-        <title>Mellékletek</title>
-        <partintro>
-            <para> 
+
+    <xi:include href="napsugar-mellek.xml">
+        <xi:fallback>
+            <para>
+                <emphasis>XInclude: napsugar-mellek.xml file not found</emphasis>
             </para>
-        </partintro>
-        <chapter>
-            <info>
-                <title>Korábbi és kapcsolódó dokumentumok</title>
-                <keywordset>
-                    <keyword/>
-                </keywordset>
-            </info>
-
-            <section>
-                <title>A DEAC-Hackers alapító és működési dokumentuma</title>
-                <para>
-                </para> 
-
-            </section>
-            <section>
-                <title>A DEAC-Hackers Esport Almanach</title>
-                <para>
-                </para> 
-
-            </section>
-            <section>
-                <title>DEAC-Hackers nyári tábor</title>
-                <para>
-                </para> 
-
-            </section>            
-            <section>
-                <title>DEAC-Hackers szponzorációs tervezet</title>
-                <para>
-                </para> 
-
-            </section>
-            <section>
-                <title>DEAC-Hackers versenykatalógus</title>
-                <para>
-                </para> 
-
-            </section>
-            <section>
-                <title>DEAC-Hackers szakmai skiccek</title>
-                <para>
-                </para> 
-
-            </section>            
-            <section>
-                <title>DEAC-Hackers eszközök</title>
-                <para>
-                </para> 
-
-            </section>
-        </chapter>                
-    </part>         
+        </xi:fallback>
+    </xi:include>                                                                                                                                                                                                                                                                               
                                                                                                                                                                                                                                                                                                                                     
     <xi:include href="napsugar-bib.xml">
         <xi:fallback>
