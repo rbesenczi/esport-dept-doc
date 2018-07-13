@@ -394,4 +394,20 @@
             Javítások.
         </revremark>
     </revision>
+    <revision>
+        <revnumber>0.2.11</revnumber>
+        <date>2018-07-13</date>
+        <authorinitials>nbatfai</authorinitials>
+        <revremark>
+            Papp Dávid véleménye beillesztése.
+        </revremark>
+    </revision>
+    <revision>
+        <revnumber>0.2.12</revnumber>
+        <date>2018-07-13</date>
+        <authorinitials>nbatfai</authorinitials>
+        <revremark>
+            Mellékletek egyeztetése, megnevezése (fájlnévvel).
+        </revremark>
+    </revision>
 </revhistory>
