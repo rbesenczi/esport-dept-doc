@@ -381,6 +381,14 @@
     <revision>
         <revnumber>0.2.9</revnumber>
         <date>2018-07-13</date>
+        <authorinitials>rbesenczi</authorinitials>
+        <revremark>
+            Javítások.
+        </revremark>
+    </revision>
+    <revision>
+        <revnumber>0.2.10</revnumber>
+        <date>2018-07-13</date>
         <authorinitials>nbatfai</authorinitials>
         <revremark>
             Javítások.
