@@ -93,7 +93,7 @@
                 trendeket, de csak elég lazán kapcsolódnak, így minőségileg új, akár az iparágat tematizáló
                 ötleteket tudnak bedobni. Legyünk őszinték: nem tudunk ilyenre
                 konkrét jövőbeli potenciális példát mondani! Ha tudnánk, akkor naná, hogy most is azon dolgoznánk. 
-                Csakis ennek az élmény alapjára próbáhatunk rávilágítani a következő gondolatmenettel. 
+                Csakis ennek az élmény alapjára próbálhatunk rávilágítani a következő gondolatmenettel. 
                 A nyílt forráskód mozgalomra alapozva ma úgy tekinthetünk a szoftver világára, mint a 70-es években a 
                 mérnökök a hardverre, ahol akár hobby tevékenységekből is jövőformáló tendenciák alakultak ki, ez a kor volt 
                 a PC kialakulásának kora. Mi lehet a szoftverben a hasonló áttörés? Ki tudja. Ha egy magyar csapat 
@@ -103,7 +103,7 @@
             <para>
                 Második utópiánk egy saját, nyílt forráskódú esport cím, egy saját esport játék kifejlesztése. 
                 Ez annyiban konkrétabb az elsőnél, hogy
-                legalább megfogalmazható a cél. Ám mint olyan, annek az alkalmazásunknak triviálisan killer alkalmazásnak kell lennie,
+                legalább megfogalmazható a cél. Ám mint olyan, ennek az alkalmazásunknak triviálisan killer alkalmazásnak kell lennie,
                 amelynek fejlesztése ugye nem elhatározás kérdése. Tehát a fókusz itt is a hit megadásán lehet.
             </para> 
             <para>
@@ -237,7 +237,7 @@
                         Ennek megfelelően a 
                         tagság középvezetőinek egy részét társszerzőként, másik részét véleményezőként kértük fel részvételre
                         ennek a dokumentumnak az 
-                        elkészítésében. Továbbá a készítés során a fejlődő dokukmentum egészét, illetve kiemelt részeit külön is 
+                        elkészítésében. Továbbá a készítés során a fejlődő dokumentum egészét, illetve kiemelt részeit külön is 
                         folyamatosan megosztjuk a DEAC-Hackers közösségi csatornáin, kérve és figyelve a tagság reagálását.
                     </para>                     
                     <para>                        
@@ -258,7 +258,7 @@
                         szintű szimbiózisát, amelyet mi itt tervezünk.
                     </para> 
                     <para>
-                        Ezt kezelendő a kialakítandó létesítmény alábbi irányokba történő pozícionálását érdemes kiemelni.
+                        Ezt kezelendő a kialakítandó létesítmény alábbi irányokba történő pozicionálását érdemes kiemelni.
                         <itemizedlist>
                             <listitem>
                                 <para>
@@ -302,7 +302,7 @@
                     <para>
                         A hagyományos sport is sokszínűen fogadja az esportot. Itt árnyalja a képet, hogy társadalmi beágyazottságnál
                         említett kockázatot anyagi érdekek perturbálják, melyek most éppen az esport elfogadása felé billentik a mérleg nyelvét. 
-                        Hiszen az esportnak a fiatal korosztályokban nővekszik a népszerűsége, amíg talán a klasszikus sportoknak csökken. 
+                        Hiszen az esportnak a fiatal korosztályokban növekszik a népszerűsége, amíg talán a klasszikus sportoknak csökken. 
                         Ebben a jelenségben az oksági kapcsolatokkal kapcsolatos
                         kérdések tudományos kérdésként tárgyalhatóak (ahol még az is kiderülhet, hogy szimpla történeti együttállásról van szó). 
                         Az esport szempontjából itt is 
@@ -400,7 +400,7 @@
                     Nyílt forráskódú és nyílt adatok (linked open data?) elkötelezettség, a DEAC-Hackers tagok 
                     játékokbeli tevékenységéről mi tehető közzé? Mit engednek e
                     tekintetben a játék API-k, mit a GDPR? Milyen licencelési javaslatok vannak a fejlesztendő létesítményben
-                    fejlesztett projektek tekintetében? Adott esetekben mi támogathatja au egyetemi spinoff vagy kívülről jövő 
+                    fejlesztett projektek tekintetében? Adott esetekben mi támogathatja az egyetemi spinoff vagy kívülről jövő 
                     startup tevékenységet? Jeszenszky Péter.
                 </para> 
             </section>            
