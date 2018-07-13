@@ -362,4 +362,12 @@
             Javítások elkezd (aspell).
         </revremark>
     </revision>
+    <revision>
+        <revnumber>0.2.6</revnumber>
+        <date>2018-07-13</date>
+        <authorinitials>nbatfai</authorinitials>
+        <revremark>
+            Javítások.
+        </revremark>
+    </revision>
 </revhistory>
