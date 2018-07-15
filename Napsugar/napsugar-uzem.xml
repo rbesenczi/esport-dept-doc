@@ -71,7 +71,7 @@
                         A alábbiak szerint javasoljuk a kamerák elhelyezését: tantermek 2-2 db, iroda 1 db, streamer terem 2 db, konzol setup 2 db, gamer setup 3 db, egyéb lefedetlen terület 3 db.
                     </para>
                     <para>
-                        Ezen felül szükséges egy NVR rendszer, amellyel minimum 48 órát tudunk rögzíteni.
+                        Ezenfelül szükséges egy NVR rendszer, amellyel minimum 48 órát tudunk rögzíteni.
                     </para>
                 </section>               
             </section>
@@ -130,19 +130,29 @@
             <section>
                 <title>Szükséges szoftver</title>
                 <para>
-                    Szoftverek tekintetében érdemes az ingyenes és mások által is széles körben használt megoldásokat választani.
+                    Szoftverek tekintetében érdemes az ingyenes (lehetőleg nyílt forrású) 
+                    és mások által is széles körben használt megoldásokat választani.
                 </para>
                 <para>
-                    A videó streameléséhez használt szoftvernek mindenképp az <link xlink:href="https://obsproject.com/">Open Broadcaster Software</link>-t javaslom, az egyes jeleneteket könnyű benne összerakni, a beállítások egyszerűek és egyértelműek.
+                    A videó streameléséhez használt szoftvernek mindenképp 
+                    az <link xlink:href="https://obsproject.com/">Open Broadcaster Software</link> a javaslot, 
+                    az egyes jeleneteket könnyű benne összerakni, a beállítások egyszerűek és egyértelműek.
                 </para>
                 <para>
-                    A stream interaktívabbá tételéhez a <link xlink:href="https://streamlabs.com/">Streamlabs</link> nevű app egy remek választás. Ennek segítségével megjeleníthetjük a streamen az új követőket, feliratkozókat, létrehozhatunk egyéni célokat (például 1000 követő elérése, amit egy töltősáv jelez, hogy épp mennyinél tartunk), elhelyezhetjük a közvetítés chatjét is a videón, stb. Ezek mellett statisztikai adatokat is nyújt, például hány új követőt szereztünk egy közvetítés során, 10-15 percekre lebontva visszanézhetjük a nézőszámot, stb.
+                    A stream interaktívabbá tételéhez a <link xlink:href="https://streamlabs.com/">Streamlabs</link> nevű 
+                    app egy remek választás. Ennek segítségével megjeleníthetjük a streamen az új követőket, 
+                    feliratkozókat, létrehozhatunk egyéni célokat (például 1000 követő elérése, 
+                    amit egy töltősáv jelez, hogy épp mennyinél tartunk), elhelyezhetjük a közvetítés chatjét is a videón, stb. 
+                    Ezek mellett statisztikai adatokat is nyújt, például hány új követőt szereztünk egy közvetítés során,
+                    10-15 percekre lebontva visszanézhetjük a nézőszámot, stb.
                 </para>
                 <para>
-                    Fontos megemlíteni, hogy az előbb említett két szoftver elérhető egy asztali alkalmazáson belülről is, Streamlabs OBS néven (ez a Streamlabs oldaláról tölthető le), ami még könnyebbé teheti a munkánkat.
+                    Fontos megemlíteni, hogy az előbb említett két szoftver elérhető egy asztali alkalmazáson belülről is, 
+                    Streamlabs OBS néven (ez a Streamlabs oldaláról tölthető le), ami még könnyebbé teheti a munkánkat.
                 </para>
                 <para>
-                    Érdemes lehet továbbá egy chatbot alkalmazása is, én személy szerint a Nightbot-ot tudnám javasolni. Ennek használatával egy botot csatlakoztatunk fel moderátori szereppel ellátva a közvetítésünk chatjére, ami különböző tevékenységeket láthat el. Pár lehetőséget említve: bizonyos időközönként magától ír üzeneteket a chatre, ami jól jöhet például a közösségi médiás oldalaink (Facebook, Twitter, Youtube, stb.) reklámozására, spam elleni védelmet nyújthat (adhatunk hozzá saját tiltott szavakat, linkeket), eltárolja az összes chat üzenetet, amit később vissza is olvashatunk, de akár nyereményjátékok lebonyolítására is lehet használni.
+                    Érdemes lehet továbbá egy chatbot alkalmazása is, a Nightbot a javasolt. 
+                    Ennek használatával egy botot csatlakoztatunk fel moderátori szereppel ellátva a közvetítésünk chatjére, ami különböző tevékenységeket láthat el. Pár lehetőséget említve: bizonyos időközönként magától ír üzeneteket a chatre, ami jól jöhet például a közösségi médiás oldalaink (Facebook, Twitter, Youtube, stb.) reklámozására, spam elleni védelmet nyújthat (adhatunk hozzá saját tiltott szavakat, linkeket), eltárolja az összes chat üzenetet, amit később vissza is olvashatunk, de akár nyereményjátékok lebonyolítására is lehet használni.
                 </para>
             </section>
             <section>
@@ -189,8 +199,8 @@
                 <para>
                     A LoL verseny során a jelentkezési korhatár 16 év. Várunk minden érdeklődő csapatot a versenyre, 
                     csapat létszáma 5 plusz 1. 
-                    A mérközések tournament mode-ban mennének és a párharcok bo3 verseny keretek közt zajlana. 
-                    Single elimination tournament. A döntő bo5. A verseny során felváltva lennének elolsztva ki 
+                    A mérközések tournament mode-ban mennének és a párharcok bo3 verseny keretek közt zajlanának. 
+                    Single elimination tournament. A döntő bo5. A verseny során felváltva lennének elolsztva, hogy ki 
                     van piros és kék oldalt az Idézők Szurdokában. Placeholder a hősválasztásnál nem engedélyezett. 
                     Minden játékos alőzetesen leadott felhasználójával versenyez. Jelentkezés verseny előtti nap éjfél.
                 </para>
@@ -198,7 +208,7 @@
             <section>
                 <title>Clash of Clans</title>
                 <para>
-                    A korábban a DE-n szervezett UD Clash Meetup nevű versenyre épülve, azt továbbgondolva verseny kialakítása. A korábbi verseny játékmenete: a Meetupon résztvevő klántagok csak nagykorúak lehetnek. A nevezett klánnak kell, hogy legyen legalább egy tagja, aki a Debreceni Egyetem polgára (hallgató vagy dolgozó). E tagnak a személyes jelenléte kötelező az eseményen, valamint jogosult kell, hogy legyen Friendly War-t indítani. A többi klántag jelenléte opcionális. Egy-egy Friendly Challange-re a felkészülési idő 15 perc, maga a challenge 30 perc. Sem belépődíj, sem díjazás nincs, csak az élményért játszunk. Ezen felül minden kedves nagykorú érdeklődőt, nézőt szeretettel várunk.
+                    A korábban a DE-n szervezett UD Clash Meetup nevű versenyre épülve, azt továbbgondolva verseny kialakítása. A korábbi verseny játékmenete: a Meetupon résztvevő klántagok csak nagykorúak lehetnek. A nevezett klánnak kell, hogy legyen legalább egy tagja, aki a Debreceni Egyetem polgára (hallgató vagy dolgozó). E tagnak a személyes jelenléte kötelező az eseményen, valamint jogosult kell, hogy legyen Friendly War-t indítani. A többi klántag jelenléte opcionális. Egy-egy Friendly Challange-re a felkészülési idő 15 perc, maga a challenge 30 perc. Sem belépődíj, sem díjazás nincs, csak az élményért játszunk. Ezenfelül minden kedves nagykorú érdeklődőt, nézőt szeretettel várunk.
                 </para>
             </section>
             <section>
@@ -234,7 +244,7 @@
             <section>
                 <title>FIFA</title>
                 <para>
-                    A versenyre részvételéhez nem szabunk meg alsó korhatárt. A jelentkezők számától függően csoportkörös vagy oda-vissza vágós formátumban fog zajlani a verseny, a FIFA 18-ban lévő csapatok közül egyet kell választania az adott játékosnak, a csapatot később nem változtathatja meg. A játékosok kiválaszthatják jelentkezéskor, hogy Xbox-on vagy Playstation-on szeretnének versenyezni. Kontrollert tudunk biztosítani, de aki sajátot szeretne hozni, az természetesen megteheti. Nevezési díj nincs, ahogyan nyeremény sem, csak az egymás elleni játék élvezete. 
+                    A versenyen való részvételre nem szabunk meg alsó korhatárt. A jelentkezők számától függően csoportkörös vagy oda-vissza vágós formátumban fog zajlani a verseny, a FIFA 18-ban lévő csapatok közül egyet kell választania az adott játékosnak, a csapatot később nem változtathatja meg. A játékosok kiválaszthatják jelentkezéskor, hogy Xbox-on vagy Playstation-on szeretnének versenyezni. Kontrollert tudunk biztosítani, de aki sajátot szeretne hozni, az természetesen megteheti. Nevezési díj nincs, ahogyan nyeremény sem, csak az egymás elleni játék élvezete. 
                 </para>
             </section>                                    
         </section>        
@@ -329,7 +339,7 @@
                 </para>
                 <para>
                     Az Arató teremben az aktuális szemeszter prog1 kurzusának és robotpszichológia laborjainak közös csapata
-                    dolgozik a beadandóján, nagyon helyes. A Dragálin teremben a DEIK dékánja Ispány Márton és IT tanszékvezetője Besenczi 
+                    dolgozik a beadandóján, nagyon helyes. A Dragálin teremben Ispány Márton és az IT tanszék vezetője Besenczi 
                     Renátó tárgyal a Google és a Facebook mérnökeivel, hoppá itt van Mark Zuckerberg és Sergey Brin is, én
                     meg elkéstem. Mind1 már nem megyek be, amit akartam elértem. A három náluk hosztolt 
                     <link xlink:href="https://www.twitch.tv/videos/264741494">mesterséges homunkulusznak</link>
@@ -446,13 +456,41 @@
                 <section>
                     <title>Felnőttképzés</title>
                     <para>
-                        Ispány Márton.
+                        Jelen dokumentumban is több helyen említésre kerül az esportot alapvetően űző fiatal 
+                        generáció és szüleik kapcsolata, különösen fontos ez a még kiskorú tagokra, versenyzőkre. 
+                        Az esport itt akár kockázati tényezőként is megjelenhet, konfliktusokat generálhat. 
+                        Az intézmény segíthet abban, hogy a szülőket képezze, számukra segítséget adjon.
+                        Mire figyeljenek oda, hogyan tudják felismerni a veszélyeket, pl. kóros 
+                        függőség kialakulása, hogyan kezeljenek egy intenzíven versenyző gyereket 
+                        mint sportszülők. A probléma megléte esetén pedig, mentálhigiénés szakemberek bevonásával, 
+                        az intézmény foglalkozásokat is szervezhet terápiás céllal. Kutyaharapást szőrivel 
+                        mottó alatt, azaz sosem a teljes tiltás a szerencsés. Ennek kapcsán természetesen 
+                        interdiszciplináris kutatási kérdések is felmerülnek, hiszen a kóros játékszenvedély 
+                        egyre nagyobb probléma a modern társadalmakban, amelynek eredményes vizsgálatára a 
+                        DE széles kutatási spektruma lehet a garancia.                    
                     </para>
                 </section>
                 <section>
                     <title>65+ felettiek bevonása</title>
                     <para>
-                        Ispány Márton.
+                        Debrecen város Smart City stratégiája kiemelt területként kezeli a digitális írástudás 
+                        fejlesztésének és az IKT eszközök használata elterjesztésének kérdését. Ez a probléma 
+                        különösen aktuális az idősebb korosztálynál. Meggyőződésünk szerint a számukra kifejlesztett 
+                        esport eszközök jelentősen hozzá tudnának járulni az ilyen képességek fejlesztéséhez,
+                        karbantartásához. Nem utolsó sorban pedig hasznos és remélhetőleg érdekes szabadidős
+                        tevékenységet jelentene számukra, valamint közelebb hozná őket az unokáikhoz, így akár az
+                        esport a társadalmi kohézió növeléséhez és a generációs ellentétek oldásában is szerepet 
+                        játszhatna a közös játék révén. Ezen célok megvalósítására, jó gyakorlatok kidolgozására,
+                        feltehetően központi források is rendelkezésre fognak majd állni. Az intézmény dedikált
+                        időszakokban klubfoglalkozások szervezésével tudja majd ezeket a célokat támogatni.
+                        Egy másik jelentős alkalmazása az esportnak az időseknél a mentális problémák (pl.
+                        demencia) kezelése illetve az ilyen betegségeket orvosló műtétek utáni rehabilitáció 
+                        lehet. Köztudott, hogy a különféle szellemi erőpróbák, pl. keresztrejtvényfejtés,
+                        kártya és társasjátékok, olvasás, kifejezetten javalltak az időseknek a szellemi 
+                        frissesség megőrzésére. Az esport ilyen irányú alkalmazhatóságát még nem vizsgálták,
+                        ez szintén az intézmény által felkarolt kutatási téma lehetne. És természetesen 
+                        gondolni kell majd arra is, amikor a mostani fiatalok idősek lesznek, hiszen aki 
+                        megszokta az esportot az időskorában is feltehetően űzni akarja majd.                                         
                     </para>
                 </section>                    
             </section>

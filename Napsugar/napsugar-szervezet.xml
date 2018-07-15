@@ -18,6 +18,10 @@
                 Hasznosnak látjuk, hogy a DEIK szándéknyilatkozatban deklarálja, hogyan tudná támogatni 
                 a jelen dokumentum koncepcióját.
             </para> 
+            <para>
+                Támogassa a létesítmény működése során keletkező adatokkal, az adatvédelmi előírások 
+                figyelembe vételével, az adat-intenzív tárgyak oktatását és az ilyen jellegű kutatást.
+            </para> 
         </section>
             
         <section>
@@ -29,7 +33,7 @@
                 szervezet, azaz a DEAC sportegyesület esport szakosztálya, tehát nincs a DEIK irányítása alá rendelve.
             </para>  
             <para>
-                Az alapításkori és az első évet jellemző DEAC-Hackers alapértelmezett online tagsági osztálya
+                A DEAC-Hackers alapításkori és az első évet jellemző alapértelmezett online tagsági osztálya
                 a <indexterm>
                     <primary>0 forintos költségvetés</primary>
                 </indexterm> 0 forintos költségvetéshez történő igazodásra adott válasz volt, a fejlesztendő létesítmény
@@ -60,7 +64,8 @@
                 DEIK hallgatók számára biztosított kizárólagos privilégiumokban nyilvánul meg.
             </para> 
             <para>
-                További opcionális kiegészítés: Mihálydeák Tamás, Ispány Márton.
+                Megfontolandó, hogy a DEIK által delegált vezetőségi tag DEIK-beli pozícióhoz legyen kötve, 
+                pl. a létesítmény jellege miatt az Információ Technológia tanszék mindenkori vezetője legyen.                           
             </para> 
         </section>
         <section xml:id="napsugar-szervezet.privi">
@@ -71,7 +76,7 @@
                 kapcsolat szervezésének adminisztrációjához, hogy a 
                 fejlesztendő létesítmény automatikusan (szoftveresen) tudja őket kezelni. Ezt a kezelést nevezzük 
                 szemeszteri korlátnak, mely egyszerűen azt jelenti, hogy a projektnek az intézményi
-                támogatáshoz fel tudni mutatnia szemeszterenként 
+                támogatáshoz fel kell tudni mutatnia szemeszterenként 
                 100 új regisztrált felhasználót. Ennek megfelelően a projektek számára az első szűrő, hogy értelmezhetőnek
                 kell lennie rájuk egy közösségi felületnek.
             </para>
@@ -144,7 +149,7 @@
         <section>
             <title>Szponzoráció</title>
             <para>
-                Ha a szponzor a fejlesztendő létesítményt akarja támogatni, akkor ott hármas egyeztetés: a szponzor, a DEIK és a DEAC-Hackers (DEAC) szükséges, ha csak a DEAC-Hackerst, akkor a szponzor és a DEAC-Hackers (DEAC).
+                Ha a szponzor a fejlesztendő létesítményt akarja támogatni, akkor ott hármas egyeztetés szükséges a szponzor, a DEIK és a DEAC-Hackers (DEAC) között, ha csak a DEAC-Hackerst, akkor csak a szponzor és a DEAC-Hackers (DEAC) között szükséges egyeztetés.
                 Az egyetértés esetleges hiányában a DEAC-é a döntő szó.
             </para> 
         </section>

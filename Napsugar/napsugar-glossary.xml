@@ -384,7 +384,7 @@
                         <primary>DeepMind</primary>
                         <secondary>Tensorflow</secondary> 
                     </indexterm>                    
-                    A Google heterogén (multinyelves: például Python, C++, multiplatformos: például CPU, GPU, TPU, And, iOS), nyílt forráskódú gépi tanulási 
+                    A Google heterogén &#8211; multinyelves (például Python, C++) és multiplatformos (például CPU, GPU, TPU, And, iOS) &#8211;, nyílt forráskódú gépi tanulási 
                     <link xlink:href="https://www.tensorflow.org/">https://www.tensorflow.org/</link> megoldása.
                 </para>
                 <glossseealso otherterm="deepmind">DeepMind</glossseealso>                 

@@ -118,7 +118,18 @@
                 Az elsőben kérdések kellenek, a másodikban válaszok, a harmadikban meg mindenkit le kell győzni.
             </para>             
             <para>
-                További opcionális kiegészítés: mesterséges intelligencia és informatikai trendekbe illesztés, Ispány Márton.
+                Napjaink tudományos kutatásait, nem csak az informatikát értve ez alatt, hanem sok minden mást is 
+                (élettudományok, atomfizika, csillagászat, szociológia stb.) három fontos jellemző határozza meg: 
+                nagy tömegű adat (big data), jelentős számítási kapacitás megléte, alkalmazása (HPC) és szofisztikált 
+                algoritmusok (pl. mélytanulás) használata. Jelentős verseny van a kutatóintézetek és egyetemek között 
+                az eredmények elhelyezésében, hiszen ez az egyik fontos tényező a rangsorok kialakításában. 
+                Az eredmények elhelyezésében jelentős szempont, hogy mennyire kezdeményező vagy influencer az 
+                adott kutatás, hiszen ezekre jön azután a legtöbb hivatkozás. Ehhez elengedhetetlen egy háttér 
+                adatállomány megléte, amely, publikussá téve, szolgálja a tudományos közösséget. Korábbi kutatásaink 
+                (pl. közlekedés analitika és szimuláció) során rendszeresen szembesültünk azzal, hogy vagy csak
+                másodkézből vagy pedig egyáltalán nem állt rendelkezésünkre megfelelő adatállomány. A kialakítandó 
+                intézmény egy alaposan megtervezett adatgyűjtéssel az esport kutatások egy referencia adatbázisát 
+                és később kozpontját szolgáltathatná.                
             </para> 
         </section>
         <section>
