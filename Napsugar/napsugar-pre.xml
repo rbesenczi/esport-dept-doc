@@ -70,16 +70,16 @@
     </section>
     <section>
         <title>Háttér, szervezés és licencelés</title>
-        <para>            
-            Kockázatelemzés és kezelés a beágyazottság tekintetében részben majd részletesen kifejtve, itt csak a dokumentum 
-            licencelését kell tárgyalni.
-            A DEAC-Hackers alapításakor, a NEMESPOR kutatói közösségben is megvitatott 
-            duál licencelés (GNU FDL és CC BY 4.0) a javasolt követendő, hogy egyrészt a nyíltság,  
-            az érdeklődők bevonása megalapozza
-            a széles társadalmi beágyazottságot, illetve jó gyakorlatként szerepelhessünk más intézményeknek, 
-            másrészt azt is biztosítani kell, hogy a jelen dokumentum egy esetleges bizalmas kiegészítése
-            zárt licenccel is legyen ellátható: Jeszenszky Péter.
-        </para> 
+        <para>
+            A DEAC-Hackers alapításakor és a NEMESPOR kutatói közösségben is megvitatásra került, hogy a dokumentumok felhasználási feltételeinek tekintetében milyen megoldást javasoljunk követendőként és alkalmazzunk magunk is. Választásunk a <link xlink:href="https://www.gnu.org/licenses/fdl.html">GNU Free Documentation License (GNU FDL)</link> és a <link xlink:href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License (CC BY)</link> használatára esett, ahol a két licenc közül igény szerint bármelyik választható (kettős licencelés).</para>
+        <para>
+A GNU FDL révén biztosítható a nyíltság, mely megalapozza a széles társadalmi beágyazottságot. Ez egy úgynevezett <foreignphrase>copyleft</foreignphrase> licenc, mely azt jelenti, hogy a hatálya alatt terjesztett alkotások felhasználásával létrehozott származtatott alkotások terjesztésére is a licencnek megfelelően kell, hogy történjen. Ilyen módon elidegeníthetetlen köztulajdon hozható létre.</para>
+        <para>
+A CC BY lehetővé teszi a hatálya alatt terjesztett dokumentum tetszőleges módú és célú felhasználását, ehhez mindössze hivatkozást követel meg az eredeti dokumentumra. A licenc használata megengedi a felhasznált dokumentum <quote>bezárását</quote>, mely szükséges lehet például akkor, ha a dokumentumot bizalmas információkat tartalmazó részekkel kell kiegészíteni.
+        </para>
+        <para>
+A fentiek révén licencelés tekintetében is egy jó gyakorlatot nyújtunk más intézményeknek.
+        </para>
         <section xml:id="napsugar-pre.velemenyek">
             <title>A véleményezők meglátásai</title>
             <para>
