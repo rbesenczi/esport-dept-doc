@@ -455,4 +455,13 @@
             Dr. habil. Ispány Márton korrektúrájának átvezetése, az átlata írt részek beilesztése, társszerzőként felvétele.
         </revremark>
     </revision>
+    <revision>
+        <revnumber>0.2.17</revnumber>
+        <date>2018-07-15</date>
+        <authorinitials>nbatfai</authorinitials>
+        <revremark>
+            Javítások, iterációra szétküldve, legenerált pdf és a mellékletekből összeállított csomag elérhetősége: 
+            <link xlink:href="http://smartcity.inf.unideb.hu/~norbi/HaxorTemplom/">http://smartcity.inf.unideb.hu/~norbi/HaxorTemplom/</link>.
+        </revremark>
+    </revision>
 </revhistory>
