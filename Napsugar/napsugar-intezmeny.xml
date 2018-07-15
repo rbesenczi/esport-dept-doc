@@ -53,7 +53,7 @@
                         Online versenyszervezéshez bárkinek van joga, ezt igazából a Riot Games Inc. számára kell bejelenteni. Online versenyekkel sok oldal foglalkozik világszerte, talán a leghíresebb az ESL, ahol mindennap van verseny több formátumban is. A nyeremények online versenyeken általában játékon belüli elkölthető valuta (Riot Point) és esetleg egy kis minimális pénzjutalom pár Euró nagyságrendben.
                     </para>
                     <para>
-                        Offline versenyszervezéshez a játék fejlesztője kiadott egy iránymutatást, hogy mely feltételeknek kell megfelelni, ez <link xlink:href="https://support.riotgames.com/hc/hu/sections/115002164648">itt</link>  olvasható. Itt külön említendő a versenybírók használata is, melyről ugyanúgy van szabályrendszer. Ezt általában önkéntesek is elvégezhetik. A számítógépekkel szemben támasztott követelmény, hogy a 10 számítógépnek ugyanolyan konfigurációval és ugyanolyan internetkapcsolattal kell rendelkeznie, és ugyanazon helységben kell tartózkodnia minden személynek. További kritérium a számítógépekkel szemben, hogy a játéknak minimum 60 FPS-sel kell futnia. Offline versenyeken a díjazás sokkal nagyobb szokott lenni, itt pénz és/vagy tárgynyeremények a szokásosak.
+                        Offline versenyszervezéshez a játék fejlesztője kiadott egy iránymutatást, hogy mely feltételeknek kell megfelelni, ez <link xlink:href="https://support.riotgames.com/hc/hu/sections/115002164648">itt</link>  olvasható. Itt külön említendő a versenybírók használata is, melyről ugyanúgy van szabályrendszer. Ezt általában önkéntesek is elvégezhetik. A számítógépekkel szemben támasztott követelmény, hogy a 10 számítógépnek ugyanolyan konfigurációval és ugyanolyan internetkapcsolattal kell rendelkeznie, és ugyanazon helyiségben kell tartózkodnia minden személynek. További kritérium a számítógépekkel szemben, hogy a játéknak minimum 60 FPS-sel kell futnia. Offline versenyeken a díjazás sokkal nagyobb szokott lenni, itt pénz és/vagy tárgynyeremények a szokásosak.
                     </para>
                 </section>
 
@@ -195,7 +195,7 @@
                 </para> 
             </section>
                 
-            <section>
+            <section xml:id="napsugar-intezmeny.halozat">
                 <title>Hálózati architektúra</title>
                 <para>
                     A terem jellegét és céljait tekintve az infókommunikációs hálózat megfelelő megtervezése és jó működtetése kiemelt fontosságú. Ebben a fejezetben azokat az igényeket ismertetjük, melyek szükségesek ehhez.

@@ -59,7 +59,7 @@
                         A belső ajtókat egyszerű NFC kártyaolvasókkal javasoljuk felszerelni.
                     </para>
                     <para>
-                        Természetesen a terem minden termére tudunk többszintű azonosítást is. Minden szükséges adminisztráció elvégezhető az edzőterem irodájából, ezért olyan eszközöket szükséges beszerezni, mely egyszerre, egy infrastruktúraként menedzselhető (a mellékletben javasolt ilyen). 
+                        Természetesen a fejlesztendő létesítmény minden termére külön-külön is meg tudunk adni többszintű azonosítást. Minden szükséges adminisztráció elvégezhető az edzőterem irodájából, ezért olyan eszközöket szükséges beszerezni, mely egyszerre, egy infrastruktúraként menedzselhető (a mellékletben javasolt ilyen). 
                     </para>
                 </section>
                 <section>
@@ -171,7 +171,7 @@
                     Bizonyos számok elérése után lehetőség lesz arra, hogy a csatorna előlépjen Twitch érdekeltté vagy Twitch partnerré, melyek segítségével pénzt is lehet szerezni, illetve ezektől függetlenül is lehet donációkat elfogadni (erre például a Streamlabs nyújt lehetőséget). Ennek megvitatása azonban a felsőbb vezetőség dolga, hogy a szakosztály ilyen formában szeretne-e pénzt keresni.
                 </para>
                 <para>
-                    A stabil és erős internetkapcsolat megléte lehetővé teszi, hogy minőségi adást tudjunk közvetíteni, erről a Hálózati architektúra című fejezetben olvashatunk bővebben. Az egyes felbontásokhoz szükséges bitrátákról <link xlink:href="https://stream.twitch.tv/encoding/">itt</link> olvashatunk egy ajánlást a Twitch részéről, ezek közül a legerősebbet is gond nélkül megengedhetjük magunknak.
+                    A stabil és erős internetkapcsolat megléte lehetővé teszi, hogy minőségi adást tudjunk közvetíteni, erről a <link xlink:href="#napsugar-intezmeny.halozat">Hálózati architektúra</link> című fejezetben olvashatunk bővebben. Az egyes felbontásokhoz szükséges bitrátákról <link xlink:href="https://stream.twitch.tv/encoding/">itt</link> olvashatunk egy ajánlást a Twitch részéről, ezek közül a legerősebbet is gond nélkül megengedhetjük magunknak.
                 </para>
             </section>
         </section>            

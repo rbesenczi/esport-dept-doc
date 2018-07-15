@@ -102,7 +102,7 @@
             </itemizedlist>               
             <para>                        
                 A további részletek tekintetében lásd a 
-                <link xlink:href="napsugar-uzem.Sw-muhely">Szoftver műhely koncepció</link> pontot.
+                <link xlink:href="#napsugar-uzem.Sw-muhely">Szoftver műhely koncepció</link> pontot.
             </para>                
         </section>                        
         <section>
@@ -110,15 +110,15 @@
             <para>
                 A fejlesztendő létesímény tantermeit a DEIK természetes módon tudja reguláris oktatási célokra használni, 
                 például laborgyakorlatok tartása tekintetében lásd az 
-                <link xlink:href="napsugar-intezmeny-esport-kurzus">Esport kurzus</link> és a 
-                <link xlink:href="napsugar-intezmeny-gepit-kurzus">Gépi tanulás a gyakorlatban kurzus</link> című 
+                <link xlink:href="#napsugar-intezmeny-esport-kurzus">Esport kurzus</link> és a 
+                <link xlink:href="#napsugar-intezmeny-gepit-kurzus">Gépi tanulás a gyakorlatban kurzus</link> című 
                 pontokat.
             </para>
             <para>
                 Nem kizárólagos módon (tehát a DEAC-Hackers-el közösen, koordinált módon) használhatják a fejlesztendő létesítmény streamer 
                 infrastruktúráját oktatási munkájuk innovatívabbá tételéhez.
                 Részletek tekintetében lásd a 
-                <link xlink:href="napsugar-intezmeny.streamer-tanar">Streamer tanár</link> pontot.   
+                <link xlink:href="#napsugar-intezmeny.streamer-tanar">Streamer tanár</link> pontot.   
             </para>
         </section>
         
