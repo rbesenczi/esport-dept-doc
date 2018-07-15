@@ -18,6 +18,10 @@
                 Hasznosnak látjuk, hogy a DEIK szándéknyilatkozatban deklarálja, hogyan tudná támogatni 
                 a jelen dokumentum koncepcióját.
             </para> 
+            <para>
+                Támogassa a létesítmény működése során keletkező adatokkal, az adatvédelmi előírások 
+                figyelembe vételével, az adat-intenzív tárgyak oktatását és az ilyen jellegű kutatást.
+            </para> 
         </section>
             
         <section>
@@ -60,7 +64,8 @@
                 DEIK hallgatók számára biztosított kizárólagos privilégiumokban nyilvánul meg.
             </para> 
             <para>
-                További opcionális kiegészítés: Mihálydeák Tamás, Ispány Márton.
+                Megfontolandó, hogy a DEIK által delegált vezetőségi tag DEIK-beli pozícióhoz legyen kötve, 
+                pl. a létesítmény jellege miatt az Információ Technológia tanszék mindenkori vezetője legyen.                           
             </para> 
         </section>
         <section xml:id="napsugar-szervezet.privi">
@@ -71,7 +76,7 @@
                 kapcsolat szervezésének adminisztrációjához, hogy a 
                 fejlesztendő létesítmény automatikusan (szoftveresen) tudja őket kezelni. Ezt a kezelést nevezzük 
                 szemeszteri korlátnak, mely egyszerűen azt jelenti, hogy a projektnek az intézményi
-                támogatáshoz fel tudni mutatnia szemeszterenként 
+                támogatáshoz fel kell tudni mutatnia szemeszterenként 
                 100 új regisztrált felhasználót. Ennek megfelelően a projektek számára az első szűrő, hogy értelmezhetőnek
                 kell lennie rájuk egy közösségi felületnek.
             </para>

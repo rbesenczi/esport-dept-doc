@@ -89,14 +89,15 @@
                         A Clash of Clans játék egy mobiltelefonon/tableten játszható játék, de esport szempontból a tablet a kívánatos a nagyobb méret miatt. Az edzőterem kialakításánál figyelembe kell venni, hogy a versenyek lebonyolítása általában 5v5 rendszerben zajlik (tehát 10 játékos játszik egymás ellen). Egy ilyen versenyre láthatunk példát, amely a gyártó cég szervezésében zajlott: <link xlink:href="https://www.youtube.com/watch?v=0s23S2-24gk">itt</link>. Jelenleg még nincs tudomásunk arról, hogy bármely játékplatform támogatná Clash of Clans versenyek lebonyolítását, ezért a teljes versenyt nekünk kell adminisztrálni és vezényelni. Erre a DEAC-Hackers korábban kidolgozott egy működő versenyszabályzatot, melyet UD Clash Meetup néven tesztelt is. Ezt a versenyszabályzatot javasoljuk alkalmazni a továbbiakban is.
                     </para>
                     <para>
-                        A játék eszköz tekintve nem igényel semmi speciálisat, egy átlagos tablet teljesen jól használható. Egy ilyen tabletet javasoltunk a Gaming eszközök fejezetben. Hálózati kommunikáció szükséges a játékhoz, melyet WiFi-n keresztül szükséges biztosítani. 
+                        A játék eszközt tekintve nem igényel semmi speciálisat, egy átlagos tablet teljesen jól használható. Egy ilyen tabletet javasoltunk a Gaming eszközök fejezetben. Hálózati kommunikáció szükséges a játékhoz, melyet WiFi-n keresztül szükséges biztosítani. 
                     </para>
                 </section>
             
                 <section>
                     <title>Clash Royale</title>
                     <para>
-                        Offline Clash Royale versenyekhez mindenképp szükséges megfelelő WiFi kapcsolat biztosítása, (sávszélesség, userek száma). A tervezett infrastruktúra 2 db ipari WiFi hozzáférési pontot tartalmaz egyenként 1733 Mbit/sec elvi sávszélességgel 500 felhasználó számára. Terveink szerint a hálózat olyan szinten lesz paraméterezhető, hogy akár a sávszélesség is balanszolható, ez egyébként igényként is megjelenik. Például ha egy Clash Royale verseny van a teremben, akkor a terem számára rendelkezésre álló sávszélesség egy jelentős hányadát, mondjuk 750 Mbit/sec-et a WiFi hozzáférési pontoknak le tudunk majd foglalni, vagy a QoS-t állítani, stb. Tehát hiába streamel közben valaki, vagy megy a tanteremben egy tanóra, nem fog bezavarni.
+                        Offline Clash Royale versenyekhez mindenképp szükséges megfelelő WiFi kapcsolat biztosítása, (sávszélesség, userek száma). A tervezett infrastruktúra 2 db ipari WiFi hozzáférési pontot tartalmaz egyenként 1733 Mbit/sec elvi sávszélességgel 500 felhasználó számára. Terveink szerint a hálózat olyan szinten lesz paraméterezhető, hogy akár a sávszélesség is balanszolható, ez egyébként igényként is megjelenik. Például ha egy Clash Royale verseny van a teremben, akkor a terem számára rendelkezésre álló sávszélesség egy jelentős hányadát, mondjuk 750 Mbit/sec-et a WiFi hozzáférési pontoknak 
+                        le kell tudnunk majd foglalni, vagy a QoS-t állítani, stb. Tehát hiába streamel közben valaki, vagy megy a tanteremben egy tanóra, nem fog bezavarni.
                     </para>
                     <para>
                         Mivel mobilos játékról beszélünk így célszerű, hogy a versenyzők saját eszközt használjanak. Alapvetően a saját eszközökkel nincs gond, mindenki hozza a sajátját. Viszont tervezünk beszerezni, elsősorban az utánpótláskorú játékosok számára.
@@ -365,6 +366,18 @@
                 </section>
                 <section xml:id="napsugar-intezmeny-gepit-kurzus">
                     <title>Gépi tanulás a gyakorlatban kurzus</title>
+                    <para>
+                        Ez a kurzus az akkreditált képzés BSc tárgya, tárgyfelelőse Ispány Márton.
+                    </para> 
+                </section>
+                <section>
+                    <title>Adatbányászat</title>
+                    <para>
+                        Ez a kurzus az akkreditált képzés MSc tárgya, tárgyfelelőse Ispány Márton.
+                    </para> 
+                </section>
+                <section>
+                    <title>Szöveg és web-bányászat</title>
                     <para>
                         Ez a kurzus az akkreditált képzés MSc tárgya, tárgyfelelőse Ispány Márton.
                     </para> 

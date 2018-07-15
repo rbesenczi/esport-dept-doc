@@ -183,4 +183,32 @@
         </affiliation>
     </author>
 
+    <author>
+        <personname>
+            <honorific>Dr.</honorific>
+            <surname>Jeszenszky</surname>
+            <firstname>Péter</firstname>        
+        </personname>    
+        <affiliation>
+            <shortaffil>E. adjunktus, DE.</shortaffil>
+            <jobtitle>Egyetemi adjunktus</jobtitle>
+            <orgname>Debreceni Egyetem</orgname>
+            <orgdiv>Információtechnológiai Tanszék</orgdiv>
+        </affiliation>
+    </author>
+
+    <author>
+        <personname>
+            <honorific>Dr. habil.</honorific>
+            <surname>Ispány</surname>
+            <firstname>Márton</firstname>        
+        </personname>    
+        <affiliation>
+            <shortaffil>E. docens, DE.</shortaffil>
+            <jobtitle>Egyetemi docens</jobtitle>
+            <orgname>Debreceni Egyetem</orgname>
+            <orgdiv>Információtechnológiai Tanszék</orgdiv>
+        </affiliation>
+    </author>
+
 </authorgroup>
